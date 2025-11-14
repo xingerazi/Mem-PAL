@@ -136,8 +136,8 @@ class LogGeneration(LLM_Sequential_Generation):
 if __name__ == '__main__':
     model_name = 'qwen2.5-max'
 
-    data_synthesis_root = '/data5/hzp/MemPAL/data_synthesis_v2/data'
-    prompt_template_root = '/data5/hzp/MemPAL/data_synthesis_v2/prompt_template'
+    data_synthesis_root = 'xxx/MemPAL/data_synthesis_v2/data'
+    prompt_template_root = 'xxx/MemPAL/data_synthesis_v2/prompt_template'
     background_data_dir = os.path.join(data_synthesis_root, 'background')
     background_file_path = os.path.join(background_data_dir, 'background.json')
     with open(background_file_path,'r', encoding='utf-8') as f:

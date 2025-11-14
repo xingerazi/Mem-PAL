@@ -12,7 +12,7 @@ import h5py
 from copy import copy, deepcopy
 
 import sys
-sys.path.append('/data5/hzp/MemPAL/perassist_framework/code')
+sys.path.append('xxx/MemPAL/perassist_framework/code')
 
 from llm_generation import LLM_Individual_Generation
 from dialogue_evaluation.user_assistant_dialogue import User_Assistant_Dialogue
@@ -21,7 +21,7 @@ from dialogue_evaluation.user_assistant_dialogue import User_Assistant_Dialogue
 class RequirementAnalysisGeneration(LLM_Individual_Generation):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
-        self.framework_root = '/data5/hzp/MemPAL/perassist_framework'
+        self.framework_root = 'xxx/MemPAL/perassist_framework'
 
 
     def get_prompt(self, sample_id):
@@ -480,7 +480,7 @@ if __name__ == '__main__':
     # ------------
     device='cuda:2'
     embedding_model_path = 'pretrained_models/paraphrase-multilingual-mpnet-base-v2'
-    framework_root = '/data5/hzp/MemPAL/perassist_framework'
+    framework_root = 'xxx/MemPAL/perassist_framework'
     data_dir = assistant_model
     save_dir = os.path.join(data_dir, 'memory_rag_v2', 'dialogue_interaction')
 

@@ -14,7 +14,7 @@ from tqdm import tqdm
 from copy import copy, deepcopy
 
 import sys
-sys.path.append('/data5/hzp/MemPAL/perassist_framework/code')
+sys.path.append('xxx/MemPAL/perassist_framework/code')
 
 from llm_generation import LLM_Sequential_Generation
 
@@ -22,9 +22,9 @@ from llm_generation import LLM_Sequential_Generation
 class Assistant_Evaluator(LLM_Sequential_Generation):
     def __init__(self, evaluate_aspect, test_method, baseline_method, k_mec, evaluation_id, start_user_id=None, end_user_id=None, *args, **kwargs):
         super().__init__(*args, **kwargs)
-        self.dataset_path = '/data5/hzp/MemPAL/data_synthesis_v2/data/input.json'
-        self.data_synthesis_root = '/data5/hzp/MemPAL/data_synthesis_v2'
-        self.framework_root = '/data5/hzp/MemPAL/perassist_framework'
+        self.dataset_path = 'xxx/MemPAL/data_synthesis_v2/data/input.json'
+        self.data_synthesis_root = 'xxx/MemPAL/data_synthesis_v2'
+        self.framework_root = 'xxx/MemPAL/perassist_framework'
         self.dialogue_evaluation_dir = os.path.join(self.framework_root, 'code', 'dialogue_evaluation')
         self.evaluate_aspect = evaluate_aspect
         self.test_method = test_method
@@ -222,7 +222,7 @@ if __name__ == '__main__':
     evaluate_aspect = "preference"
     k_mec = 3 # samples `k` scores for the multiple evidence calibration (and another `k` scores by swapping the position of the 2 responses)
 
-    data_root = '/data5/hzp/MemPAL/perassist_framework/data/qwen_max'
+    data_root = 'xxx/MemPAL/perassist_framework/data/qwen_max'
     test_method = { # 本次对比评价的结果会存在该方法对应的'data_dir'下
         'name': 'memory_rag_v2_situquery',
         'data_dir': os.path.join(data_root, 'memory_rag_v2/dialogue_interaction_situquery')

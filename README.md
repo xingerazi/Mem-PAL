@@ -21,6 +21,7 @@ The PAL-Set can be found in the `./data_synthesis_v2/data/input.json` file. The 
 
 In addition, each user's background, trait, and situations are also provided in the `./data_synthesis_v2/data` directory.
 
+The current version of the PAL-Set is in Chinese. We plan to create and release an additional English-translated version soon.
 
 ### Data Synthesis Pipeline
 
@@ -37,7 +38,7 @@ Examples and templates of prompts for each step can be found in the `./data_synt
 
 ## H<sup>2</sup>Memory Framework & Evaluation
 
-The codes for constructing the H<sup>2</sup>Memory and performing each task using that memory can be found in `./perassist_framework/code/memory_rag_v2/`, while the corresponding prompts can be found in `./perassist_framework/prompt_template/memory_rag_v2/`.
+The codes for constructing the H<sup>2</sup>Memory and performing each task using that memory on our PAL-Bench can be found in `./perassist_framework/code/memory_rag_v2/`, while the corresponding prompts can be found in `./perassist_framework/prompt_template/memory_rag_v2/`.
 
 ### H<sup>2</sup>Memory Framework
 
@@ -57,14 +58,13 @@ The codes for constructing the H<sup>2</sup>Memory and performing each task usin
 #### Solution Proposal
 
 Solution Generation:
-
 - code: `solution_qa_mamory_rag_v2.py`
 
 Solution Selection:
-
 - code: `solution_selection_mamory_rag_v2.py`
 
 #### Multi-turn Dialogue Interaction
 
 - code: `dialogue_interaction_memory_rag_v2.py`
 - The prompt of User-LLM and Evaluation-LLM of this task can be found in `./perassist_framework/code/dialogue_evaluation`
+

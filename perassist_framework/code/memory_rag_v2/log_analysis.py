@@ -16,7 +16,7 @@ import time
 import math
 
 import sys
-sys.path.append('/data5/hzp/MemPAL/perassist_framework/code')
+sys.path.append('xxx/MemPAL/perassist_framework/code')
 
 from llm_generation import LLM_Sequential_Generation
 
@@ -332,10 +332,10 @@ class SituationGeneration(LLM_Sequential_Generation):
 if __name__ == '__main__':
     model_name = 'qwen_max'
 
-    dataset_path = '/data5/hzp/MemPAL/data_synthesis_v2/data/input.json'
+    dataset_path = 'xxx/MemPAL/data_synthesis_v2/data/input.json'
     with open(dataset_path, 'r', encoding='utf-8') as f:
         dataset_dict = json.load(f)
-    framework_root = '/data5/hzp/MemPAL/perassist_framework'
+    framework_root = 'xxx/MemPAL/perassist_framework'
     data_dir = model_name
     prompt_dir = os.path.join(framework_root, 'prompt_template')
 

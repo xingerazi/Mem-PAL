@@ -16,9 +16,9 @@ class LLM_Proxy():
 
     def llm_request(self, system_prompt, user_prompt, model_name='qwen2.5-max'):
         if model_name == "gpt4":
-            return self.llm_request_gpt(system_prompt, user_prompt, model='gpt-4-0409')
+            return self.llm_request_gpt(system_prompt, user_prompt, model='gpt-4-turbo-2024-04-09')
         elif model_name == "gpt4o":
-            return self.llm_request_gpt(system_prompt, user_prompt, model='gpt-4o-0513')
+            return self.llm_request_gpt(system_prompt, user_prompt, model='gpt-4o-0806')
         elif model_name == "qwen_max":
             return self.llm_request_qwen(system_prompt, user_prompt, model='qwen_max')
         elif model_name == "qwen2.5-max":

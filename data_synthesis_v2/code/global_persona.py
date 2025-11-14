@@ -273,7 +273,7 @@ class PreferenceGeneration(LLM_Sequential_Generation):
 if __name__ == '__main__':
     model_name = 'qwen2.5-max'
 
-    data_synthesis_root = '/data5/hzp/MemPAL/data_synthesis_v2/data'
+    data_synthesis_root = 'xxx/MemPAL/data_synthesis_v2/data'
     background_data_dir = os.path.join(data_synthesis_root, 'background')
     background_file_path = os.path.join(background_data_dir, 'background.json')
     with open(background_file_path,'r', encoding='utf-8') as f:
@@ -281,7 +281,7 @@ if __name__ == '__main__':
 
 
     ### ----- Step 1: 时间线生成 -----
-    prompt_template_dir = '/data5/hzp/MemPAL/data_synthesis_v2/prompt_template/timeline'
+    prompt_template_dir = 'xxx/MemPAL/data_synthesis_v2/prompt_template/timeline'
     save_dir = os.path.join(data_synthesis_root, 'timeline')
     timeline_file_path = 'timeline.json'
     timeline_generator = TimelineGeneration(background_dict, prompt_template_dir, save_dir=save_dir, model_name=model_name)
@@ -297,7 +297,7 @@ if __name__ == '__main__':
 
 
     ### ----- Step 2: 总体需求生成 -----
-    prompt_template_dir = '/data5/hzp/MemPAL/data_synthesis_v2/prompt_template/requirement'
+    prompt_template_dir = 'xxx/MemPAL/data_synthesis_v2/prompt_template/requirement'
     timeline_data_dir = os.path.join(data_synthesis_root, 'timeline')
     timeline_file_path = os.path.join(timeline_data_dir, 'timeline.json')
     with open(timeline_file_path,'r', encoding='utf-8') as f:
@@ -317,7 +317,7 @@ if __name__ == '__main__':
 
 
     ### ----- Step 3: 总体偏好生成 -----
-    prompt_template_dir = '/data5/hzp/MemPAL/data_synthesis_v2/prompt_template/preference'
+    prompt_template_dir = 'xxx/MemPAL/data_synthesis_v2/prompt_template/preference'
     timeline_data_dir = os.path.join(data_synthesis_root, 'timeline')
     timeline_file_path = os.path.join(timeline_data_dir, 'timeline.json')
     with open(timeline_file_path,'r', encoding='utf-8') as f:

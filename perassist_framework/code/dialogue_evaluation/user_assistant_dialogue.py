@@ -9,7 +9,7 @@ from tqdm import tqdm
 from copy import copy, deepcopy
 
 import sys
-sys.path.append('/data5/hzp/MemPAL/perassist_framework/code')
+sys.path.append('xxx/MemPAL/perassist_framework/code')
 
 from llm_generation import LLM_Sequential_Generation, User_Assistant_Interaction_Generation
 
@@ -17,9 +17,9 @@ from llm_generation import LLM_Sequential_Generation, User_Assistant_Interaction
 class User_Assistant_Dialogue(User_Assistant_Interaction_Generation):
     def __init__(self, start_user_id=None, end_user_id=None, *args, **kwargs):
         super().__init__(*args, **kwargs)
-        self.dataset_path = '/data5/hzp/MemPAL/data_synthesis_v2/data/input.json'
-        self.data_synthesis_root = '/data5/hzp/MemPAL/data_synthesis_v2'
-        self.framework_root = '/data5/hzp/MemPAL/perassist_framework'
+        self.dataset_path = 'xxx/MemPAL/data_synthesis_v2/data/input.json'
+        self.data_synthesis_root = 'xxx/MemPAL/data_synthesis_v2'
+        self.framework_root = 'xxx/MemPAL/perassist_framework'
         self.model_dir_name = self.assistant_model_name
         self.dialogue_evaluation_dir = os.path.join(self.framework_root, 'code', 'dialogue_evaluation')
         dialogue_template_save_path = os.path.join(self.dialogue_evaluation_dir, 'dialogue_template.json')
@@ -350,7 +350,7 @@ if __name__ == '__main__':
     model_dir_name = 'gpt4o' if assistant_model == 'onechat_gpt4o' else assistant_model
 
 
-    framework_root = '/data5/hzp/MemPAL/perassist_framework'
+    framework_root = 'xxx/MemPAL/perassist_framework'
     data_dir = assistant_model
     vanilla_wolog_save_dir = os.path.join(data_dir, 'vanilla_wolog', 'dialogue_interaction')
 

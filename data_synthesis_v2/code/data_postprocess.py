@@ -9,7 +9,7 @@ from tqdm import tqdm
 from copy import copy, deepcopy
 from datetime import datetime
 
-data_dir = '/data5/hzp/MemPAL/data_synthesis_v2/data'
+data_dir = 'xxx/MemPAL/data_synthesis_v2/data'
 situation_file = os.path.join(data_dir, 'situation', 'situation.json')
 with open(situation_file, 'r', encoding='utf-8') as f:
     situation_dict = json.load(f)

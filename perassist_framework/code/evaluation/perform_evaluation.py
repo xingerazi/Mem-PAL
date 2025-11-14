@@ -8,7 +8,7 @@ from copy import copy, deepcopy
 from evaluation.metrics import calculate_single_bleu
 
 import sys
-sys.path.append('/data5/hzp/MemPAL/perassist_framework/code')
+sys.path.append('xxx/MemPAL/perassist_framework/code')
 from llm_generation import LLM_Sequential_Generation
 
 
@@ -121,7 +121,7 @@ class CalculateRequirementPredictionScore(LLM_Sequential_Generation):
         """
         - start_user_id & end_user_id: 当前批次生成哪些user的数据（两端均包含），可用于并行生成时。
         """
-        prompt_template_dir = '/data5/hzp/MemPAL/perassist_framework/code/evaluation/requirement_prediction_evaluation_prompt'
+        prompt_template_dir = 'xxx/MemPAL/perassist_framework/code/evaluation/requirement_prediction_evaluation_prompt'
         self.result_path = os.path.join(save_dir, result_path)
         self.generation_path = os.path.join(save_dir, generation_path)
 
@@ -244,10 +244,10 @@ class CalculateRequirementPredictionScore(LLM_Sequential_Generation):
             per_score_list.append(user_score)
             score_list += user_score_list
         
-        all_per_score = sum(per_score_list) / len(per_score_list)
-        all_score = sum(score_list) / len(score_list)
+        all_per_score = sum(per_score_list) / len(per_score_list) * 50 # scale the score from [0, 2] to [0, 100]
+        all_score = sum(score_list) / len(score_list) * 50 # scale the score from [0, 2] to [0, 100]
 
-        self.metrics = {'score': all_score, 'score_user_avg': all_per_score}
+        self.metrics = {'score': all_score}
         with open(self.result_path, "w") as f:
             json.dump(self.metrics, f, ensure_ascii=False, indent=4)
 
@@ -385,9 +385,9 @@ class CalculateSolutionSelectionMetrics(object):
             per_score_list.append(user_score)
             score_list += user_score_list
         
-        all_per_score = sum(per_score_list) / len(per_score_list)
-        all_score = sum(score_list) / len(score_list)
+        all_per_score = sum(per_score_list) / len(per_score_list) * 50 # scale the score from [-2, 2] to [-100, 100]
+        all_score = sum(score_list) / len(score_list) * 50 # scale the score from [-2, 2] to [-100, 100]
 
-        self.metrics = {'score': all_score, 'score_user_avg': all_per_score}
+        self.metrics = {'score': all_score}
         with open(self.result_path, "w") as f:
             json.dump(self.metrics, f, ensure_ascii=False, indent=4)

@@ -89,8 +89,8 @@ class BackgroundGeneration(LLM_Sequential_Generation):
 if __name__ == '__main__':
     model_name = 'qwen2.5-max'
 
-    prompt_template_dir = '/data5/hzp/MemPAL/data_synthesis_v2/prompt_template/background'
-    save_dir = '/data5/hzp/MemPAL/data_synthesis_v2/data/background/'
+    prompt_template_dir = 'xxx/MemPAL/data_synthesis_v2/prompt_template/background'
+    save_dir = 'xxx/MemPAL/data_synthesis_v2/data/background/'
     background_file_path = 'background.json'
 
     sample_id_list = ["0000", "0001", "0002", "0003", "0004", "0005", "0006", "0007", "0008", "0009"]

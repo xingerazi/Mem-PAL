@@ -256,8 +256,8 @@ def combine_jsons(history_file_path_list, query_file_path_list, save_path):
 if __name__ == '__main__':
     model_name = 'qwen2.5-max'
 
-    data_synthesis_root = '/data5/hzp/MemPAL/data_synthesis_v2/data'
-    prompt_template_dir = '/data5/hzp/MemPAL/data_synthesis_v2/prompt_template/dialogue'
+    data_synthesis_root = 'xxx/MemPAL/data_synthesis_v2/data'
+    prompt_template_dir = 'xxx/MemPAL/data_synthesis_v2/prompt_template/dialogue'
     save_root = os.path.join(data_synthesis_root, 'dialogue')
     background_data_dir = os.path.join(data_synthesis_root, 'background')
     background_file_path = os.path.join(background_data_dir, 'background.json')

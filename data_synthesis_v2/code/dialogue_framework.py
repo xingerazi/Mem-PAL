@@ -360,8 +360,8 @@ class SolutionPreferenceGeneration(LLM_Sequential_Generation):
 if __name__ == '__main__':
     model_name = 'qwen2.5-max'
 
-    data_synthesis_root = '/data5/hzp/MemPAL/data_synthesis_v2/data'
-    prompt_template_root = '/data5/hzp/MemPAL/data_synthesis_v2/prompt_template/dialogue_framework'
+    data_synthesis_root = 'xxx/MemPAL/data_synthesis_v2/data'
+    prompt_template_root = 'xxx/MemPAL/data_synthesis_v2/prompt_template/dialogue_framework'
     save_root = os.path.join(data_synthesis_root, 'dialogue_framework')
     background_data_dir = os.path.join(data_synthesis_root, 'background')
     background_file_path = os.path.join(background_data_dir, 'background.json')

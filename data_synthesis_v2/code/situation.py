@@ -334,7 +334,7 @@ if __name__ == '__main__':
 
     model_name = 'qwen2.5-max'
 
-    data_synthesis_root = '/data5/hzp/MemPAL/data_synthesis_v2/data'
+    data_synthesis_root = 'xxx/MemPAL/data_synthesis_v2/data'
     background_data_dir = os.path.join(data_synthesis_root, 'background')
     background_file_path = os.path.join(background_data_dir, 'background.json')
     with open(background_file_path,'r', encoding='utf-8') as f:
@@ -342,7 +342,7 @@ if __name__ == '__main__':
 
 
     ### ----- Step 1: 需求情境生成 -----
-    prompt_template_dir = '/data5/hzp/MemPAL/data_synthesis_v2/prompt_template/situation'
+    prompt_template_dir = 'xxx/MemPAL/data_synthesis_v2/prompt_template/situation'
     timeline_data_dir = os.path.join(data_synthesis_root, 'timeline')
     timeline_file_path = os.path.join(timeline_data_dir, 'timeline.json')
     with open(timeline_file_path,'r', encoding='utf-8') as f:
@@ -366,7 +366,7 @@ if __name__ == '__main__':
 
 
     ### ----- Step 2: 详细经历生成 -----
-    prompt_template_dir = '/data5/hzp/MemPAL/data_synthesis_v2/prompt_template/experience'
+    prompt_template_dir = 'xxx/MemPAL/data_synthesis_v2/prompt_template/experience'
     
     situation_data_dir = os.path.join(data_synthesis_root, 'situation')
     situation_file_path = os.path.join(situation_data_dir, 'situation.json')

@@ -9,7 +9,7 @@ from tqdm import tqdm
 from copy import copy, deepcopy
 
 import sys
-sys.path.append('/data5/hzp/MemPAL/perassist_framework/code')
+sys.path.append('xxx/MemPAL/perassist_framework/code')
 
 from dialogue_evaluation.user_assistant_dialogue import User_Assistant_Dialogue
 
@@ -66,7 +66,7 @@ if __name__ == '__main__':
 
 
     # -----------------
-    framework_root = '/data5/hzp/MemPAL/perassist_framework'
+    framework_root = 'xxx/MemPAL/perassist_framework'
     data_dir = assistant_model
     vanilla_save_dir = os.path.join(data_dir, 'vanilla', 'dialogue_interaction')
 

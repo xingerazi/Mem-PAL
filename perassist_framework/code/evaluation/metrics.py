@@ -2,7 +2,7 @@ import jieba
 from nltk.translate.bleu_score import sentence_bleu, SmoothingFunction
 
 import sys
-sys.path.append('/data5/hzp/MemPAL/perassist_framework/code')
+sys.path.append('xxx/MemPAL/perassist_framework/code')
 
 
 def calculate_single_bleu(reference, candidate):
