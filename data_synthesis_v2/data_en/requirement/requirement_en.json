@@ -1,0 +1,2762 @@
+{
+    "0000": {
+        "work": {
+            "work-1": "Improving time management skills",
+            "work-2": "Balancing Performance and Health",
+            "work-3": "Enhancing Team Collaboration Efficiency",
+            "work-4": "Adapting to the pressures of a higher position."
+        },
+        "health": {
+            "health-1": "Improve dietary structure",
+            "health-2": "Alleviating chronic fatigue condition",
+            "health-3": "Control the trend of weight gain",
+            "health-4": "Preventing the Recurrence of Gastric Diseases",
+            "health-5": "Reducing the risk of high blood pressure"
+        },
+        "family": {
+            "family-1": "Enhancing the quality of parent-child interaction",
+            "family-2": "Repairing the trust relationship between husband and wife",
+            "family-3": "Coordinating Family Education Perspectives",
+            "family-4": "Strengthen emotional bonds with parents"
+        },
+        "leisure": {
+            "leisure-1": "Cultivate diverse hobbies and interests",
+            "leisure-2": "Increase family group entertainment activities",
+            "leisure-3": "Exploring Efficient Relaxation Methods",
+            "leisure-4": "Optimizing the Balance Between Work and Leisure"
+        }
+    },
+    "0001": {
+        "work": {
+            "work-1": "Efficient Project Time Management",
+            "work-2": "Enhance creative design capabilities",
+            "work-3": "Balancing High-Intensity Work and Personal Life",
+            "work-4": "Dealing with frequent client requirement changes",
+            "work-5": "Broaden international design perspectives"
+        },
+        "health": {
+            "health-1": "Relieving Long-term Eye Strain",
+            "health-2": "Improving health issues caused by prolonged sitting",
+            "health-3": "Controlling Blood Lipid Levels and Dietary Habits",
+            "health-4": "Maintain a regular schedule to enhance physical fitness."
+        },
+        "family": {
+            "family-1": "Maintaining Emotional Interaction Between Spouses",
+            "family-2": "Planning the Future Direction of Family Development",
+            "family-3": "Strengthen the bond with your parents.",
+            "family-4": "Creating a harmonious family atmosphere."
+        },
+        "leisure": {
+            "leisure-1": "Relieving Stress Through Handicrafts",
+            "leisure-2": "Capture the beautiful moments in life.",
+            "leisure-3": "Exploring diverse forms of artistic creation",
+            "leisure-4": "Cultivate new hobbies"
+        }
+    },
+    "0002": {
+        "work": {
+            "work-1": "Enhancing Team Management Efficiency",
+            "work-2": "Optimize the resource scheduling process",
+            "work-3": "Coping with High-Intensity Work Pressure",
+            "work-4": "Balancing urgent tasks and long-term planning"
+        },
+        "health": {
+            "health-1": "Improve sleep quality",
+            "health-2": "Controlling the progression of chronic diseases",
+            "health-3": "Alleviating Mental Fatigue",
+            "health-4": "Establishing healthy lifestyle habits"
+        },
+        "family": {
+            "family-1": "Enhancing the quality of parent-child interaction",
+            "family-2": "Supporting children's academic growth",
+            "family-3": "Alleviate family financial pressure",
+            "family-4": "Resolving Children's Emotional Issues",
+            "family-5": "Create a Harmonious Family Atmosphere"
+        },
+        "leisure": {
+            "leisure-1": "Finding Efficient Ways to Relax",
+            "leisure-2": "Increase the frequency of outdoor activities",
+            "leisure-3": "Cultivate long-term hobbies and interests",
+            "leisure-4": "Balancing work and leisure time"
+        }
+    },
+    "0003": {
+        "work": {
+            "work-1": "Enhancing the ability to handle complex interpersonal relationships",
+            "work-2": "Optimizing Time Management and Work Efficiency",
+            "work-3": "Enhancing Team Collaboration and Leadership Skills",
+            "work-4": "Balancing High-Intensity Work and Personal Life"
+        },
+        "health": {
+            "health-1": "Relieving shoulder and neck issues caused by prolonged desk work",
+            "health-2": "Improving Mood Swings and Mental Health",
+            "health-3": "Establish regular habits of exercise and rest.",
+            "health-4": "Preventing potential health risks caused by prolonged sitting"
+        },
+        "family": {
+            "family-1": "Coordinate future plans to ease tensions in the relationship.",
+            "family-2": "Coping with parental expectations about marriage",
+            "family-3": "Enhancing communication and understanding between partners",
+            "family-4": "Explore shared life goals for both parties."
+        },
+        "leisure": {
+            "leisure-1": "Maintaining physical and mental relaxation through yoga and meditation",
+            "leisure-2": "Exploring new travel destinations to enrich life experiences",
+            "leisure-3": "Participate in outdoor activities to enhance physical fitness.",
+            "leisure-4": "Cultivate hobbies to relieve work stress.",
+            "leisure-5": "Participate in public welfare activities to expand your social circle."
+        }
+    },
+    "0004": {
+        "work": {
+            "work-1": "Enhancing sensitivity to trending topics",
+            "work-2": "Optimize time management skills",
+            "work-3": "Enhancing Stress Resistance and Emotional Regulation",
+            "work-4": "Learning new skills to adapt to changes"
+        },
+        "health": {
+            "health-1": "Improve dietary balance",
+            "health-2": "Reduce dependence on electronic screens",
+            "health-3": "Increase the frequency of physical exercise.",
+            "health-4": "Regularly monitor health indicators."
+        },
+        "family": {
+            "family-1": "Balancing Economic Support and Personal Savings",
+            "family-2": "Maintaining High-Quality Remote Communication",
+            "family-3": "Planning Family Visits and Companionship Time",
+            "family-4": "Alleviating concerns about family members' health"
+        },
+        "leisure": {
+            "leisure-1": "Exploring Deep Content Consumption Methods",
+            "leisure-2": "Cultivate diverse hobbies and interests",
+            "leisure-3": "Properly manage the allocation of entertainment time",
+            "leisure-4": "Finding Effective Ways to Release Stress",
+            "leisure-5": "Establish a long-term reading habit."
+        }
+    },
+    "0005": {
+        "work": {
+            "work-1": "Efficient Project Management",
+            "work-2": "Construction Site Safety Assurance",
+            "work-3": "Team Collaboration and Communication Optimization",
+            "work-4": "Career Development and Skills Enhancement",
+            "work-5": "Work-Life Balance"
+        },
+        "health": {
+            "health-1": "Respiratory Protection",
+            "health-2": "Joint Health Maintenance",
+            "health-3": "Enhanced immunity",
+            "health-4": "Long-term Disease Prevention"
+        },
+        "family": {
+            "family-1": "Rebuilding Parent-Child Relationships",
+            "family-2": "Marital Relationship Repair",
+            "family-3": "Division of Family Responsibilities",
+            "family-4": "Co-living plan"
+        },
+        "leisure": {
+            "leisure-1": "Release of psychological pressure",
+            "leisure-2": "Close to nature",
+            "leisure-3": "Cultivation of Hobbies and Interests",
+            "leisure-4": "Enjoying time alone"
+        }
+    },
+    "0006": {
+        "work": {
+            "work-1": "Pursuing Professional Growth and Skill Enhancement",
+            "work-2": "Balancing Emotional Investment and Self-Protection",
+            "work-3": "Optimizing Time Management to Handle Multitasking Pressure",
+            "work-4": "Enhancing Professional Fulfillment and Self-Confidence"
+        },
+        "health": {
+            "health-1": "Alleviating physical and mental fatigue caused by prolonged high stress",
+            "health-2": "Establish sustainable healthy lifestyle habits",
+            "health-3": "Improving Focus and Sleep Quality",
+            "health-4": "Preventing Physical Discomfort Caused by Prolonged Sitting"
+        },
+        "family": {
+            "family-1": "Maintaining Close Family Relationships",
+            "family-2": "Balancing the Conflict Between Work and Family Time",
+            "family-3": "Meeting the emotional support needs of parents",
+            "family-4": "Inheriting Family Culture and Shared Interests"
+        },
+        "leisure": {
+            "leisure-1": "Expressing the Inner World Through Creation",
+            "leisure-2": "Explore new hobbies to enrich life experiences.",
+            "leisure-3": "Achieving psychological healing through artistic activities",
+            "leisure-4": "Seeking opportunities for natural contact to relax the body and mind",
+            "leisure-5": "Share personal insights to connect with like-minded individuals."
+        }
+    },
+    "0007": {
+        "work": {
+            "work-1": "Seeking professional fulfillment",
+            "work-2": "Alleviating Workplace Stress",
+            "work-3": "Enhance Professional Competitiveness",
+            "work-4": "Exploring Career Transition Directions"
+        },
+        "health": {
+            "health-1": "Improve physical health",
+            "health-2": "Establishing Healthy Lifestyle Habits",
+            "health-3": "Alleviate psychological anxiety",
+            "health-4": "Overcoming drug dependence issues"
+        },
+        "family": {
+            "family-1": "Balancing Family and Personal Space",
+            "family-2": "Responding to Parents' Emotional Expectations",
+            "family-3": "Strengthening Family Bonds",
+            "family-4": "Clarify the stance on marriage"
+        },
+        "leisure": {
+            "leisure-1": "Seeking diverse hobbies and interests",
+            "leisure-2": "Releasing pent-up work-related stress",
+            "leisure-3": "Expand social interaction circles",
+            "leisure-4": "Cultivating Long-Term Leisure Habits",
+            "leisure-5": "Rediscovering a Sense of Meaning in Life"
+        }
+    },
+    "0008": {
+        "work": {
+            "work-1": "Enhancing Workplace Stress Resilience",
+            "work-2": "Optimizing event planning efficiency",
+            "work-3": "Enhancing Cross-Departmental Collaboration Skills",
+            "work-4": "Balancing the pace of work and life"
+        },
+        "health": {
+            "health-1": "Improving Eye Health Management",
+            "health-2": "Adjust dietary structure to enhance physical fitness.",
+            "health-3": "Alleviating skin sensitivity issues",
+            "health-4": "Establish a regular sleep schedule."
+        },
+        "family": {
+            "family-1": "Resolving Differences in Wedding Preparations",
+            "family-2": "Enhancing Communication Quality with Your Fiancé",
+            "family-3": "Seeking family emotional support",
+            "family-4": "Maintaining the stability of intimate relationships"
+        },
+        "leisure": {
+            "leisure-1": "Expand Baking Creative Skills",
+            "leisure-2": "Enriching Handcrafting Hobbies",
+            "leisure-3": "Discover the Joy of Diverse Shopping Experiences",
+            "leisure-4": "Participate in community interaction activities"
+        }
+    },
+    "0009": {
+        "work": {
+            "work-1": "The need to improve maintenance efficiency",
+            "work-2": "Mastering the Demand for New Automotive Technologies",
+            "work-3": "The need to alleviate occupational fatigue",
+            "work-4": "The demand for optimizing the work environment",
+            "work-5": "The need to expand professional skills"
+        },
+        "health": {
+            "health-1": "The need to improve lumbar spine health",
+            "health-2": "The need to protect hand skin",
+            "health-3": "The need to maintain a habit of daily exercise",
+            "health-4": "The need to prevent the worsening of occupational diseases"
+        },
+        "family": {
+            "family-1": "Balancing the demands of work and family time",
+            "family-2": "Supporting the needs of children's education",
+            "family-3": "The need to enhance communication between spouses",
+            "family-4": "The need for family financial planning"
+        },
+        "leisure": {
+            "leisure-1": "Advancing the demand for the vehicle modification project",
+            "leisure-2": "Interest in learning new automotive technologies",
+            "leisure-3": "Demand for participation in automotive-related activities",
+            "leisure-4": "The need to enjoy parent-child interaction time."
+        }
+    },
+    "0010": {
+        "work": {
+            "work-1": "Enhancing Technical Depth and Breadth",
+            "work-2": "Optimize time management skills",
+            "work-3": "Balancing Work and Life Pace",
+            "work-4": "Enhancing Cross-Departmental Collaboration Skills"
+        },
+        "health": {
+            "health-1": "Improving Physical Problems Caused by Prolonged Sitting",
+            "health-2": "Alleviate visual fatigue and eye strain",
+            "health-3": "Establish a regular exercise routine.",
+            "health-4": "Adjusting diet to control weight gain."
+        },
+        "family": {
+            "family-1": "Coping with parental pressure regarding marriage.",
+            "family-2": "Maintaining harmonious family communication",
+            "family-3": "Seeking a Balance Between Personal Space and Family Expectations",
+            "family-4": "Enhance the quality of interaction with family members"
+        },
+        "leisure": {
+            "leisure-1": "Exploring diverse forms of entertainment",
+            "leisure-2": "Inspiring through science fiction content",
+            "leisure-3": "Seeking healthier leisure activities",
+            "leisure-4": "Enhance interactive experiences among friends."
+        }
+    },
+    "0011": {
+        "work": {
+            "work-1": "Improving Classroom Management Efficiency",
+            "work-2": "Optimize the allocation of teaching resources",
+            "work-3": "Balancing Work and Personal Time",
+            "work-4": "Enhance professional fulfillment",
+            "work-5": "Expand professional skills"
+        },
+        "health": {
+            "health-1": "Improving Long-Term Vocal Health",
+            "health-2": "Enhance immune function",
+            "health-3": "Alleviating Chronic Fatigue Conditions",
+            "health-4": "Managing psychological stress",
+            "health-5": "Maintain a regular sleep schedule."
+        },
+        "family": {
+            "family-1": "Enhancing family communication",
+            "family-2": "Sharing the Responsibility of Child Rearing",
+            "family-3": "Coping with Economic Pressure Challenges",
+            "family-4": "Strengthening the emotional bond between spouses",
+            "family-5": "Focusing on Children's Holistic Development"
+        },
+        "leisure": {
+            "leisure-1": "Cultivate personal interests and hobbies",
+            "leisure-2": "Increase parent-child interaction time.",
+            "leisure-3": "Finding Effective Ways to Relax",
+            "leisure-4": "Exploring Cultural and Entertainment Activities"
+        }
+    },
+    "0012": {
+        "work": {
+            "work-1": "Improve team collaboration efficiency",
+            "work-2": "Optimize resource allocation strategies",
+            "work-3": "Coping with industry competition pressure",
+            "work-4": "Balancing Innovation and Traditional Management",
+            "work-5": "Enhance risk management capabilities"
+        },
+        "health": {
+            "health-1": "Improving long-term sleep patterns",
+            "health-2": "Control Chronic Disease Risks",
+            "health-3": "Reduce unhealthy lifestyle habits.",
+            "health-4": "Increase daily physical activity",
+            "health-5": "Alleviating the Impact of Psychological Stress"
+        },
+        "family": {
+            "family-1": "Enhancing emotional communication between spouses",
+            "family-2": "Focus on the growth needs of children",
+            "family-3": "Resolving Economic Conflicts and Contradictions",
+            "family-4": "Creating Shared Family Moments",
+            "family-5": "Establishing a family support system."
+        },
+        "leisure": {
+            "leisure-1": "Exploring Healthy Ways to Relax",
+            "leisure-2": "Cultivating personal hobbies and interests",
+            "leisure-3": "Strengthening social relationship maintenance",
+            "leisure-4": "Finding the Joy of Outdoor Activities",
+            "leisure-5": "Achieve physical and mental balance regulation"
+        }
+    },
+    "0013": {
+        "work": {
+            "work-1": "Improve work efficiency",
+            "work-2": "Adapting to the ever-changing needs of customers",
+            "work-3": "Balancing Creativity and Practicality",
+            "work-4": "Expand high-end project opportunities",
+            "work-5": "Enhancing Professional Resilience to Stress"
+        },
+        "health": {
+            "health-1": "Alleviating Chronic Physical Pain",
+            "health-2": "Improving Anxiety Management",
+            "health-3": "Optimize daily routine patterns",
+            "health-4": "Preventing the worsening of occupational diseases"
+        },
+        "family": {
+            "family-1": "Dealing with External Marriage Pressure",
+            "family-2": "Maintaining harmonious communication in family relationships",
+            "family-3": "Seeking personal living space",
+            "family-4": "Receiving emotional support from family"
+        },
+        "leisure": {
+            "leisure-1": "Enriching sources of artistic inspiration",
+            "leisure-2": "Explore Nature and Relax Your Mind",
+            "leisure-3": "Cultivating Professional Photography Skills",
+            "leisure-4": "Engage in diverse recreational activities",
+            "leisure-5": "Establishing social interest circles"
+        }
+    },
+    "0014": {
+        "work": {
+            "work-1": "Optimizing Team Management Efficiency",
+            "work-2": "Reduce the burden of daily operations",
+            "work-3": "Enhancing Employee Stability and Satisfaction",
+            "work-4": "Balancing work and personal time"
+        },
+        "health": {
+            "health-1": "Improving Sleep Quality and Maintaining Regular Sleep Patterns",
+            "health-2": "Adjusting dietary structure to alleviate stomach issues",
+            "health-3": "Enhancing the body's immunity and physical condition",
+            "health-4": "Establish a long-term health monitoring and maintenance mechanism"
+        },
+        "family": {
+            "family-1": "Increase emotional companionship for family members.",
+            "family-2": "Participating in the growth and education of children",
+            "family-3": "Improving communication and understanding between spouses",
+            "family-4": "Sharing family responsibilities to alleviate partner's stress"
+        },
+        "leisure": {
+            "leisure-1": "Finding Sustainable Hobbies",
+            "leisure-2": "Cultivating effective methods for physical and mental relaxation",
+            "leisure-3": "Reactivating Past Travel Memories",
+            "leisure-4": "Expand your social circle to enrich your leisure life."
+        }
+    },
+    "0015": {
+        "work": {
+            "work-1": "Enhancing Communication Efficiency and Emotional Management",
+            "work-2": "Optimizing Time Allocation Under High-Intensity Workloads",
+            "work-3": "Seeking career growth and skill enhancement opportunities",
+            "work-4": "Alleviate the psychological burden caused by client pressure."
+        },
+        "health": {
+            "health-1": "Improving physiological issues caused by long-term high stress",
+            "health-2": "Enhance awareness of daily health management.",
+            "health-3": "Regulating Mood Swings and Mental Health",
+            "health-4": "Cultivate sustainable physical recovery habits."
+        },
+        "family": {
+            "family-1": "Balancing Solo Living with Family Emotional Connections",
+            "family-2": "Planning family reunion arrangements for important holidays",
+            "family-3": "Responding to parents' concerns and increasing interaction frequency",
+            "family-4": "Participating in family affairs to demonstrate a sense of responsibility"
+        },
+        "leisure": {
+            "leisure-1": "Relieving Mental Stress Through Film and Entertainment",
+            "leisure-2": "Explore diverse interests and hobbies to enrich life.",
+            "leisure-3": "Establish a regular mechanism for relaxation and self-regulation.",
+            "leisure-4": "Try meditation or artistic activities to soothe your inner self."
+        }
+    },
+    "0016": {
+        "work": {
+            "work-1": "Improve project management efficiency",
+            "work-2": "Optimizing Team Collaboration and Communication",
+            "work-3": "Addressing Complex Construction Challenges",
+            "work-4": "Balancing project timeline and quality requirements",
+            "work-5": "Enhancing Stress Resistance and Problem-Solving Skills"
+        },
+        "health": {
+            "health-1": "Improve respiratory system health",
+            "health-2": "Alleviating Chronic Joint Pain",
+            "health-3": "Prevention of Occupational Diseases",
+            "health-4": "Maintaining overall physical endurance",
+            "health-5": "Regularly monitor health indicators"
+        },
+        "family": {
+            "family-1": "Alleviating the Pressure of Parental Marriage Urging",
+            "family-2": "Balancing Career and Family Expectations",
+            "family-3": "Seeking personal living space",
+            "family-4": "Managing Expectations in Family Relationships"
+        },
+        "leisure": {
+            "leisure-1": "Seeking efficient stress-relief methods",
+            "leisure-2": "Cultivating deep interests and hobbies",
+            "leisure-3": "Balancing Leisure and Work Time",
+            "leisure-4": "Expanding Outdoor Activity Opportunities"
+        }
+    },
+    "0017": {
+        "work": {
+            "work-1": "Optimize the recruitment process",
+            "work-2": "Enhance interdepartmental collaboration capabilities",
+            "work-3": "Enhancing Employee Relationship Management Skills",
+            "work-4": "Balancing work and personal time"
+        },
+        "health": {
+            "health-1": "Relieve cervical spine pressure",
+            "health-2": "Improve Eye Health",
+            "health-3": "Preventing Sedentary-Related Diseases",
+            "health-4": "Establish a regular exercise routine."
+        },
+        "family": {
+            "family-1": "Preparing wedding details",
+            "family-2": "Planning Family Finances",
+            "family-3": "Coordinate the opinions of both parents.",
+            "family-4": "Enhancing intimacy",
+            "family-5": "Adapting to Life in a New Home"
+        },
+        "leisure": {
+            "leisure-1": "Advancing Baking Skills",
+            "leisure-2": "Exploring Innovative Dessert Recipes",
+            "leisure-3": "Arrange a short trip to relax",
+            "leisure-4": "Sharing Baking Achievements"
+        }
+    },
+    "0018": {
+        "work": {
+            "work-1": "Enhancing Team Management Effectiveness",
+            "work-2": "Alleviating long-term high-stress conditions",
+            "work-3": "Enhance Professional Competitiveness",
+            "work-4": "Optimizing Customer Relationship Management"
+        },
+        "health": {
+            "health-1": "Improving memory decline",
+            "health-2": "Control cholesterol levels",
+            "health-3": "Improve Sleep Quality",
+            "health-4": "Cultivate healthy lifestyle habits"
+        },
+        "family": {
+            "family-1": "Rebuilding Deep Communication Between Couples",
+            "family-2": "Balancing Work and Family Time",
+            "family-3": "Exploring Common Interests",
+            "family-4": "Enhance parent-child interactive experiences"
+        },
+        "leisure": {
+            "leisure-1": "Seeking Diverse Ways to Relax",
+            "leisure-2": "Expand the scope of interest areas",
+            "leisure-3": "Building Healthier Social Activities",
+            "leisure-4": "Trying New Methods for Physical and Mental Relaxation"
+        }
+    },
+    "0019": {
+        "work": {
+            "work-1": "Seeking stable and well-compensated collaboration opportunities",
+            "work-2": "Balancing Flexible Work with High Efficiency",
+            "work-3": "Expanding professional networks within the industry.",
+            "work-4": "Enhance influence in the professional field"
+        },
+        "health": {
+            "health-1": "Alleviating Physical Discomfort Caused by Prolonged Sitting",
+            "health-2": "Alleviating insomnia caused by stress",
+            "health-3": "Establish regular and healthy sleep habits.",
+            "health-4": "Enhancing physical flexibility and core strength",
+            "health-5": "Focus on Mental Health and Emotional Regulation"
+        },
+        "family": {
+            "family-1": "Dealing with family expectations regarding marital status",
+            "family-2": "Maintaining Independence in Intimate Relationships",
+            "family-3": "Seeking Family Understanding for Career Choices",
+            "family-4": "Dealing with Potential Conflicts in Family Communication"
+        },
+        "leisure": {
+            "leisure-1": "Relieving Work Stress Through Travel",
+            "leisure-2": "Recording the bits and pieces of life to let emotions settle.",
+            "leisure-3": "Exploring the physical and mental relaxation brought by the natural environment.",
+            "leisure-4": "Reduce social media distractions to focus on yourself."
+        }
+    },
+    "0020": {
+        "work": {
+            "work-1": "Enhance professional skills to meet diverse project demands.",
+            "work-2": "Seeking efficient tools to optimize the creative workflow.",
+            "work-3": "Balancing Order Quantity and Personal Creative Time",
+            "work-4": "Expand stable customer resources to ensure revenue streams.",
+            "work-5": "Enhance stress resistance to cope with high-intensity work rhythms"
+        },
+        "health": {
+            "health-1": "Alleviating Chronic Pain Caused by Prolonged Sedentary Behavior",
+            "health-2": "Adjusting Daily Routine to Improve Sleep Quality",
+            "health-3": "Cultivate exercise habits to maintain overall physical health.",
+            "health-4": "Effective methods for relieving mental stress",
+            "health-5": "Establishing a Scientific Lifestyle to Prevent Occupational Diseases"
+        },
+        "family": {
+            "family-1": "Enhancing Couple Communication to Resolve Differences in Future Planning",
+            "family-2": "Jointly setting family goals promotes relationship development.",
+            "family-3": "Balancing time allocation between work and family life",
+            "family-4": "Strengthen emotional communication to create an intimate family atmosphere.",
+            "family-5": "Explore mutual interests to enrich the way we interact."
+        },
+        "leisure": {
+            "leisure-1": "Draw inspiration from art exhibitions to stimulate creativity.",
+            "leisure-2": "Participate in social activities to expand professional networking circles.",
+            "leisure-3": "Schedule regular trips to relax and rejuvenate.",
+            "leisure-4": "Gaining emotional resonance experiences through appreciating film and television works",
+            "leisure-5": "Try diverse leisure activities to enrich daily life."
+        }
+    },
+    "0021": {
+        "work": {
+            "work-1": "Traditional process dependence",
+            "work-2": "Resistance to learning technology",
+            "work-3": "Anxiety due to operational errors",
+            "work-4": "Adaptation to Work Pressure",
+            "work-5": "System Requirements"
+        },
+        "health": {
+            "health-1": "Weight management neglect",
+            "health-2": "Lack of exercise habits",
+            "health-3": "Health Risk Concerns",
+            "health-4": "Resistance to dietary control"
+        },
+        "family": {
+            "family-1": "Anxiety over children's education",
+            "family-2": "Limited communication methods",
+            "family-3": "Mediation of Family Disputes",
+            "family-4": "Lack of parent-child interaction"
+        },
+        "leisure": {
+            "leisure-1": "Alcohol as a means of relaxation and dependence",
+            "leisure-2": "Limitations in Social Activities",
+            "leisure-3": "Lack of hobbies and interests",
+            "leisure-4": "Pursuit of Leisure Quality"
+        }
+    },
+    "0022": {
+        "work": {
+            "work-1": "The urgent need for career advancement.",
+            "work-2": "The Need for Efficient Time Management",
+            "work-3": "The need to enhance cross-departmental collaboration capabilities",
+            "work-4": "The need to alleviate work pressure",
+            "work-5": "The need for systematic learning of professional skills"
+        },
+        "health": {
+            "health-1": "Adjustment needs for a regular sleep schedule",
+            "health-2": "Management needs for chronic diseases",
+            "health-3": "The Need for Mental Health Counseling",
+            "health-4": "The Need to Develop Scientific Exercise Habits",
+            "health-5": "The need for a healthy eating plan"
+        },
+        "family": {
+            "family-1": "The need for emotional connection with parents",
+            "family-2": "The need to establish a family support system",
+            "family-3": "The need for optimizing independent living conditions",
+            "family-4": "Balancing Career and Family Needs"
+        },
+        "leisure": {
+            "leisure-1": "The need for diverse interest exploration",
+            "leisure-2": "The Need for Deep Relaxation Methods",
+            "leisure-3": "The need for participation in social activities",
+            "leisure-4": "Demand for high-quality entertainment content"
+        }
+    },
+    "0023": {
+        "work": {
+            "work-1": "Enhancing Team Management Skills",
+            "work-2": "Balancing Work and Health",
+            "work-3": "Strategies for Coping with High-Pressure Environments",
+            "work-4": "Improving New Employee Training Methods",
+            "work-5": "Enhancing Emergency Response at Construction Sites"
+        },
+        "health": {
+            "health-1": "Relieving Chronic Arthritis Pain",
+            "health-2": "Adjusting long-term medication habits",
+            "health-3": "Mitigating the Health Damage Caused by Smoking",
+            "health-4": "Establish a regular physical examination plan."
+        },
+        "family": {
+            "family-1": "Alleviate the family's financial burden",
+            "family-2": "Enhancing communication and understanding between spouses",
+            "family-3": "Supporting Daughter's Career Development",
+            "family-4": "Maintaining family emotional bonds"
+        },
+        "leisure": {
+            "leisure-1": "Expand the range of hobbies and interests",
+            "leisure-2": "Increase high-quality leisure time",
+            "leisure-3": "Relieving psychological stress through activities",
+            "leisure-4": "Finding suitable entertainment options for the whole family."
+        }
+    },
+    "0024": {
+        "work": {
+            "work-1": "Improve work efficiency",
+            "work-2": "Streamline administrative procedures",
+            "work-3": "Enhance team stability",
+            "work-4": "Gain more professional recognition",
+            "work-5": "Work-life balance"
+        },
+        "health": {
+            "health-1": "Alleviating long-term stress",
+            "health-2": "Improve sleep quality",
+            "health-3": "Preventing Migraine Recurrence",
+            "health-4": "Maintaining physical and mental health balance"
+        },
+        "family": {
+            "family-1": "Strengthening parent-child relationships",
+            "family-2": "Coordinating family members' schedules",
+            "family-3": "Supporting children's growth and development",
+            "family-4": "Planning Family Future Goals"
+        },
+        "leisure": {
+            "leisure-1": "Exploring Cultural Experiences",
+            "leisure-2": "Deepen your interests",
+            "leisure-3": "Expand your social circle",
+            "leisure-4": "Seeking Mental Relaxation"
+        }
+    },
+    "0025": {
+        "work": {
+            "work-1": "Enhancing Income Stability",
+            "work-2": "Optimize work schedule",
+            "work-3": "Reducing Occupational Health Risks",
+            "work-4": "Expanding Side Business Possibilities"
+        },
+        "health": {
+            "health-1": "Improving Chronic Disease Management",
+            "health-2": "Relieving Long-Term Physical Strain",
+            "health-3": "Enhancing Immunity and Resistance",
+            "health-4": "Develop healthy lifestyle habits"
+        },
+        "family": {
+            "family-1": "Balancing Work and Family Responsibilities",
+            "family-2": "Alleviate economic burden and pressure",
+            "family-3": "Enhancing the quality of parent-child interaction",
+            "family-4": "Supporting your partner's career development",
+            "family-5": "Planning the Family's Financial Future"
+        },
+        "leisure": {
+            "leisure-1": "Finding Efficient Ways to Relax",
+            "leisure-2": "Cultivate low-cost hobbies",
+            "leisure-3": "Increase the frequency of outdoor activities",
+            "leisure-4": "Exploring Digital Entertainment Content"
+        }
+    },
+    "0026": {
+        "work": {
+            "work-1": "Enhancing Creative Copywriting Skills",
+            "work-2": "Optimizing Time Management Skills",
+            "work-3": "Enhancing Stress Resistance and Emotional Regulation Abilities",
+            "work-4": "Expand professional networks and resources",
+            "work-5": "Clarify career development direction"
+        },
+        "health": {
+            "health-1": "Improving Chronic Fatigue Condition",
+            "health-2": "Correcting vision and protecting eye health",
+            "health-3": "Alleviate shoulder, neck, and bodily strain issues.",
+            "health-4": "Establish a regular schedule and dietary habits.",
+            "health-5": "Strengthen daily exercise to improve physical fitness."
+        },
+        "family": {
+            "family-1": "Coordinating Differences in Future Planning",
+            "family-2": "Balancing work and family responsibilities",
+            "family-3": "Enhancing the quality of communication in intimate relationships.",
+            "family-4": "Jointly develop a financial savings plan"
+        },
+        "leisure": {
+            "leisure-1": "Continuously improve photography skills",
+            "leisure-2": "Explore more forms of artistic creation",
+            "leisure-3": "Enriching life experiences through travel",
+            "leisure-4": "Sharing works for social validation"
+        }
+    },
+    "0027": {
+        "work": {
+            "work-1": "Enhancing Team Collaboration Efficiency",
+            "work-2": "Enhance data-driven decision-making capabilities.",
+            "work-3": "Enhancing Care and Communication for Frontline Employees",
+            "work-4": "Exploring Innovative Marketing Strategies",
+            "work-5": "Balancing work and personal time"
+        },
+        "health": {
+            "health-1": "Improving dietary habits to lower blood lipids",
+            "health-2": "Establishing a long-term exercise habit",
+            "health-3": "Regularly monitor physical health indicators.",
+            "health-4": "Alleviating suboptimal health conditions caused by stress."
+        },
+        "family": {
+            "family-1": "Promoting Effective Communication with Adolescent Children",
+            "family-2": "Maintaining the emotional bond between spouses",
+            "family-3": "Balancing Daughter's Interest Development with Academic Studies",
+            "family-4": "Create opportunities for family activities together."
+        },
+        "leisure": {
+            "leisure-1": "Relieving stress through sports activities",
+            "leisure-2": "Immerse yourself in the appreciation of classical music",
+            "leisure-3": "Cultivate outdoor hobbies to enrich life experiences.",
+            "leisure-4": "Record and cherish beautiful moments."
+        }
+    },
+    "0028": {
+        "work": {
+            "work-1": "Enhancing stress resilience",
+            "work-2": "Optimizing Time Management Skills",
+            "work-3": "Expand career development paths",
+            "work-4": "Enhancing cross-cultural communication skills",
+            "work-5": "Balancing Work and Life"
+        },
+        "health": {
+            "health-1": "Improving long-term posture habits",
+            "health-2": "Alleviating Chronic Pain Issues",
+            "health-3": "Establish a regular exercise plan",
+            "health-4": "Improve sleep quality",
+            "health-5": "Exploring Comprehensive Treatment Approaches"
+        },
+        "family": {
+            "family-1": "Maintaining a Long-Distance Intimate Relationship",
+            "family-2": "Sharing the burden of family responsibilities",
+            "family-3": "Enhancing intergenerational emotional communication",
+            "family-4": "Planning the Timing for Family Reunions"
+        },
+        "leisure": {
+            "leisure-1": "Expanding the scope of interests and hobbies",
+            "leisure-2": "Creating a Comfortable Home Environment",
+            "leisure-3": "Gaining a sense of achievement through creative work",
+            "leisure-4": "Interacting with Nature and Embracing Green",
+            "leisure-5": "Participate in community art activities"
+        }
+    },
+    "0029": {
+        "work": {
+            "work-1": "Enhancing Store Operations During Off-Peak Seasons",
+            "work-2": "Optimizing Cost and Profit Structure",
+            "work-3": "Enhancing the innovation of marketing strategies",
+            "work-4": "Improving Food Hygiene and Preservation Management",
+            "work-5": "Balancing Work Intensity with Physical and Mental Health"
+        },
+        "health": {
+            "health-1": "Control risk factors associated with fatty liver disease",
+            "health-2": "Adjusting dietary structure to improve metabolism.",
+            "health-3": "Alleviating Chronic Fatigue and Physical Exhaustion",
+            "health-4": "Establish a regular routine to reduce physical burden.",
+            "health-5": "Exploring health preservation methods suitable for oneself."
+        },
+        "family": {
+            "family-1": "Coordinating Differences in Spousal Business Philosophies",
+            "family-2": "Sharing Responsibility for Children's Education and Upbringing",
+            "family-3": "Enhancing emotional bonds among family members",
+            "family-4": "Plan shared family activity time.",
+            "family-5": "Balancing Career and Family Role Demands"
+        },
+        "leisure": {
+            "leisure-1": "Rediscovering the passion for football",
+            "leisure-2": "Seeking efficient ways to relax both body and mind",
+            "leisure-3": "Gaining Spiritual Fulfillment by Following Sports Events",
+            "leisure-4": "Cultivate new interests to enrich your life.",
+            "leisure-5": "Arrange leisure time reasonably to relieve stress"
+        }
+    },
+    "0030": {
+        "work": {
+            "work-1": "Enhancing Performance Stability",
+            "work-2": "Optimize time management skills",
+            "work-3": "Enhancing Team Collaboration Efficiency",
+            "work-4": "Alleviating career anxiety",
+            "work-5": "Building Long-term Customer Trust"
+        },
+        "health": {
+            "health-1": "Improve dietary structure",
+            "health-2": "Develop a regular exercise routine.",
+            "health-3": "Managing Chronic Disease Risks",
+            "health-4": "Improve physical endurance",
+            "health-5": "Balancing the pace of work and rest"
+        },
+        "family": {
+            "family-1": "Enhancing emotional communication between spouses",
+            "family-2": "Enhance the quality of parent-child interaction",
+            "family-3": "Coordinating Family Education Perspectives",
+            "family-4": "Sharing the pressure of family responsibilities",
+            "family-5": "Create beautiful shared memories"
+        },
+        "leisure": {
+            "leisure-1": "Finding Efficient Ways to Decompress",
+            "leisure-2": "Expand the range of hobbies and interests",
+            "leisure-3": "Enriching spiritual and recreational activities",
+            "leisure-4": "Reducing Reliance on Digital Devices"
+        }
+    },
+    "0031": {
+        "work": {
+            "work-1": "Enhancing Workplace Interpersonal Relationship Skills",
+            "work-2": "Optimizing cross-departmental collaboration efficiency",
+            "work-3": "Enhancing professional skills in recruitment and training",
+            "work-4": "Seeking career development and promotion opportunities",
+            "work-5": "Alleviating long-term work stress"
+        },
+        "health": {
+            "health-1": "Improving Sleep Quality and Maintaining Regular Sleep Patterns",
+            "health-2": "Alleviating physical discomfort caused by prolonged sitting",
+            "health-3": "Balancing Mental Health and Emotional Management",
+            "health-4": "Establish sustainable exercise habits"
+        },
+        "family": {
+            "family-1": "Coping with family expectations and pressures regarding marriage and relationships",
+            "family-2": "Maintaining an intimate yet occasionally discordant parent-child relationship",
+            "family-3": "Planning shared life goals with family",
+            "family-4": "Balancing Personal Space and Family Support"
+        },
+        "leisure": {
+            "leisure-1": "Expand hobbies to enrich life experiences.",
+            "leisure-2": "Enhancing Self-Awareness and Abilities Through Reading",
+            "leisure-3": "Find a quiet environment to relax and unwind.",
+            "leisure-4": "Trying new activities to alleviate chronic stress"
+        }
+    },
+    "0032": {
+        "work": {
+            "work-1": "Continuous skill enhancement",
+            "work-2": "Efficient Time Management",
+            "work-3": "Coping with High-Intensity Tasks",
+            "work-4": "Career Direction Planning",
+            "work-5": "Team Collaboration Optimization"
+        },
+        "health": {
+            "health-1": "Alleviating Chronic Pain",
+            "health-2": "Improving vision problems",
+            "health-3": "Cultivate an exercise habit",
+            "health-4": "Adjusting Posture and Work Environment",
+            "health-5": "Mental Health Regulation"
+        },
+        "family": {
+            "family-1": "Enhancing Father-Son Communication",
+            "family-2": "Balancing Work and Family",
+            "family-3": "Supporting children's growth",
+            "family-4": "Enhance the sense of family belonging"
+        },
+        "leisure": {
+            "leisure-1": "Discovering Interests and Hobbies",
+            "leisure-2": "Reduce screen dependency",
+            "leisure-3": "Exploring Outdoor Activities",
+            "leisure-4": "Learning relaxation techniques"
+        }
+    },
+    "0033": {
+        "work": {
+            "work-1": "Enhancing Team Collaboration Efficiency",
+            "work-2": "Enhancing employees' conflict resolution skills",
+            "work-3": "Optimize store marketing strategies",
+            "work-4": "Enhancing personal management skills"
+        },
+        "health": {
+            "health-1": "Improve skin sensitivity condition",
+            "health-2": "Adjust the regularity of your sleep schedule.",
+            "health-3": "Enhance the body's immunity",
+            "health-4": "Alleviating Seasonal Allergic Reactions"
+        },
+        "family": {
+            "family-1": "Enhancing the quality of communication with your partner",
+            "family-2": "Balancing Personal and Partner's Time Schedules",
+            "family-3": "Reducing the sense of loneliness caused by distance.",
+            "family-4": "Planning future shared life goals"
+        },
+        "leisure": {
+            "leisure-1": "Explore diverse hobbies and interests",
+            "leisure-2": "Expanding one's social circle through social activities",
+            "leisure-3": "Express personal style through creative expression",
+            "leisure-4": "Finding effective ways to release emotions",
+            "leisure-5": "Focusing on Fashion and Skincare Trends"
+        }
+    },
+    "0034": {
+        "work": {
+            "work-1": "Enhancing technological adaptability",
+            "work-2": "Optimizing team communication efficiency",
+            "work-3": "Balancing Work and Health Management",
+            "work-4": "Enhancing Job Security",
+            "work-5": "Influence in Decision-Making Participation"
+        },
+        "health": {
+            "health-1": "Improving Chronic Disease Management",
+            "health-2": "Alleviating Chronic Fatigue",
+            "health-3": "Pay attention to hearing health maintenance",
+            "health-4": "Adjust dietary and lifestyle habits"
+        },
+        "family": {
+            "family-1": "Rebuilding Close Family Connections",
+            "family-2": "Seeking emotional support channels",
+            "family-3": "Making up for the regret of missing family affection",
+            "family-4": "Planning family reunion opportunities"
+        },
+        "leisure": {
+            "leisure-1": "Exploring Personal Interests and Hobbies",
+            "leisure-2": "Increase the frequency of social interactions",
+            "leisure-3": "Seeking Relaxation Methods to Relieve Stress",
+            "leisure-4": "Enriching spiritual and cultural life"
+        }
+    },
+    "0035": {
+        "work": {
+            "work-1": "Balancing Teaching and Administrative Responsibilities",
+            "work-2": "Coping with the Pressure of the Education System",
+            "work-3": "Enhancing Professional Fulfillment",
+            "work-4": "Seeking Inspiration for Teaching Innovation",
+            "work-5": "Alleviate the burden caused by work intensity"
+        },
+        "health": {
+            "health-1": "Reducing the Long-Term Effects of Frozen Shoulder",
+            "health-2": "Regulating Emotional Fluctuations and Psychological State",
+            "health-3": "Improving Health Risks Associated with Desk Work",
+            "health-4": "Exploring Effective Rehabilitation Methods",
+            "health-5": "Optimizing daily routines to promote health"
+        },
+        "family": {
+            "family-1": "Mitigating Conflicts in the Mother-in-Law and Daughter-in-Law Relationship",
+            "family-2": "Maintaining Communication and Support Between Spouses",
+            "family-3": "Coordinating family members' living habits",
+            "family-4": "Seeking Independent Space and Respect",
+            "family-5": "Enhance the overall harmonious atmosphere of the family."
+        },
+        "leisure": {
+            "leisure-1": "Finding Inner Peace Through Calligraphy",
+            "leisure-2": "Cultivating Gardening as an Emotional Anchor",
+            "leisure-3": "Expanding the Depth of Interest in Classical Literature",
+            "leisure-4": "Exploring new forms of artistic creation",
+            "leisure-5": "Plan leisure activities to stay away from stress."
+        }
+    },
+    "0036": {
+        "work": {
+            "work-1": "The need for long-term stability in career planning",
+            "work-2": "Diverse Skill Expansion Needs",
+            "work-3": "Need to Improve Manuscript Creation Efficiency",
+            "work-4": "Work-life balance adjustment needs",
+            "work-5": "Exploration of diversified revenue sources"
+        },
+        "health": {
+            "health-1": "Demand for smoking cessation and improvement of oral health",
+            "health-2": "The need for regular routines and improved sleep quality.",
+            "health-3": "Neck Health and Sedentary Lifestyle Management Needs",
+            "health-4": "Adjustment of Dietary Structure and Nutritional Balance Requirements",
+            "health-5": "Enhanced immunity and overall physical fitness needs"
+        },
+        "family": {
+            "family-1": "The Need for Family Relationship Repair and Communication Restart",
+            "family-2": "Emotional Support Network Expansion Needs",
+            "family-3": "Psychological needs for independently handling family conflicts",
+            "family-4": "The Need for Parental Understanding and Self-Expression"
+        },
+        "leisure": {
+            "leisure-1": "Need for in-depth exploration of hobbies and interests",
+            "leisure-2": "Rebuilding social circles and increasing the demand for interaction",
+            "leisure-3": "Exploration of Needs for Stress Release and Emotion Regulation Methods",
+            "leisure-4": "Demand for concentration and immersive entertainment experiences"
+        }
+    },
+    "0037": {
+        "work": {
+            "work-1": "Entrepreneurial Stress Management",
+            "work-2": "Fundraising and Allocation",
+            "work-3": "Market Competition Response Strategies",
+            "work-4": "Team Collaboration and Employee Training",
+            "work-5": "Brand Promotion and Customer Expansion"
+        },
+        "health": {
+            "health-1": "Joint Health Maintenance",
+            "health-2": "Improvement of Insomnia Issues",
+            "health-3": "Long-term physical exhaustion recovery",
+            "health-4": "Relief of psychological stress"
+        },
+        "family": {
+            "family-1": "Household Financial Responsibility Sharing",
+            "family-2": "Medical Care and Daily Support for Parents",
+            "family-3": "Emotional Support and Bonding Between Siblings",
+            "family-4": "Family Health Management"
+        },
+        "leisure": {
+            "leisure-1": "Exploration of Interests and Innovative Practice",
+            "leisure-2": "Travel Experiences and Inspiration",
+            "leisure-3": "Artistic Creation and Documentation Sharing",
+            "leisure-4": "Physical Relaxation and Self-Reward"
+        }
+    },
+    "0038": {
+        "work": {
+            "work-1": "Seeking easier career options",
+            "work-2": "Enhancing driving safety assurance",
+            "work-3": "Optimizing the balance between work and rest",
+            "work-4": "Alleviating the psychological stress caused by monotonous work."
+        },
+        "health": {
+            "health-1": "Improve the condition of chronic lumbar muscle strain",
+            "health-2": "Control drinking habits to maintain health.",
+            "health-3": "Preventing Sudden Illnesses Caused by Fatigue",
+            "health-4": "Establish regular and healthy eating and sleeping habits."
+        },
+        "family": {
+            "family-1": "Rebuilding the Emotional Bond with My Son",
+            "family-2": "Compensating for Deficiencies in Parent-Child Relationships",
+            "family-3": "Coping with Emotional Fluctuations After an Ex-Wife's Remarriage",
+            "family-4": "Seeking a new sense of belonging in a family"
+        },
+        "leisure": {
+            "leisure-1": "Cultivating Healthier Forms of Entertainment",
+            "leisure-2": "Broaden the scope of personal hobbies and interests.",
+            "leisure-3": "Reduce dependence on gambling activities",
+            "leisure-4": "Enhancing Life's Enjoyment Through Social Interaction"
+        }
+    },
+    "0039": {
+        "work": {
+            "work-1": "Enhancing Professional Competitiveness",
+            "work-2": "Work-life balance",
+            "work-3": "Expand high-quality customer resources",
+            "work-4": "Optimize team management capabilities",
+            "work-5": "Exploring the Potential of New Media Marketing"
+        },
+        "health": {
+            "health-1": "Strengthen the body's immunity",
+            "health-2": "Improving long-term sleep patterns",
+            "health-3": "Alleviating Suboptimal Health Conditions Caused by Occupational Factors",
+            "health-4": "Scientific Management of Chronic Diseases",
+            "health-5": "Establish a psychological health regulation mechanism"
+        },
+        "family": {
+            "family-1": "Resolving Conflicts in Intimate Relationships",
+            "family-2": "Coordinating Family Members' Expectations",
+            "family-3": "Clarify the direction for future planning",
+            "family-4": "Strengthening the Foundation of Emotional Communication"
+        },
+        "leisure": {
+            "leisure-1": "Cultivating an interest in artistic creation",
+            "leisure-2": "Enrich social circle interactions",
+            "leisure-3": "Practice physical and mental relaxation methods",
+            "leisure-4": "Pursuing Personalized Aesthetics of Life"
+        }
+    },
+    "0040": {
+        "work": {
+            "work-1": "Improving Work Efficiency to Handle High-Pressure Projects",
+            "work-2": "Seeking Professional Growth and Recognition",
+            "work-3": "Balancing creative inspiration with practical delivery capability",
+            "work-4": "Expand industry connections to establish long-term cooperation"
+        },
+        "health": {
+            "health-1": "Alleviating cervical spine issues caused by prolonged sitting",
+            "health-2": "Alleviating eye strain caused by prolonged use of eyes.",
+            "health-3": "Adjusting Daily Routine to Address Insomnia Troubles",
+            "health-4": "Enhancing physical strength to cope with high-intensity work rhythms"
+        },
+        "family": {
+            "family-1": "Enhancing effective communication with parents",
+            "family-2": "Maintain family bonds while preserving personal space.",
+            "family-3": "Explore activities suitable for the whole family to participate in together.",
+            "family-4": "Alleviate pressure from traditional family values"
+        },
+        "leisure": {
+            "leisure-1": "Cultivate diverse hobbies to enrich your life.",
+            "leisure-2": "Meeting Social Needs Through Culinary Experiences",
+            "leisure-3": "Finding ways to decompress and alleviate work-related stress",
+            "leisure-4": "Recording daily moments to create a sense of personal achievement"
+        }
+    },
+    "0041": {
+        "work": {
+            "work-1": "Enhance market competitiveness",
+            "work-2": "Optimize fund management",
+            "work-3": "Expand customer resources",
+            "work-4": "Improve production efficiency",
+            "work-5": "Exploring Business Transformation"
+        },
+        "health": {
+            "health-1": "Managing Chronic Diseases",
+            "health-2": "Relieving Psychological Stress",
+            "health-3": "Establishing healthy habits",
+            "health-4": "Enhance physical stamina"
+        },
+        "family": {
+            "family-1": "Repairing Intimate Relationships",
+            "family-2": "Improving Parent-Child Communication",
+            "family-3": "Create a harmonious atmosphere",
+            "family-4": "Seeking emotional support"
+        },
+        "leisure": {
+            "leisure-1": "Finding hobbies and interests",
+            "leisure-2": "Balancing Work and Life",
+            "leisure-3": "Release inner pressure",
+            "leisure-4": "Enrich the spiritual world"
+        }
+    },
+    "0042": {
+        "work": {
+            "work-1": "Enhancing Psychological Counseling Skills",
+            "work-2": "Alleviating Job Burnout",
+            "work-3": "Optimizing Work Time Management",
+            "work-4": "Expanding the Influence of Mental Health Science Popularization",
+            "work-5": "Enhance the ability to handle complex cases."
+        },
+        "health": {
+            "health-1": "Improve cervical spine health",
+            "health-2": "Stabilizing mood fluctuations",
+            "health-3": "Increase physical activity frequency",
+            "health-4": "Explore long-term rehabilitation solutions",
+            "health-5": "Establish healthy daily routines"
+        },
+        "family": {
+            "family-1": "Building an Independent Living Support System",
+            "family-2": "Enhancing the emotional bond with pets",
+            "family-3": "Adjusting to Psychological Adaptation After Divorce",
+            "family-4": "Creating a Cozy Home Environment"
+        },
+        "leisure": {
+            "leisure-1": "Balancing Hobbies and Work",
+            "leisure-2": "Finding Ways to Relax Mind and Body",
+            "leisure-3": "Enriching the Content of Solitude",
+            "leisure-4": "Expand social circle interactions"
+        }
+    },
+    "0043": {
+        "work": {
+            "work-1": "Improve work efficiency to reduce physical burden",
+            "work-2": "Seeking flexible work arrangements to accommodate health conditions",
+            "work-3": "Balancing Project Timelines and Team Management Pressure",
+            "work-4": "Exploring career transitions or gradually stepping back from high-intensity responsibilities"
+        },
+        "health": {
+            "health-1": "Control weight and improve dietary habits",
+            "health-2": "Alleviating mobility difficulties caused by knee arthritis",
+            "health-3": "Develop a postoperative rehabilitation and long-term health management plan.",
+            "health-4": "Monitoring blood pressure changes to prevent chronic disease risks",
+            "health-5": "Learn scientific exercise methods to enhance physical fitness."
+        },
+        "family": {
+            "family-1": "Maintaining close relationships with adult children",
+            "family-2": "Supporting important life decisions of family members.",
+            "family-3": "Coordinating household financial expenditures to meet multiple needs",
+            "family-4": "Plan future time allocation to increase opportunities for family companionship."
+        },
+        "leisure": {
+            "leisure-1": "Seeking alternative relaxation methods to compensate for limited fishing opportunities",
+            "leisure-2": "Cultivate new hobbies to enrich life after retirement.",
+            "leisure-3": "Enhancing Personal Happiness in Limited Spare Time",
+            "leisure-4": "Participate in social activities to expand interpersonal interaction circles."
+        }
+    },
+    "0044": {
+        "work": {
+            "work-1": "Enhancing career stability",
+            "work-2": "Expand high-quality customer resources",
+            "work-3": "Optimize time management skills",
+            "work-4": "Enhancing Project Negotiation Skills"
+        },
+        "health": {
+            "health-1": "Improve dietary regularity",
+            "health-2": "Alleviating chronic fatigue conditions",
+            "health-3": "Preventing the recurrence of gastric diseases",
+            "health-4": "Enhancing overall health awareness"
+        },
+        "family": {
+            "family-1": "Balancing Family Expectations and Personal Desires",
+            "family-2": "Enhancing mother-daughter emotional communication",
+            "family-3": "Reducing the Stress Associated with Marriage Topics",
+            "family-4": "Maintaining a harmonious family atmosphere"
+        },
+        "leisure": {
+            "leisure-1": "Enrich the Travel Experience",
+            "leisure-2": "Improving photography skills",
+            "leisure-3": "Exploring Diverse Hobbies and Interests",
+            "leisure-4": "Relieving Stress Through Leisure Activities"
+        }
+    },
+    "0045": {
+        "work": {
+            "work-1": "Enhancing communication and expression skills",
+            "work-2": "Optimize time management strategies",
+            "work-3": "Enhancing Team Collaboration Skills",
+            "work-4": "Continuously learning new technologies",
+            "work-5": "Balancing Work and Life Stress"
+        },
+        "health": {
+            "health-1": "Alleviating Conditions Related to Prolonged Sitting",
+            "health-2": "Improve diet and maintain regular sleep patterns.",
+            "health-3": "Strengthen core body exercises",
+            "health-4": "Preventing Recurrence of Chronic Diseases",
+            "health-5": "Maintaining a state of mental well-being"
+        },
+        "family": {
+            "family-1": "Coordinating family member relationships",
+            "family-2": "Planning Future Common Goals",
+            "family-3": "Adapting to the Lifestyle of Marriage",
+            "family-4": "Create a warm family atmosphere",
+            "family-5": "Addressing Intergenerational Differences in Living Habits"
+        },
+        "leisure": {
+            "leisure-1": "Enriched Entertainment Options",
+            "leisure-2": "Regulating High-Stress Emotional States",
+            "leisure-3": "Exploring New Hobbies",
+            "leisure-4": "Engage in interactive social activities"
+        }
+    },
+    "0046": {
+        "work": {
+            "work-1": "Enhancing Time Management Skills",
+            "work-2": "Optimizing Team Communication Efficiency",
+            "work-3": "Balancing Innovation and Execution Speed",
+            "work-4": "Enhancing Stress Resistance and Emotional Regulation Abilities",
+            "work-5": "Expand professional development skills"
+        },
+        "health": {
+            "health-1": "Improving long-term sleep regularity",
+            "health-2": "Alleviating Chronic Headache Issues",
+            "health-3": "Maintaining healthy skin condition",
+            "health-4": "Balanced Diet and Nutritional Intake"
+        },
+        "family": {
+            "family-1": "Reducing the Pressure Caused by Elder Interference",
+            "family-2": "Maintaining the stability of the marital relationship",
+            "family-3": "Coping with the Psychological Burden of Family Planning",
+            "family-4": "Establishing boundaries within the family",
+            "family-5": "Seeking consensus among family members"
+        },
+        "leisure": {
+            "leisure-1": "Enriching Baking Creativity and Techniques",
+            "leisure-2": "Exploring new areas of interest",
+            "leisure-3": "Gaining a sense of achievement through handmade crafts",
+            "leisure-4": "Finding ways to relax the body and mind"
+        }
+    },
+    "0047": {
+        "work": {
+            "work-1": "Enhancing team collaboration efficiency",
+            "work-2": "Optimize resource scheduling capabilities",
+            "work-3": "Improving management communication methods",
+            "work-4": "Stress resistance in dealing with unexpected problems"
+        },
+        "health": {
+            "health-1": "Establishing healthy lifestyle habits",
+            "health-2": "Controlling Alcohol and Tobacco Dependence",
+            "health-3": "Alleviating long-term work stress",
+            "health-4": "Regularly monitor physical indicators"
+        },
+        "family": {
+            "family-1": "Repairing the Father-Child Bond",
+            "family-2": "Strengthen family responsibility",
+            "family-3": "Active Involvement in Children's Growth",
+            "family-4": "Balancing Work and Family Time"
+        },
+        "leisure": {
+            "leisure-1": "Cultivate lasting hobbies",
+            "leisure-2": "Finding Healthy Ways to Relieve Stress",
+            "leisure-3": "Expand social interaction circles",
+            "leisure-4": "Planning Meaningful Personal Time"
+        }
+    },
+    "0048": {
+        "work": {
+            "work-1": "Enhancing stress resilience",
+            "work-2": "Optimizing Time Management",
+            "work-3": "Enhance team collaboration efficiency",
+            "work-4": "Balancing Career and Personal Life"
+        },
+        "health": {
+            "health-1": "Improving Psychological Stress Management",
+            "health-2": "Maintaining Thyroid Health Monitoring",
+            "health-3": "Alleviate palpitations and anxiety symptoms",
+            "health-4": "Develop regular sleep habits"
+        },
+        "family": {
+            "family-1": "Exploring the Possibility of an Emotional Relationship",
+            "family-2": "Coping with Parents' Expectations for Marriage",
+            "family-3": "Maintaining emotional connections among family and friends",
+            "family-4": "Seeking psychological comfort through family support"
+        },
+        "leisure": {
+            "leisure-1": "Persisting in Calligraphy Creation and Self-Cultivation",
+            "leisure-2": "Expanding the diversity of social circles",
+            "leisure-3": "Exploring new forms of artistic expression",
+            "leisure-4": "Regularly participate in cultural activities",
+            "leisure-5": "Finding ways to be alone and relax"
+        }
+    },
+    "0049": {
+        "work": {
+            "work-1": "Increase sources of income",
+            "work-2": "Alleviating Professional Fatigue",
+            "work-3": "Improving the work environment",
+            "work-4": "Balancing Work and Health"
+        },
+        "health": {
+            "health-1": "Relieving Chronic Pain",
+            "health-2": "Improve hearing condition",
+            "health-3": "Preventing the Worsening of Occupational Diseases",
+            "health-4": "Seeking cost-effective treatment options",
+            "health-5": "Enhancing daily health awareness"
+        },
+        "family": {
+            "family-1": "Ensuring Family Health",
+            "family-2": "Supporting children's education",
+            "family-3": "Share family responsibilities",
+            "family-4": "Strengthen family cohesion"
+        },
+        "leisure": {
+            "leisure-1": "Finding Ways to Relax",
+            "leisure-2": "Enhancing Family Interaction",
+            "leisure-3": "Exploring Low-Cost Entertainment",
+            "leisure-4": "Improving quality of life"
+        }
+    },
+    "0050": {
+        "work": {
+            "work-1": "Balancing Work and Personal Time",
+            "work-2": "Enhancing Professional Resilience",
+            "work-3": "Optimizing Technical Learning Efficiency",
+            "work-4": "Seeking long-term career development direction"
+        },
+        "health": {
+            "health-1": "Improve sleep quality",
+            "health-2": "Adjust dietary regularity",
+            "health-3": "Alleviate chronic physical fatigue",
+            "health-4": "Enhance Daily Immunity",
+            "health-5": "Preventing Sedentary-Related Diseases"
+        },
+        "family": {
+            "family-1": "Alleviating Parenting Philosophy Differences",
+            "family-2": "Enhancing emotional communication between spouses",
+            "family-3": "Coordinating the distribution of family responsibilities",
+            "family-4": "Pay attention to children's mental health."
+        },
+        "leisure": {
+            "leisure-1": "Finding efficient ways to relax",
+            "leisure-2": "Exploring suitable hobbies",
+            "leisure-3": "Balancing entertainment and rest time",
+            "leisure-4": "Increase opportunities for parent-child interaction"
+        }
+    },
+    "0051": {
+        "work": {
+            "work-1": "Pursuing efficient work methods",
+            "work-2": "Balancing Details and Overall Strategy",
+            "work-3": "Coping with High-Intensity Project Pressure",
+            "work-4": "Enhancing team collaboration and rapport",
+            "work-5": "Maintaining market sensitivity and innovation capability"
+        },
+        "health": {
+            "health-1": "Improve dietary regularity",
+            "health-2": "Alleviating chronic fatigue conditions",
+            "health-3": "Managing Mild Chronic Symptoms",
+            "health-4": "Strengthen the body's immunity",
+            "health-5": "Balancing Psychological and Physical Health"
+        },
+        "family": {
+            "family-1": "Coping with Pressure from Relationship and Marriage Urging",
+            "family-2": "Seeking Intergenerational Communication and Understanding",
+            "family-3": "Compensating for the Lack of Intimate Relationships",
+            "family-4": "Balancing Family Responsibilities and Personal Freedom",
+            "family-5": "Building an emotional support network"
+        },
+        "leisure": {
+            "leisure-1": "Enrich the content of solitary moments",
+            "leisure-2": "Exploring New Interests and Skills",
+            "leisure-3": "Seeking High-Quality Ways to Relax",
+            "leisure-4": "Expand social interaction channels",
+            "leisure-5": "Drawing Inspiration from Art"
+        }
+    },
+    "0052": {
+        "work": {
+            "work-1": "Optimize cash flow management",
+            "work-2": "Improving Team Collaboration Efficiency",
+            "work-3": "Enhance market competitiveness",
+            "work-4": "Promote business innovation",
+            "work-5": "Balancing Hands-On Involvement and Delegation"
+        },
+        "health": {
+            "health-1": "Improve dietary structure",
+            "health-2": "Establish a regular exercise routine.",
+            "health-3": "Alleviating long-term stress",
+            "health-4": "Preventing the worsening of chronic diseases",
+            "health-5": "Pay Attention to Lumbar Health"
+        },
+        "family": {
+            "family-1": "Repairing the father-son relationship",
+            "family-2": "Redefining Family Roles",
+            "family-3": "Sharing Educational Responsibilities",
+            "family-4": "Dealing with Emotional Regrets",
+            "family-5": "Enhancing Family Communication"
+        },
+        "leisure": {
+            "leisure-1": "Seeking Natural Healing",
+            "leisure-2": "Exploring Diverse Leisure Activities",
+            "leisure-3": "Cultivate social hobbies and interests",
+            "leisure-4": "Improving Leisure Quality",
+            "leisure-5": "Balancing work and leisure time"
+        }
+    },
+    "0053": {
+        "work": {
+            "work-1": "Enhancing Project Management Capabilities",
+            "work-2": "Expand and stabilize customer resources",
+            "work-3": "Optimizing Time Allocation Efficiency",
+            "work-4": "Enhance design innovation capabilities"
+        },
+        "health": {
+            "health-1": "Alleviating Chronic Strain Caused by Prolonged Sitting",
+            "health-2": "Establishing scientific exercise habits",
+            "health-3": "Alleviate physical and mental fatigue caused by stress.",
+            "health-4": "Seeking professional rehabilitation advice"
+        },
+        "family": {
+            "family-1": "Balancing work and family responsibilities",
+            "family-2": "Focus on long-term health needs of mothers",
+            "family-3": "Provide emotional support and companionship",
+            "family-4": "Planning a Family Health Management Program"
+        },
+        "leisure": {
+            "leisure-1": "Achieving Low-Cost, High-Quality Travel",
+            "leisure-2": "Recording Inspirational Moments in Life",
+            "leisure-3": "Explore natural scenery to relax your mind.",
+            "leisure-4": "Cultivate diverse hobbies and interests"
+        }
+    },
+    "0054": {
+        "work": {
+            "work-1": "Seeking efficient time management methods",
+            "work-2": "Alleviating psychological stress caused by high-intensity work",
+            "work-3": "Enhancing team management and leadership skills",
+            "work-4": "Balancing Performance Goals and Personal Health"
+        },
+        "health": {
+            "health-1": "Improving respiratory problems caused by long-term smoking",
+            "health-2": "Strengthen immunity to cope with the effects of frequent overtime work.",
+            "health-3": "Preventing Musculoskeletal Diseases Caused by Prolonged Sitting",
+            "health-4": "Establish a scientific smoking cessation and health management plan.",
+            "health-5": "Maintain a regular schedule to restore physical function."
+        },
+        "family": {
+            "family-1": "Repairing Estranged Relationships with Siblings",
+            "family-2": "Receiving recognition and support from family members.",
+            "family-3": "Managing Emotional Disparities Among Family Members",
+            "family-4": "Seeking deeper communication methods with parents"
+        },
+        "leisure": {
+            "leisure-1": "Continuously release work stress through fitness.",
+            "leisure-2": "Exploring new hobbies enriches life experiences.",
+            "leisure-3": "Regulating physical and mental state through travel",
+            "leisure-4": "Participating in public welfare activities to achieve a sense of self-worth."
+        }
+    },
+    "0055": {
+        "work": {
+            "work-1": "Career Growth and Planning Needs",
+            "work-2": "Needs for Team Collaboration Skills Enhancement",
+            "work-3": "Continuous Acquisition of Creative Inspiration",
+            "work-4": "Keenly capturing industry trends to identify demands",
+            "work-5": "Need for work stress management"
+        },
+        "health": {
+            "health-1": "Long-term skincare needs",
+            "health-2": "Optimization needs for cosmetic usage",
+            "health-3": "Adjustment needs for regular daily routine",
+            "health-4": "Comprehensive Health Management Needs"
+        },
+        "family": {
+            "family-1": "Need for Family Relationship Restoration",
+            "family-2": "Need for improved communication in family relationships.",
+            "family-3": "Need for relief from guilt",
+            "family-4": "The Need to Balance Independence and a Sense of Belonging"
+        },
+        "leisure": {
+            "leisure-1": "Inspiration stimulation needs for artistic creation",
+            "leisure-2": "Systematic Learning Needs for Photography Skills",
+            "leisure-3": "Need for social circle expansion",
+            "leisure-4": "Need for Deep Development of Personal Interests",
+            "leisure-5": "Diversified exploration needs for leisure activities"
+        }
+    },
+    "0056": {
+        "work": {
+            "work-1": "Improve management efficiency",
+            "work-2": "Adapting to Market Changes",
+            "work-3": "Optimize Team Collaboration",
+            "work-4": "Learning new technology applications",
+            "work-5": "Balancing Work and Health"
+        },
+        "health": {
+            "health-1": "Improve physical condition",
+            "health-2": "Relieve joint pain",
+            "health-3": "Adjusting sleep schedule",
+            "health-4": "Enhance awareness of exercise"
+        },
+        "family": {
+            "family-1": "Planning a Family Budget",
+            "family-2": "Coordinating Birth Plans",
+            "family-3": "Sharing household responsibilities",
+            "family-4": "Enhancing communication between spouses"
+        },
+        "leisure": {
+            "leisure-1": "Exploring Investment Opportunities",
+            "leisure-2": "Enjoy Film and Television Entertainment",
+            "leisure-3": "Cultivate interests and hobbies",
+            "leisure-4": "Relax both body and mind"
+        }
+    },
+    "0057": {
+        "work": {
+            "work-1": "Alleviation of Occupational Burnout",
+            "work-2": "Professional Skills Enhancement",
+            "work-3": "Time Management Optimization",
+            "work-4": "Emotional Pressure Release",
+            "work-5": "Customer Relationship Maintenance"
+        },
+        "health": {
+            "health-1": "Cervical Spine Health Management",
+            "health-2": "Improving Sedentary Habits",
+            "health-3": "Stress Relief",
+            "health-4": "Improved body flexibility"
+        },
+        "family": {
+            "family-1": "Setting Family Boundaries",
+            "family-2": "Harmonizing the relationship between mother-in-law and daughter-in-law",
+            "family-3": "Maintaining marital affection",
+            "family-4": "Balanced family atmosphere"
+        },
+        "leisure": {
+            "leisure-1": "Gardening Interest Expansion",
+            "leisure-2": "Deepening Meditation Practice",
+            "leisure-3": "Nature Healing Experience",
+            "leisure-4": "Social Circle Construction"
+        }
+    },
+    "0058": {
+        "work": {
+            "work-1": "Improving construction management efficiency",
+            "work-2": "Reducing Occupational Health Risks",
+            "work-3": "Balancing project schedule and quality control",
+            "work-4": "Enhancing Team Collaboration and Communication"
+        },
+        "health": {
+            "health-1": "Improving Respiratory Health",
+            "health-2": "Alleviating long-term work stress",
+            "health-3": "Optimize daily routine patterns",
+            "health-4": "Persist in protection and regular check-ups",
+            "health-5": "Exploring Chronic Disease Rehabilitation Methods"
+        },
+        "family": {
+            "family-1": "Increase parent-child bonding time",
+            "family-2": "Meeting the financial security needs of families",
+            "family-3": "Supporting children's education and development",
+            "family-4": "Enhancing Emotional Communication Between Couples"
+        },
+        "leisure": {
+            "leisure-1": "Seeking healthier leisure activities",
+            "leisure-2": "Cultivate diverse interests and hobbies.",
+            "leisure-3": "Release the pent-up negative emotions from work.",
+            "leisure-4": "Create more quality family time together."
+        }
+    },
+    "0059": {
+        "work": {
+            "work-1": "Improve content production efficiency",
+            "work-2": "Mastering diverse skills",
+            "work-3": "Balancing the pace of work and life",
+            "work-4": "Coping with Professional Competition Pressure",
+            "work-5": "Expanding creative expression methods"
+        },
+        "health": {
+            "health-1": "Relieving long-term eye strain",
+            "health-2": "Improve sleep regularity",
+            "health-3": "Enhance awareness of physical health management.",
+            "health-4": "Preventing Occupational Health Issues"
+        },
+        "family": {
+            "family-1": "Managing Family Expectation Conflicts",
+            "family-2": "Seeking emotional support and understanding",
+            "family-3": "Establishing Personal Boundaries",
+            "family-4": "Promoting intergenerational communication and harmony"
+        },
+        "leisure": {
+            "leisure-1": "Exploring Meaningful Hobbies and Interests",
+            "leisure-2": "Reduce reliance on screen time.",
+            "leisure-3": "Enrich cultural and entertainment experiences",
+            "leisure-4": "Increase the frequency of outdoor activities."
+        }
+    },
+    "0060": {
+        "work": {
+            "work-1": "Efficient Time Management",
+            "work-2": "Reducing work stress",
+            "work-3": "Enhancing Professional Fulfillment",
+            "work-4": "Optimizing remote collaboration efficiency",
+            "work-5": "Maintaining Professional Competitiveness"
+        },
+        "health": {
+            "health-1": "Improving health issues related to prolonged sitting",
+            "health-2": "Regular Diet and Nutritional Supplementation",
+            "health-3": "Alleviating Chronic Fatigue",
+            "health-4": "Enhancing body flexibility and strength",
+            "health-5": "Focus on Mental Health and Emotional Regulation"
+        },
+        "family": {
+            "family-1": "Enhancing the quality of parent-child relationships",
+            "family-2": "Balancing Family and Work Responsibilities",
+            "family-3": "Create more shared memories",
+            "family-4": "Expressing gratitude to family",
+            "family-5": "Promoting understanding and support between spouses"
+        },
+        "leisure": {
+            "leisure-1": "Cultivate sustainable hobbies",
+            "leisure-2": "Exploring modes of artistic expression",
+            "leisure-3": "Finding Inner Peace Through Reading",
+            "leisure-4": "Developing social leisure activities",
+            "leisure-5": "Finding suitable entertainment options for the whole family."
+        }
+    },
+    "0061": {
+        "work": {
+            "work-1": "Improving Project Management Efficiency",
+            "work-2": "Coping with Schedule Pressure and Uncertainty",
+            "work-3": "Optimizing Team Collaboration and Communication",
+            "work-4": "Ensure construction safety and compliance"
+        },
+        "health": {
+            "health-1": "Weight Control and Improving Dietary Habits",
+            "health-2": "Relieving discomfort caused by old knee injuries",
+            "health-3": "Managing Hypertension and Preventing Complications",
+            "health-4": "Balancing Work Intensity and Physical Recovery"
+        },
+        "family": {
+            "family-1": "Strengthen the emotional bond with your son.",
+            "family-2": "Making up for the lack of parent-child relationships in divorced families",
+            "family-3": "Establish a stable parent-child interaction pattern.",
+            "family-4": "Seeking personal emotional support and companionship"
+        },
+        "leisure": {
+            "leisure-1": "Relieving Work Stress Through Fishing",
+            "leisure-2": "Cultivate new hobbies to enrich your life.",
+            "leisure-3": "Expand your social circle to reduce loneliness.",
+            "leisure-4": "Finding inner peace by exploring the natural environment"
+        }
+    },
+    "0062": {
+        "work": {
+            "work-1": "Flexible work arrangement requirements",
+            "work-2": "Enhancing the Need for Job Stability",
+            "work-3": "Need to enhance the capability to address diverse customer demands",
+            "work-4": "The Need for Work-Life Balance",
+            "work-5": "Exploring career development direction needs"
+        },
+        "health": {
+            "health-1": "Relieving eye strain needs",
+            "health-2": "Need to improve sleep quality",
+            "health-3": "Prevention of Neck Discomfort Needs",
+            "health-4": "The need to develop regular sleep habits"
+        },
+        "family": {
+            "family-1": "Strengthening the Need for In-Depth Communication with Parents",
+            "family-2": "Need to maintain close family relationships",
+            "family-3": "Expressing the Need for Care and Gratitude",
+            "family-4": "Addressing the need to alleviate the sense of distance in long-distance family relationships"
+        },
+        "leisure": {
+            "leisure-1": "Needs for the In-Depth Development of Gardening Hobbies",
+            "leisure-2": "Demand for Baking Skills Enhancement",
+            "leisure-3": "Demand for Interest-Based Social Platforms",
+            "leisure-4": "Demand for Diversified Leisure Activities",
+            "leisure-5": "Alleviating Stress Through Interests"
+        }
+    },
+    "0063": {
+        "work": {
+            "work-1": "Enhancing team collaboration skills",
+            "work-2": "Optimizing Work-Life Balance",
+            "work-3": "Enhance stress resistance",
+            "work-4": "Improve communication skills",
+            "work-5": "Gaining a sense of professional achievement"
+        },
+        "health": {
+            "health-1": "Improve sleep quality",
+            "health-2": "Relieving Eye Strain",
+            "health-3": "Boost the body's immune system",
+            "health-4": "Preventing Sedentary Lifestyle-Related Diseases"
+        },
+        "family": {
+            "family-1": "Resolving Differences in Marital Views",
+            "family-2": "Enhancing Trust in Intimate Relationships",
+            "family-3": "Planning the Future Direction of the Family",
+            "family-4": "Balancing Partner Expectations and Personal Will"
+        },
+        "leisure": {
+            "leisure-1": "Develop diverse hobbies and interests",
+            "leisure-2": "Reduce dependence on video games",
+            "leisure-3": "Increase offline social activities",
+            "leisure-4": "Finding Efficient Ways to Decompress"
+        }
+    },
+    "0064": {
+        "work": {
+            "work-1": "Enhancing Teaching Innovation Methods",
+            "work-2": "Alleviating Professional Pressure and Parental Expectations",
+            "work-3": "Optimize administrative management efficiency",
+            "work-4": "Balancing Teaching and Personal Development",
+            "work-5": "Improving classroom atmosphere and student interaction"
+        },
+        "health": {
+            "health-1": "Restore and protect vocal health",
+            "health-2": "Systematically Regulate Anemia Symptoms",
+            "health-3": "Alleviating Back Discomfort Caused by Prolonged Desk Work",
+            "health-4": "Maintain a regular routine to reduce fatigue.",
+            "health-5": "Enhance overall physical fitness"
+        },
+        "family": {
+            "family-1": "Coordinating relationships among family members",
+            "family-2": "Fairly sharing parenting responsibilities",
+            "family-3": "Bridging the Communication Gap Between Couples",
+            "family-4": "Planning Children's Interests and Learning Schedules",
+            "family-5": "Creating Quality Family Time Together"
+        },
+        "leisure": {
+            "leisure-1": "Persist in yoga to exercise both body and mind.",
+            "leisure-2": "Using music to soothe emotions",
+            "leisure-3": "Explore more ways to relax",
+            "leisure-4": "Cultivate independent hobbies",
+            "leisure-5": "Seeking opportunities for a brief escape from the daily routine"
+        }
+    },
+    "0065": {
+        "work": {
+            "work-1": "Enhancing stress resilience",
+            "work-2": "Optimizing Time Management",
+            "work-3": "Expand professional skills",
+            "work-4": "Balancing Performance and Health",
+            "work-5": "Building Long-term Customer Trust"
+        },
+        "health": {
+            "health-1": "Improve sleep regularity",
+            "health-2": "Control alcohol intake",
+            "health-3": "Reducing the Risk of Chronic Diseases",
+            "health-4": "Enhancing Physical Fitness and Immunity",
+            "health-5": "Pay attention to mental health status"
+        },
+        "family": {
+            "family-1": "Bridging generational differences in perspectives",
+            "family-2": "Seeking emotional support and understanding",
+            "family-3": "Planning the Direction of Future Life",
+            "family-4": "Strengthening parent-child interaction"
+        },
+        "leisure": {
+            "leisure-1": "Cultivate diverse hobbies and interests",
+            "leisure-2": "Exploring Efficient Relaxation Methods",
+            "leisure-3": "Reducing reliance on screen time",
+            "leisure-4": "Finding the Balance in Social Entertainment"
+        }
+    },
+    "0066": {
+        "work": {
+            "work-1": "The Need for Job Stability in Response to Global Economic Fluctuations",
+            "work-2": "The need to improve cross-time zone communication efficiency",
+            "work-3": "The need to optimize work-life balance",
+            "work-4": "The need to enhance stress resistance and emotional management.",
+            "work-5": "The demand for expanding international supply chain resources"
+        },
+        "health": {
+            "health-1": "Health management needs for improving long-term irregular sleep patterns",
+            "health-2": "The need for regular monitoring of thyroid nodule changes",
+            "health-3": "The need to alleviate symptoms of chronic fatigue and dizziness",
+            "health-4": "The need to adjust dietary structure to promote recovery"
+        },
+        "family": {
+            "family-1": "The need to compensate for the emotional void in single-parent families",
+            "family-2": "Supporting the need for companionship in a daughter's academic development.",
+            "family-3": "Emotional needs for enhancing the quality of mother-daughter interactions",
+            "family-4": "The dual need to maintain economic independence and family stability"
+        },
+        "leisure": {
+            "leisure-1": "The need to relieve work pressure through travel",
+            "leisure-2": "The need to refine photography skills for self-expression",
+            "leisure-3": "The need for social recognition through participation in public welfare activities.",
+            "leisure-4": "The demand for exploring nature and culture to enrich life experiences"
+        }
+    },
+    "0067": {
+        "work": {
+            "work-1": "Enhance emergency response capabilities",
+            "work-2": "Optimize team collaboration relationships",
+            "work-3": "Learning new technologies and management tools",
+            "work-4": "Enhance awareness of career development planning."
+        },
+        "health": {
+            "health-1": "Control blood pressure and improve cardiovascular health",
+            "health-2": "Alleviating muscle discomfort caused by prolonged sitting",
+            "health-3": "Alleviate anxiety to balance psychological state.",
+            "health-4": "Establish regular exercise and sleep routines."
+        },
+        "family": {
+            "family-1": "Promoting Trust and Communication Among Stepchildren",
+            "family-2": "Coordinating Relationships Among Family Members in a Remarriage",
+            "family-3": "Create more opportunities for family interaction.",
+            "family-4": "Alleviating Role Stress in Family Conflicts"
+        },
+        "leisure": {
+            "leisure-1": "Finding social activities that suit you",
+            "leisure-2": "Cultivate hobbies to relieve stress",
+            "leisure-3": "Exploring easy and entertaining ways to consume content",
+            "leisure-4": "Try new life experiences to enrich your leisure time."
+        }
+    },
+    "0068": {
+        "work": {
+            "work-1": "Seeking Sources of Creative Inspiration",
+            "work-2": "Alleviating Workplace Stress and Anxiety",
+            "work-3": "Improving Work Efficiency and Time Management",
+            "work-4": "Psychological Support for Coping with Cyberbullying",
+            "work-5": "Explore Diverse Forms of Content Creation"
+        },
+        "health": {
+            "health-1": "Alleviating Physical Discomfort Caused by Prolonged Sitting",
+            "health-2": "Adjusting daily routine to restore endocrine balance.",
+            "health-3": "Daily Care Needs for Occupational Disease Prevention",
+            "health-4": "Seeking Mental Health and Emotional Regulation Methods"
+        },
+        "family": {
+            "family-1": "The pressure of dealing with intergenerational differences in perspectives",
+            "family-2": "Balancing Personal Development and Family Expectations",
+            "family-3": "Emotional Needs for Maintaining Long-Distance Intimate Relationships",
+            "family-4": "Building confidence in making independent life decisions"
+        },
+        "leisure": {
+            "leisure-1": "Releasing emotional stress through hobbies and interests.",
+            "leisure-2": "Seeking highly immersive entertainment experiences",
+            "leisure-3": "The Sustained Motivation for Collecting Hobbies",
+            "leisure-4": "Striving for a dynamic balance between work and leisure"
+        }
+    },
+    "0069": {
+        "work": {
+            "work-1": "Improve work efficiency",
+            "work-2": "Improving the work environment",
+            "work-3": "Balancing Innovation and Execution",
+            "work-4": "Optimizing Team Collaboration",
+            "work-5": "Alleviating Job Burnout"
+        },
+        "health": {
+            "health-1": "Alleviating Chronic Disease Symptoms",
+            "health-2": "Enhance physical endurance",
+            "health-3": "Protect skin health",
+            "health-4": "Improve sleep quality",
+            "health-5": "Balanced nutritional intake"
+        },
+        "family": {
+            "family-1": "Resolving Conflicts in Intimate Relationships",
+            "family-2": "Resolving Differences in Wedding Preparation",
+            "family-3": "Enhancing emotional communication",
+            "family-4": "Planning for Future Family Life"
+        },
+        "leisure": {
+            "leisure-1": "Deepening Culinary Exploration",
+            "leisure-2": "Enhancing Professional Wine Tasting Skills",
+            "leisure-3": "Ways to seek physical and mental relaxation",
+            "leisure-4": "Combining Interests with Career Inspiration"
+        }
+    },
+    "0070": {
+        "work": {
+            "work-1": "Career Development Path Planning",
+            "work-2": "Effective Time Management Methods",
+            "work-3": "Breakthrough Support for Technical Bottlenecks",
+            "work-4": "Optimization of Team Collaboration and Communication",
+            "work-5": "Strategies for Alleviating Work Pressure"
+        },
+        "health": {
+            "health-1": "Cervical Spine Health Improvement Plan",
+            "health-2": "Developing Regular Eating Habits",
+            "health-3": "Physical Recovery and Exercise Guidance",
+            "health-4": "Methods to Improve Sleep Quality",
+            "health-5": "Mental Health Adjustment Techniques"
+        },
+        "family": {
+            "family-1": "Suggestions for Family Conflict Mediation",
+            "family-2": "Improving Intergenerational Communication Methods",
+            "family-3": "Strategies for Maintaining Family Relationships",
+            "family-4": "Guidelines for Joint Activity Planning",
+            "family-5": "Future Life Planning Coordination"
+        },
+        "leisure": {
+            "leisure-1": "Exploring Diverse Hobbies and Interests",
+            "leisure-2": "Risk Control for Gaming Addiction",
+            "leisure-3": "Expansion of Realistic Entertainment Options",
+            "leisure-4": "Rational Allocation of Leisure Time",
+            "leisure-5": "Finding Ways to Achieve Psychological Relaxation"
+        }
+    },
+    "0071": {
+        "work": {
+            "work-1": "Career Advancement and Responsibility Balance",
+            "work-2": "Effective Time Management Techniques",
+            "work-3": "Enhancing Team Collaboration Skills",
+            "work-4": "Keen Insight into Industry Trends",
+            "work-5": "Strategies for Alleviating Workplace Stress"
+        },
+        "health": {
+            "health-1": "Healthy Routine Development Plan",
+            "health-2": "Scientific Guidance on Nutritional Intake",
+            "health-3": "Mental Health Support System",
+            "health-4": "Physical Function Recovery Training"
+        },
+        "family": {
+            "family-1": "Methods for Repairing Intimate Relationships",
+            "family-2": "Resolving Conflicts in Parenting Philosophies",
+            "family-3": "Bridge of Family Communication",
+            "family-4": "Improving the Quality of Parent-Child Interaction",
+            "family-5": "Establishing Boundaries in Adult-Child Relationships"
+        },
+        "leisure": {
+            "leisure-1": "Path to Cultivating Artistic Interests",
+            "leisure-2": "Exploring Ways to Relax Mind and Body",
+            "leisure-3": "Participation in Cultural and Recreational Activities",
+            "leisure-4": "Personal interest in in-depth exploration"
+        }
+    },
+    "0072": {
+        "work": {
+            "work-1": "Enhancing Corporate Competitiveness",
+            "work-2": "Optimize resource scheduling efficiency",
+            "work-3": "Alleviate operational pressure",
+            "work-4": "Expanding into new business areas",
+            "work-5": "Achieve technological upgrades"
+        },
+        "health": {
+            "health-1": "Improving Chronic Disease Management",
+            "health-2": "Adjust long-term dietary structure",
+            "health-3": "Enhancing Physical Endurance and Vitality",
+            "health-4": "Eliminate unhealthy lifestyle habits",
+            "health-5": "Improve Sleep Quality"
+        },
+        "family": {
+            "family-1": "Rebuilding the Bonds of Family Trust",
+            "family-2": "Making up for the lack of parent-child relationships",
+            "family-3": "Easing Marital Conflicts and Emotions",
+            "family-4": "Creating shared life memories",
+            "family-5": "Balancing Work and Family Responsibilities"
+        },
+        "leisure": {
+            "leisure-1": "Seeking ways to relax the mind",
+            "leisure-2": "Deepen the Experience of Hobbies and Interests",
+            "leisure-3": "Expand social circle interactions",
+            "leisure-4": "Cultivating sources of achievement",
+            "leisure-5": "Exploring the Healing Power of Natural Environments"
+        }
+    },
+    "0073": {
+        "work": {
+            "work-1": "Improving time management skills",
+            "work-2": "Seeking pathways to income stabilization",
+            "work-3": "Balancing Creativity and Commercial Needs",
+            "work-4": "Expanding the diversity of professional fields"
+        },
+        "health": {
+            "health-1": "Improving Long-Term Eye Health",
+            "health-2": "Enhancing immunity and physical fitness",
+            "health-3": "Relieving Physical Discomfort Caused by Prolonged Sitting",
+            "health-4": "Establish a regular sleep schedule.",
+            "health-5": "Pay attention to mental health status"
+        },
+        "family": {
+            "family-1": "Coping with Parental Pressure to Get Married",
+            "family-2": "Maintaining intimate relationships",
+            "family-3": "Insisting on Personal Life Choices",
+            "family-4": "Seeking family emotional support"
+        },
+        "leisure": {
+            "leisure-1": "Explore Unique Travel Experiences",
+            "leisure-2": "Cultivating hobbies to relieve stress",
+            "leisure-3": "Participate in offline social activities",
+            "leisure-4": "Record and share life's inspirations"
+        }
+    },
+    "0074": {
+        "work": {
+            "work-1": "Enhancing Decision-Making Decisiveness",
+            "work-2": "Optimize recruitment and training processes",
+            "work-3": "Enhancing team management capabilities",
+            "work-4": "Balancing Work and Personal Time"
+        },
+        "health": {
+            "health-1": "Alleviating the Effects of Chronic Stress",
+            "health-2": "Improve sleep quality",
+            "health-3": "Controlling hair loss",
+            "health-4": "Maintain a healthy weight",
+            "health-5": "Preventing Occupational Disease Risks"
+        },
+        "family": {
+            "family-1": "Supports pre-pregnancy and pregnancy needs",
+            "family-2": "Enhancing Communication and Collaboration Between Spouses",
+            "family-3": "Planning Parenting Resources and Environment",
+            "family-4": "Coordinating family relationships between both sides"
+        },
+        "leisure": {
+            "leisure-1": "Maintain a regular fitness routine",
+            "leisure-2": "Exploring Low-Intensity Exercise Methods",
+            "leisure-3": "Enrich cultural and recreational activities",
+            "leisure-4": "Increase opportunities for outdoor relaxation."
+        }
+    },
+    "0075": {
+        "work": {
+            "work-1": "Enhancing the team collaboration atmosphere",
+            "work-2": "Optimize management communication methods",
+            "work-3": "Balancing Work Intensity and Health",
+            "work-4": "Enhancing subordinates' sense of identification",
+            "work-5": "Improving Work Efficiency and Satisfaction"
+        },
+        "health": {
+            "health-1": "Improving Long-term Knee Care",
+            "health-2": "Alleviating Chronic Pain Issues",
+            "health-3": "Adjusting Daily Routines to Improve Sleep Quality",
+            "health-4": "Enhance physical function training",
+            "health-5": "Coping with the health impacts of weather changes"
+        },
+        "family": {
+            "family-1": "Strengthen the emotional bond with your daughter.",
+            "family-2": "Filling the Emotional Void of Living Alone",
+            "family-3": "Adapting to my daughter's increasingly independent lifestyle",
+            "family-4": "Establish a broader family support network"
+        },
+        "leisure": {
+            "leisure-1": "Finding suitable hobbies and interests for oneself",
+            "leisure-2": "Enhancing the diversity of entertainment in daily life",
+            "leisure-3": "Gaining emotional comfort through nostalgic activities",
+            "leisure-4": "Exploring community social opportunities"
+        }
+    },
+    "0076": {
+        "work": {
+            "work-1": "Pursuing design innovation and breakthroughs",
+            "work-2": "Coping with High-Intensity Project Pressure",
+            "work-3": "Optimizing Time Management and Efficiency",
+            "work-4": "Balancing client needs with personal principles"
+        },
+        "health": {
+            "health-1": "Improving Chronic Disease Management",
+            "health-2": "Alleviating Work-Related Physical Discomfort",
+            "health-3": "Establishing Scientific Eating Habits",
+            "health-4": "Enhance daily exercise awareness"
+        },
+        "family": {
+            "family-1": "Promoting communication among family members",
+            "family-2": "Resolving Conflicts in Stepfamily Relationships",
+            "family-3": "Creating opportunities for joint activities",
+            "family-4": "Seeking family emotional support"
+        },
+        "leisure": {
+            "leisure-1": "Expressing Inner Emotions Through Photography",
+            "leisure-2": "Exploring the Healing Power of Natural Landscapes",
+            "leisure-3": "Recording the beautiful moments in life",
+            "leisure-4": "Finding Spiritual Fulfillment Beyond Work"
+        }
+    },
+    "0077": {
+        "work": {
+            "work-1": "Meeting the Diverse Needs of Parents",
+            "work-2": "Balancing Teaching Innovation and Tradition",
+            "work-3": "Alleviating Job Burnout and Stress",
+            "work-4": "Enhancing classroom management skills"
+        },
+        "health": {
+            "health-1": "Improve wrist strain condition",
+            "health-2": "Protect your voice and avoid overuse.",
+            "health-3": "Seeking a long-term physical rehabilitation plan.",
+            "health-4": "Maintaining overall health status"
+        },
+        "family": {
+            "family-1": "Coordinating Marriage Plans with Economic Realities",
+            "family-2": "Balancing Parental Expectations and Personal Pace",
+            "family-3": "Building a Harmonious Relationship with Your Fiancé's Family",
+            "family-4": "Achieving mutual understanding and support among family members"
+        },
+        "leisure": {
+            "leisure-1": "Finding Inner Peace Through Weaving",
+            "leisure-2": "Rewatching Animated Films Heals the Soul",
+            "leisure-3": "Developing manual hobbies as a form of emotional expression",
+            "leisure-4": "Create independent and relaxing personal time"
+        }
+    },
+    "0078": {
+        "work": {
+            "work-1": "Seeking professional fulfillment",
+            "work-2": "Reduce social obligations pressure",
+            "work-3": "Exploring new career directions",
+            "work-4": "Improving work efficiency",
+            "work-5": "Balancing Work and Life"
+        },
+        "health": {
+            "health-1": "Improve liver health",
+            "health-2": "Control blood pressure levels",
+            "health-3": "Establishing a Healthy Lifestyle",
+            "health-4": "Enhance physical endurance",
+            "health-5": "Eliminate bad habits"
+        },
+        "family": {
+            "family-1": "Repairing the marital relationship",
+            "family-2": "Enhancing parent-child interaction",
+            "family-3": "Strive for Family Support",
+            "family-4": "Rebuilding Family Trust",
+            "family-5": "Allocating Family Time"
+        },
+        "leisure": {
+            "leisure-1": "Finding the Joy in Sports",
+            "leisure-2": "Relieving mental stress",
+            "leisure-3": "Participate in group activities",
+            "leisure-4": "Cultivate hobbies and interests",
+            "leisure-5": "Expand your social circle"
+        }
+    },
+    "0079": {
+        "work": {
+            "work-1": "Enhancing project management capabilities",
+            "work-2": "Optimize the creative screening process",
+            "work-3": "Enhance time management awareness",
+            "work-4": "Improve team collaboration efficiency"
+        },
+        "health": {
+            "health-1": "Relieve long-term eye strain",
+            "health-2": "Reduce lumbar disc pressure",
+            "health-3": "Develop the habit of exercising regularly.",
+            "health-4": "Balancing work and rest time"
+        },
+        "family": {
+            "family-1": "Coordinating Family Members' Expectations",
+            "family-2": "Maintaining the Quality of Marital Communication",
+            "family-3": "Coping with Emotional Pressure from Elders",
+            "family-4": "Exploring Consensus in Parenting Decisions"
+        },
+        "leisure": {
+            "leisure-1": "Expand baking skills domain",
+            "leisure-2": "Ways to relax and unwind",
+            "leisure-3": "Deepen investment in hobbies and interests",
+            "leisure-4": "Expressing Oneself Through Creation",
+            "leisure-5": "Enhancing the social interaction experience."
+        }
+    },
+    "0080": {
+        "work": {
+            "work-1": "Effective Time Management Strategies",
+            "work-2": "Methods to Alleviate High-Intensity Work Pressure",
+            "work-3": "Techniques for Enhancing Team Collaboration Efficiency",
+            "work-4": "Daily Habits for Maintaining Creative Inspiration",
+            "work-5": "The ability to balance project details with overall planning"
+        },
+        "health": {
+            "health-1": "Alleviating physical discomfort caused by prolonged desk work",
+            "health-2": "Develop a regular physical exercise routine.",
+            "health-3": "Effective Solutions for Relieving Shoulder and Neck Pain",
+            "health-4": "Adjusting Daily Routine to Promote Comprehensive Recovery"
+        },
+        "family": {
+            "family-1": "Ways to enhance the quality of communication between couples",
+            "family-2": "Coordinating Work and Family Time",
+            "family-3": "Cultivate new family hobbies together",
+            "family-4": "Coping with the Impact of Life Changes on Relationships"
+        },
+        "leisure": {
+            "leisure-1": "Professional Guidance for Enhancing Baking Skills",
+            "leisure-2": "Solutions for Optimizing Home Baking Equipment",
+            "leisure-3": "Discovering the Joy of Creating New Desserts",
+            "leisure-4": "Relieving Work Stress Through Handicraft Activities"
+        }
+    },
+    "0081": {
+        "work": {
+            "work-1": "Enhancing technical management capabilities",
+            "work-2": "Coping with high-intensity work pressure",
+            "work-3": "Seeking Professional Development Recognition",
+            "work-4": "Update equipment maintenance knowledge",
+            "work-5": "Improving team collaboration relationships"
+        },
+        "health": {
+            "health-1": "Focus on the Prevention and Treatment of Chronic Diseases",
+            "health-2": "Adjust unhealthy lifestyle habits",
+            "health-3": "Balancing Work and Physical Recovery",
+            "health-4": "Enhance health management awareness"
+        },
+        "family": {
+            "family-1": "Repairing the Emotional Rift Between Couples",
+            "family-2": "Enhancing in-depth communication with children",
+            "family-3": "Creating Shared Family Memories",
+            "family-4": "Alleviating Family Role Conflicts"
+        },
+        "leisure": {
+            "leisure-1": "Expand the range of hobbies and interests",
+            "leisure-2": "Integrating into community social activities",
+            "leisure-3": "Seeking creative leisure activities",
+            "leisure-4": "Balancing Personal Time Allocation"
+        }
+    },
+    "0082": {
+        "work": {
+            "work-1": "Seeking a stable source of income",
+            "work-2": "Balancing Artistic Style with Market Demand",
+            "work-3": "Enhancing stress resistance to cope with frequent revisions",
+            "work-4": "Expand high-quality cooperative resources",
+            "work-5": "Building a Personal Brand to Enhance Industry Influence"
+        },
+        "health": {
+            "health-1": "Improving Long-Term Insomnia Conditions",
+            "health-2": "Alleviate physical discomfort caused by stress.",
+            "health-3": "Adjusting your sleep schedule to enhance physical fitness.",
+            "health-4": "Exploring psychological adjustment methods that suit you."
+        },
+        "family": {
+            "family-1": "Resolving Conflicts with Parents over Marriage Views",
+            "family-2": "Seeking a balance between independent living and family expectations",
+            "family-3": "Reducing Negative Emotions Arising from Family Topics",
+            "family-4": "Establishing effective family communication methods"
+        },
+        "leisure": {
+            "leisure-1": "Gaining more creative inspiration through travel",
+            "leisure-2": "Cultivate diverse hobbies to relax the mind and body.",
+            "leisure-3": "Participating in offline art events to expand your social circle.",
+            "leisure-4": "Try new skills to unleash creative potential."
+        }
+    },
+    "0083": {
+        "work": {
+            "work-1": "Enhancing cross-departmental collaboration efficiency",
+            "work-2": "Optimizing Time Management and Task Allocation",
+            "work-3": "Balancing High-Intensity Work and Personal Health",
+            "work-4": "Enhance innovative thinking to cope with market competition.",
+            "work-5": "Enhancing Team Execution and Goal Alignment"
+        },
+        "health": {
+            "health-1": "Alleviating Chronic Pain Caused by Prolonged Sitting",
+            "health-2": "Improving core strength and posture issues",
+            "health-3": "Adjust your daily routine to reduce fatigue.",
+            "health-4": "Preventing the further deterioration of cervical and lumbar spine conditions.",
+            "health-5": "Exploring Scientific Methods to Alleviate Mental Stress"
+        },
+        "family": {
+            "family-1": "Coordinating differences in life perspectives among family members",
+            "family-2": "Balancing Independence and Intimacy in Marital Relationships",
+            "family-3": "Managing Potential Conflicts Arising from Elder Interference",
+            "family-4": "Promoting intergenerational communication and mutual understanding",
+            "family-5": "Create a harmonious and stable family atmosphere"
+        },
+        "leisure": {
+            "leisure-1": "Finding suitable relaxation methods for oneself",
+            "leisure-2": "Cultivating social circle interactions through games",
+            "leisure-3": "Improving esports skills to gain a sense of achievement",
+            "leisure-4": "Plan leisure time appropriately to avoid affecting your main responsibilities.",
+            "leisure-5": "Diverse hobbies to enrich daily life"
+        }
+    },
+    "0084": {
+        "work": {
+            "work-1": "Enhancing Team Stability and Cohesion",
+            "work-2": "Optimize store operational efficiency",
+            "work-3": "Formulate a long-term development plan",
+            "work-4": "Balancing High-Intensity Work with Personal Health",
+            "work-5": "Enhancing regional market competitiveness"
+        },
+        "health": {
+            "health-1": "Controlling Body Weight and Preventing Chronic Diseases",
+            "health-2": "Establishing sustainable exercise habits",
+            "health-3": "Adjusting dietary structure to improve metabolism",
+            "health-4": "Alleviating physical fatigue caused by stress",
+            "health-5": "Improve overall physical fitness and energy levels"
+        },
+        "family": {
+            "family-1": "Strengthening Emotional Communication with Adolescent Children",
+            "family-2": "Guiding children to develop healthy consumption concepts",
+            "family-3": "Helping Children Cope with Academic and Developmental Pressures",
+            "family-4": "Creating a warm family atmosphere",
+            "family-5": "Balancing the Mother Role and Professional Responsibilities"
+        },
+        "leisure": {
+            "leisure-1": "Practice cooking as a hobby to relax both body and mind.",
+            "leisure-2": "Exploring Global Culinary Inspirations",
+            "leisure-3": "Enhancing social connections during leisure time",
+            "leisure-4": "Relieve stress through creative activities",
+            "leisure-5": "Finding efficient leisure activities to regain energy"
+        }
+    },
+    "0085": {
+        "work": {
+            "work-1": "Requirements for Efficient Project Management Tools",
+            "work-2": "Strategies for Alleviating Workplace Stress",
+            "work-3": "Flexible work schedule requirements",
+            "work-4": "Team Collaboration and Communication Optimization Requirements",
+            "work-5": "Occupational Health Protection Measures Requirements"
+        },
+        "health": {
+            "health-1": "Long-term joint care plan requirements",
+            "health-2": "Postoperative rehabilitation guidance needs",
+            "health-3": "Physical Function Recovery Program Requirements",
+            "health-4": "Chronic Disease Prevention and Management Needs"
+        },
+        "family": {
+            "family-1": "Children's Relationship Mediation Support Needs",
+            "family-2": "Need for Family Conflict Resolution Methods",
+            "family-3": "Strategies for Co-parenting Needs of Couples",
+            "family-4": "Promotion Needs for Blended Family Integration"
+        },
+        "leisure": {
+            "leisure-1": "Optimization Suggestions for Fishing Activities Request",
+            "leisure-2": "Demand for expanding social circles based on interests",
+            "leisure-3": "Exploration of Diverse Leisure Activities",
+            "leisure-4": "Safety and Security Needs for Outdoor Activities"
+        }
+    },
+    "0086": {
+        "work": {
+            "work-1": "Enhancing Efficient Information Filtering Capabilities",
+            "work-2": "Strategies for Coping with High-Intensity Work Rhythms",
+            "work-3": "Balancing Career Growth and Sense of Achievement",
+            "work-4": "Team Collaboration and Adaptation to New Environments"
+        },
+        "health": {
+            "health-1": "Developing Regular Sleep Habits",
+            "health-2": "Stress Management and Emotional Regulation",
+            "health-3": "Stomach Health Management and Dietary Control",
+            "health-4": "Relief of Physical Fatigue and Recovery of Physical Strength",
+            "health-5": "Adhering to a healthy lifestyle long-term"
+        },
+        "family": {
+            "family-1": "Negotiation of Future Plans in Intimate Relationships",
+            "family-2": "Improving the Quality of Emotional Communication",
+            "family-3": "Resolution of Partner Disagreements and Reaching Compromises",
+            "family-4": "Exploration of Life Goal Alignment"
+        },
+        "leisure": {
+            "leisure-1": "Deep engagement in hobbies brings a sense of fulfillment.",
+            "leisure-2": "Pursuit of Immersive Entertainment Experience in Storylines",
+            "leisure-3": "Creative Handwritten Journal Design and Expression Needs",
+            "leisure-4": "Expanding the Social Attributes of Leisure Activities"
+        }
+    },
+    "0087": {
+        "work": {
+            "work-1": "Career Development and Performance Enhancement",
+            "work-2": "Stress Management and Psychological Adjustment",
+            "work-3": "International Business Expansion Capability",
+            "work-4": "Shaping and Maintaining a Professional Image",
+            "work-5": "The need for work-life balance"
+        },
+        "health": {
+            "health-1": "Improved Liver Function Health",
+            "health-2": "Long-term health management awareness",
+            "health-3": "Regularizing Diet and Daily Routine",
+            "health-4": "Control Needs for Alcohol Dependence"
+        },
+        "family": {
+            "family-1": "Repairing Marital Trust",
+            "family-2": "Emotional bonds among family members",
+            "family-3": "Children's need for involvement in their growth.",
+            "family-4": "Professional Consultation for Marital Issues"
+        },
+        "leisure": {
+            "leisure-1": "Development of Golf Social Functions",
+            "leisure-2": "The Integration of Personal Interests and Identity",
+            "leisure-3": "The Dual Demand for Exercise and Health",
+            "leisure-4": "Psychological Relaxation in Leisure Activities"
+        }
+    },
+    "0088": {
+        "work": {
+            "work-1": "Career Development and Skills Enhancement Needs",
+            "work-2": "Work stress management needs",
+            "work-3": "Optimization needs for time and energy allocation",
+            "work-4": "Customer Relationship Maintenance Requirements",
+            "work-5": "Need for Enhanced Professional Identity"
+        },
+        "health": {
+            "health-1": "Vision Protection and Eye Health Needs",
+            "health-2": "Psychological adjustment needs",
+            "health-3": "Need to alleviate physical fatigue",
+            "health-4": "Need for improving regular sleep schedule"
+        },
+        "family": {
+            "family-1": "Marriage Planning Coordination Needs",
+            "family-2": "Family relationship balance needs",
+            "family-3": "Coping with the Expectations of Elders",
+            "family-4": "Emotional Support Needs"
+        },
+        "leisure": {
+            "leisure-1": "Exploration of Physical and Mental Relaxation Methods",
+            "leisure-2": "Deepening Needs in Hobbies and Interests",
+            "leisure-3": "Need to expand social circle",
+            "leisure-4": "Self-growth-driven needs"
+        }
+    },
+    "0089": {
+        "work": {
+            "work-1": "Coping with Financing Pressure",
+            "work-2": "Develop a sustainable profitability strategy",
+            "work-3": "Balancing Team Management and Strategic Decision-Making",
+            "work-4": "Adapting to changes in market competition",
+            "work-5": "Enhancing Leadership and Communication Efficiency"
+        },
+        "health": {
+            "health-1": "Improve sleep quality",
+            "health-2": "Postoperative Rehabilitation and Health Management",
+            "health-3": "Adjust dietary structure",
+            "health-4": "Alleviate physical fatigue",
+            "health-5": "Seeking psychological stress relief"
+        },
+        "family": {
+            "family-1": "Compensating for the Lack of Parent-Child Relationship",
+            "family-2": "Balancing Current Marital Status with Future Plans",
+            "family-3": "Focus on Children's Educational Development",
+            "family-4": "Strengthening Family Emotional Bonds",
+            "family-5": "Balancing Work and Family Responsibilities"
+        },
+        "leisure": {
+            "leisure-1": "Relieve stress through exercise",
+            "leisure-2": "Gain Industry Knowledge and Inspiration",
+            "leisure-3": "Explore nature to relax your mind",
+            "leisure-4": "Participate in social networking to expand connections",
+            "leisure-5": "Cultivate hobbies to regulate the pace of life."
+        }
+    },
+    "0090": {
+        "work": {
+            "work-1": "Enhancing Design Creativity and Inspiration",
+            "work-2": "Optimizing Time Management and Efficiency",
+            "work-3": "Alleviating Workplace Stress and Anxiety",
+            "work-4": "Balancing work and personal life"
+        },
+        "health": {
+            "health-1": "Alleviating Physical Problems Caused by Prolonged Sitting",
+            "health-2": "Establish a regular exercise routine.",
+            "health-3": "Adjusting dietary structure to control body weight.",
+            "health-4": "Focus on Mental Health and Emotional Regulation",
+            "health-5": "Preventing the Risk of Chronic Diseases"
+        },
+        "family": {
+            "family-1": "Alleviating conflicts in family relationships",
+            "family-2": "Coping with the Psychological Pressure of Parental Marriage Pressure",
+            "family-3": "Improve the quality of communication with family members.",
+            "family-4": "Maintaining Independence and Personal Space"
+        },
+        "leisure": {
+            "leisure-1": "Finding sustainable hobbies",
+            "leisure-2": "Exploring Travel and Outdoor Activities",
+            "leisure-3": "Utilize fragmented time to relax and unwind.",
+            "leisure-4": "Cultivating practical skills as a hobby"
+        }
+    },
+    "0091": {
+        "work": {
+            "work-1": "Enhancing Team Collaboration Efficiency",
+            "work-2": "Optimize Store Operations Management",
+            "work-3": "Alleviating Performance Target Pressure",
+            "work-4": "Improving Employee Relationship Management"
+        },
+        "health": {
+            "health-1": "Enhance the body's immunity",
+            "health-2": "Improve sleep quality",
+            "health-3": "Maintain nutritional balance",
+            "health-4": "Reducing the impact of long-term stress"
+        },
+        "family": {
+            "family-1": "Balancing Work and Parenting Time",
+            "family-2": "Alleviate economic burden pressure",
+            "family-3": "Seeking Educational Support for Children",
+            "family-4": "Establishing a Stable Family Atmosphere"
+        },
+        "leisure": {
+            "leisure-1": "Rediscovering the Joy of Handicrafts",
+            "leisure-2": "Expand artistic creation skills",
+            "leisure-3": "Increase parent-child interaction activities",
+            "leisure-4": "Finding Ways to Release Emotions",
+            "leisure-5": "Exploring New Leisure Experiences"
+        }
+    },
+    "0092": {
+        "work": {
+            "work-1": "Seeking Easier Career Options",
+            "work-2": "Improving work efficiency and management capabilities",
+            "work-3": "Improve the working environment to reduce physical strain.",
+            "work-4": "Gain more career development opportunities",
+            "work-5": "Alleviating Workplace Stress and Responsibility Anxiety"
+        },
+        "health": {
+            "health-1": "Controlling the progression of chronic diseases",
+            "health-2": "Establish regular healthy lifestyle habits.",
+            "health-3": "Obtaining Long-Term Medical Expense Support",
+            "health-4": "Balancing Work and Health Management Needs",
+            "health-5": "Improving Mental State to Cope with Physical Discomfort"
+        },
+        "family": {
+            "family-1": "Strengthen communication and understanding with family members.",
+            "family-2": "Mitigating Conflicts in Marital Relationships",
+            "family-3": "Paying Attention to Children's Growth and Education",
+            "family-4": "Sharing family financial and living responsibilities",
+            "family-5": "Rebuilding Trust and Support Among Family Members"
+        },
+        "leisure": {
+            "leisure-1": "Develop diverse hobbies and interests.",
+            "leisure-2": "Alleviating Loneliness Through Social Activities",
+            "leisure-3": "Looking for low-cost entertainment options",
+            "leisure-4": "Properly arrange leisure time to avoid excessive involvement."
+        }
+    },
+    "0093": {
+        "work": {
+            "work-1": "Enhancing the market recognition of the work.",
+            "work-2": "Seeking a stable source of income",
+            "work-3": "Balancing creative work and rest time",
+            "work-4": "Expand career development opportunities",
+            "work-5": "Enhancing Professional Skills Competitiveness"
+        },
+        "health": {
+            "health-1": "Alleviating Physical Discomfort Caused by Prolonged Desk Work",
+            "health-2": "Establish a regular exercise routine.",
+            "health-3": "Improving suboptimal health status",
+            "health-4": "Shaping a more confident appearance",
+            "health-5": "Optimize daily schedule arrangements"
+        },
+        "family": {
+            "family-1": "The desire to achieve an independent life.",
+            "family-2": "Balancing Family Responsibilities and Personal Space",
+            "family-3": "Maintaining close family relationships",
+            "family-4": "Planning Future Living Models",
+            "family-5": "Coping with Dependence and Expectations Among Relatives"
+        },
+        "leisure": {
+            "leisure-1": "Pursuing low-cost, high-quality entertainment",
+            "leisure-2": "Relieving stress through travel and photography.",
+            "leisure-3": "Enriching forms of artistic creation",
+            "leisure-4": "Exploring diverse hobbies and interests",
+            "leisure-5": "Participate in community cultural exchange activities"
+        }
+    },
+    "0094": {
+        "work": {
+            "work-1": "Increase income sources",
+            "work-2": "Reducing working hours",
+            "work-3": "Enhancing Occupational Safety",
+            "work-4": "Optimizing the work environment"
+        },
+        "health": {
+            "health-1": "Improving Lumbar Spine Health",
+            "health-2": "Control blood pressure levels",
+            "health-3": "Relieving Psychological Stress",
+            "health-4": "Preventing potential diseases",
+            "health-5": "Regular health check-ups"
+        },
+        "family": {
+            "family-1": "Balancing Family and Work",
+            "family-2": "Focusing on Children's Development",
+            "family-3": "Reduce economic burden",
+            "family-4": "Improving communication between spouses"
+        },
+        "leisure": {
+            "leisure-1": "Rediscover personal interests",
+            "leisure-2": "Finding ways to relax",
+            "leisure-3": "Increase family interaction",
+            "leisure-4": "Exploring New Entertainment Activities"
+        }
+    },
+    "0095": {
+        "work": {
+            "work-1": "Seeking New Directions for Career Development",
+            "work-2": "Enhancing Work Efficiency and Focus",
+            "work-3": "Alleviating long-term work stress",
+            "work-4": "Improve team collaboration and communication skills",
+            "work-5": "Reigniting Passion and Sense of Achievement in Work"
+        },
+        "health": {
+            "health-1": "Improving visual health conditions",
+            "health-2": "Regulating suboptimal health symptoms",
+            "health-3": "Balancing work and recovery time",
+            "health-4": "Enhancing daily exercise habits",
+            "health-5": "Optimizing Sleep Schedule and Dietary Routine"
+        },
+        "family": {
+            "family-1": "Striving for More Independent Family Space",
+            "family-2": "Coordinating the Way of Getting Along with Elders",
+            "family-3": "Strengthening emotional support between spouses",
+            "family-4": "Alleviating Psychological Stress in Family Relationships",
+            "family-5": "Planning the economy to achieve family goals."
+        },
+        "leisure": {
+            "leisure-1": "Extend the learning time for psychological knowledge.",
+            "leisure-2": "Cultivate diverse hobbies and interests",
+            "leisure-3": "Increase social activities and interpersonal interactions.",
+            "leisure-4": "Finding a relaxation method that suits you",
+            "leisure-5": "Balancing the allocation of time between leisure and work"
+        }
+    },
+    "0096": {
+        "work": {
+            "work-1": "Enhance business development capabilities",
+            "work-2": "Optimize cost management strategies",
+            "work-3": "Explore industry transformation opportunities",
+            "work-4": "Enhancing Customer Relationship Management"
+        },
+        "health": {
+            "health-1": "Improving Chronic Disease Management",
+            "health-2": "Establishing Healthy Lifestyle Habits",
+            "health-3": "Alleviating long-term psychological stress",
+            "health-4": "Weight control and dietary balance",
+            "health-5": "Reducing dependence on tobacco and alcohol"
+        },
+        "family": {
+            "family-1": "Enhancing Effective Communication Between Spouses",
+            "family-2": "Rebuilding the Parent-Child Interaction Bond",
+            "family-3": "Balancing work and family time",
+            "family-4": "Creating a Harmonious Family Atmosphere"
+        },
+        "leisure": {
+            "leisure-1": "Rediscovering Personal Hobbies and Interests",
+            "leisure-2": "Finding Efficient Ways to Relax",
+            "leisure-3": "Cultivating alternative spiritual anchors",
+            "leisure-4": "Plan regular leisure activities"
+        }
+    },
+    "0097": {
+        "work": {
+            "work-1": "Improving time management skills",
+            "work-2": "Seeking ways to alleviate workplace stress",
+            "work-3": "Optimize creative output efficiency",
+            "work-4": "Balancing work and personal life"
+        },
+        "health": {
+            "health-1": "Improve long-term irregular sleep patterns",
+            "health-2": "Strengthen the body's immunity",
+            "health-3": "Focus on Mental Health Maintenance",
+            "health-4": "Coping with Chronic Health Issues",
+            "health-5": "Establish a regular exercise routine."
+        },
+        "family": {
+            "family-1": "Coordinating Intimate Relationship Planning",
+            "family-2": "Alleviating external family pressures",
+            "family-3": "Seeking Intergenerational Communication Strategies",
+            "family-4": "Clarify the future development direction"
+        },
+        "leisure": {
+            "leisure-1": "Exploring Sustainable Hobbies",
+            "leisure-2": "Enriching High-Quality Ways of Being Alone",
+            "leisure-3": "Cultivating cultural consumption habits",
+            "leisure-4": "Try diverse relaxation methods"
+        }
+    },
+    "0098": {
+        "work": {
+            "work-1": "Enhancing team collaboration capabilities",
+            "work-2": "Optimizing Work-Life Balance",
+            "work-3": "Enhancing Stress Resistance and Emotional Management",
+            "work-4": "Expand channels for technical exchange",
+            "work-5": "Seeking professional identity"
+        },
+        "health": {
+            "health-1": "Improving health issues caused by prolonged sitting",
+            "health-2": "Establish a regular exercise routine.",
+            "health-3": "Relieving Eye Strain and Discomfort",
+            "health-4": "Adjust your sleep schedule to improve sleep quality.",
+            "health-5": "Cultivate health management awareness"
+        },
+        "family": {
+            "family-1": "Repairing Estranged Family Relationships",
+            "family-2": "Learning to Express Emotions and Care",
+            "family-3": "Coping with pressure from family expectations",
+            "family-4": "Exploring the Possibility of Family Support"
+        },
+        "leisure": {
+            "leisure-1": "Enrich the diversity of interests and hobbies",
+            "leisure-2": "Reduce dependence on the virtual world",
+            "leisure-3": "Try offline social activities",
+            "leisure-4": "Seeking healthy ways to relax"
+        }
+    },
+    "0099": {
+        "work": {
+            "work-1": "The need to enhance the team's professional capabilities",
+            "work-2": "The need to optimize customer experience management",
+            "work-3": "The demand for innovative and differentiated services",
+            "work-4": "The need to expand business scale and resources",
+            "work-5": "The need to balance operating costs and revenues"
+        },
+        "health": {
+            "health-1": "The need to address health issues caused by prolonged standing",
+            "health-2": "The need to alleviate mental stress and anxiety",
+            "health-3": "The Need to Enhance Physical Immunity and Endurance",
+            "health-4": "The Need for Establishing Regular Sleep Patterns and Improving Sleep Quality"
+        },
+        "family": {
+            "family-1": "The need to enhance emotional communication between spouses",
+            "family-2": "The need to coordinate the division of household tasks",
+            "family-3": "Compensating for loneliness and the need for emotional support",
+            "family-4": "Planning the direction of future cohabitation needs"
+        },
+        "leisure": {
+            "leisure-1": "The need to explore diverse culinary pleasures",
+            "leisure-2": "The need to regulate mood through creative activities",
+            "leisure-3": "The need to find efficient ways to relax",
+            "leisure-4": "The need to enrich personal hobbies and interests"
+        }
+    }
+}

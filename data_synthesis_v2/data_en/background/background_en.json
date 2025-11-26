@@ -1,0 +1,1602 @@
+{
+    "0000": {
+        "name": "Li Xiaofeng",
+        "gender": "Male",
+        "age": 34,
+        "occupation": "The user is a sales manager responsible for business development in the company's East China region. He frequently travels for client visits and participates in various industry exhibitions and business meetings. Despite facing significant performance pressure, he has earned the trust of many clients through his excellent communication skills and negotiation abilities.",
+        "health status": "Due to long-term irregular eating habits, the user has poor gastric health and occasionally experiences stomach pain. Additionally, frequent social engagements have led to significant weight gain, which has prompted him to pay more attention to his physical health.",
+        "family members": "The user is married and has a 5-year-old son, but the marital relationship is quite strained, often leading to arguments over parenting issues. His parents live in their hometown and rarely keep in touch.",
+        "hobbies": "Work occupies most of his time, leaving his leisure life relatively monotonous. Occasionally, he goes to the gym for a run, but this is more to relieve physical fatigue rather than being driven by interest. Beyond that, he has almost no other particular hobbies.",
+        "personality": {
+            "Openness": "medium",
+            "Conscientiousness": "high",
+            "Extraversion": "high",
+            "Agreeableness": "low",
+            "Neuroticism": "high"
+        }
+    },
+    "0001": {
+        "name": "Wang Jingyi",
+        "gender": "Woman",
+        "age": 29,
+        "occupation": "The user is a graphic designer working at an advertising agency. Her responsibilities include brand visual design, poster creation, and social media content ideation. Despite tight project timelines and high demands, she consistently earns client recognition through her unique creative approach.",
+        "health status": "The user has mild myopia and experiences dry eyes from prolonged computer screen use. Additionally, due to a sedentary lifestyle with insufficient exercise, recent medical check-ups revealed elevated blood lipid levels.",
+        "family members": "The user lives with her husband in an apartment in the city center. Their relationship is stable, but they have not yet planned to have children. Her parents occasionally visit, and the overall family atmosphere is harmonious.",
+        "hobbies": "In her leisure time, the user enjoys trying out handicrafts such as embroidery and pottery, which bring her a sense of tranquility. At the same time, she is also passionate about photography and loves capturing beautiful moments in life through her lens.",
+        "personality": {
+            "Openness": "high",
+            "Conscientiousness": "medium",
+            "Extraversion": "medium",
+            "Agreeableness": "high",
+            "Neuroticism": "low"
+        }
+    },
+    "0002": {
+        "name": "Zhao Wenbo",
+        "gender": "Male",
+        "age": 42,
+        "occupation": "The user is a regional supervisor at a logistics company, responsible for coordinating the operations of multiple warehouses. His daily work involves personnel management, inventory scheduling, and handling unexpected issues. This role has allowed him to accumulate extensive management experience but has also brought significant psychological pressure.",
+        "health status": "The patient has hypertension and needs to take medication regularly to manage the condition. Additionally, due to long-term night shifts and staying up late, the patient experiences poor sleep quality and suffers from low energy during the day.",
+        "family members": "The user has been separated from his wife for many years and is currently raising two children alone. His eldest daughter is in high school, while his younger son is still in elementary school. With considerable financial pressure on the family, he often feels overwhelmed.",
+        "hobbies": "The user has almost no fixed hobbies and only spends weekends watching cartoons or playing simple board games with the children. Occasionally, he makes time to play a few rounds of mobile games to relax.",
+        "personality": {
+            "Openness": "low",
+            "Conscientiousness": "high",
+            "Extraversion": "low",
+            "Agreeableness": "medium",
+            "Neuroticism": "high"
+        }
+    },
+    "0003": {
+        "name": "Chen Siqi",
+        "gender": "Woman",
+        "age": 31,
+        "occupation": "The user is a human resources specialist primarily responsible for recruitment and employee training. She excels at uncovering candidates' potential and helping new employees integrate quickly into the team. However, she often feels exhausted when dealing with complex interpersonal relationships.",
+        "health status": "The user is in good overall health but frequently experiences soreness in the shoulder and neck areas due to long hours of desk work. Additionally, she has had significant mood swings recently, which may be related to work-related stress.",
+        "family members": "The user has been living with her boyfriend for two years, but they have disagreements about future plans, leading to some tension in their relationship. Her parents hope she will get married soon, which adds extra psychological pressure on her.",
+        "hobbies": "The user enjoys practicing yoga and maintains a regular schedule of three sessions per week to stay in shape and relax. Additionally, she is passionate about traveling and plans a long-distance trip each year to explore new places.",
+        "personality": {
+            "Openness": "high",
+            "Conscientiousness": "medium",
+            "Extraversion": "medium",
+            "Agreeableness": "high",
+            "Neuroticism": "medium"
+        }
+    },
+    "0004": {
+        "name": "Liu Zihan",
+        "gender": "Woman",
+        "age": 27,
+        "occupation": "The user is a new media operator responsible for content planning and promotion for corporate official accounts. Her work is highly challenging, requiring her to stay on top of trending topics and continuously learn new skills. Although the income is not particularly high, she is passionate about this profession.",
+        "health status": "The user was recently diagnosed with mild anemia, which may be related to a monotonous diet. Additionally, her vision has deteriorated rapidly due to excessive use of a mobile phone.",
+        "family members": "The user shares a two-bedroom apartment with a roommate, and they get along well. Her parents live in the countryside and send her money each month to help with living expenses, but they do not interfere excessively in her life.",
+        "hobbies": "The user enjoys binge-watching TV series and scrolling through short videos, which is her primary way of relieving stress. However, she realizes that this habit might lead to wasting time and is therefore making an effort to cultivate an interest in reading.",
+        "personality": {
+            "Openness": "medium",
+            "Conscientiousness": "low",
+            "Extraversion": "medium",
+            "Agreeableness": "medium",
+            "Neuroticism": "medium"
+        }
+    },
+    "0005": {
+        "name": "Zhou Tianming",
+        "gender": "Male",
+        "age": 38,
+        "occupation": "The user is a project manager at a construction company, responsible for overseeing the construction progress and quality of large-scale projects. His working conditions are challenging, requiring long-term stays at the construction site, resulting in limited time spent with his family.",
+        "health status": "Due to long-term exposure to a dusty environment, the user's respiratory system has been affected, making them prone to coughing. Additionally, the high-intensity labor at the construction site has placed significant strain on their knees.",
+        "family members": "The user and his wife have twin daughters, but due to work commitments, he rarely participates in their upbringing. His wife has expressed considerable dissatisfaction about this, leading to a gradual estrangement in their relationship.",
+        "hobbies": "The user's only hobby is fishing. Every time they return home on vacation, they take their gear and spend several hours by the river. They consider it the only activity that allows them to fully relax.",
+        "personality": {
+            "Openness": "low",
+            "Conscientiousness": "high",
+            "Extraversion": "low",
+            "Agreeableness": "low",
+            "Neuroticism": "medium"
+        }
+    },
+    "0006": {
+        "name": "Huang Yating",
+        "gender": "Woman",
+        "age": 33,
+        "occupation": "The user is a psychological counselor who provides psychological support and treatment plans for clients. She is skilled at listening and can keenly detect emotional changes in others. This work brings her a sense of fulfillment, but it also consumes a significant amount of emotional energy.",
+        "health status": "The user has recently been feeling exhausted, which may be related to prolonged exposure to a high-stress environment. She has started taking her colleagues' advice and is trying meditation and deep-breathing exercises.",
+        "family members": "She has been single for many years and maintains a close relationship with her parents. During holidays, she always returns to her hometown to spend time with them, cooking and chatting together while enjoying warm, cherished moments.",
+        "hobbies": "The user has a passion for writing and frequently shares psychological insights and reflections on their personal blog. Additionally, they enjoy cultivating green plants, believing that the process of caring for them helps to calm the mind.",
+        "personality": {
+            "Openness": "high",
+            "Conscientiousness": "high",
+            "Extraversion": "low",
+            "Agreeableness": "high",
+            "Neuroticism": "medium"
+        }
+    },
+    "0007": {
+        "name": "Wu Haoran",
+        "gender": "Male",
+        "age": 36,
+        "occupation": "The user is a financial analyst specializing in stock market research and investment strategy development. His work pace is fast, requiring constant attention to market dynamics and precise decision-making. Although the salary is substantial, his job satisfaction remains low.",
+        "health status": "The user has a high body fat percentage due to long-term overtime work and lack of exercise, along with mild symptoms of fatty liver disease. Additionally, he relies on sleeping pills to fall asleep due to anxiety-induced insomnia.",
+        "family members": "After divorcing his wife, the user lives alone and has no children. His parents have repeatedly urged him to remarry, but he has no interest in doing so.",
+        "hobbies": "The user's only form of entertainment is stock trading, and he devotes most of his free time to it. Despite this, he has grown weary of this \"hobby.\"",
+        "personality": {
+            "Openness": "medium",
+            "Conscientiousness": "high",
+            "Extraversion": "low",
+            "Agreeableness": "low",
+            "Neuroticism": "high"
+        }
+    },
+    "0008": {
+        "name": "Lin Xuemei",
+        "gender": "Woman",
+        "age": 28,
+        "occupation": "The user is a marketing specialist responsible for planning and executing various promotional activities. Her work requires strong execution skills and innovative thinking, as well as the ability to handle pressure effectively.",
+        "health status": "The user has been experiencing recurrent keratitis due to prolonged use of contact lenses. Additionally, she has developed skin allergies as a result of an unbalanced diet.",
+        "family members": "The user has been engaged to her fiancé for a year, but frequent conflicts during the wedding preparations have left her deeply troubled. Her parents fully support her, yet they are unable to truly resolve the practical issues.",
+        "hobbies": "The user enjoys baking and often makes cakes and cookies at home to give to friends. Additionally, she is passionate about shopping, especially for cosmetics and clothing.",
+        "personality": {
+            "Openness": "medium",
+            "Conscientiousness": "medium",
+            "Extraversion": "high",
+            "Agreeableness": "medium",
+            "Neuroticism": "high"
+        }
+    },
+    "0009": {
+        "name": "Zheng Haoyu",
+        "gender": "Male",
+        "age": 35,
+        "occupation": "The user is an automotive repair technician with over ten years of industry experience. He is highly skilled and capable of quickly diagnosing and fixing vehicle issues. Although the work is demanding, he takes great pride in his professional expertise.",
+        "health status": "The user suffers from lumbar disc herniation caused by long-term bending work, experiencing pain when standing for extended periods. Additionally, due to contact with chemicals such as engine oil, the skin on both hands has become rough and dry.",
+        "family members": "The user and his wife have two sons, and their family's financial situation is average. The wife takes care of the household full-time, and while the couple occasionally has arguments, their overall relationship is fairly stable.",
+        "hobbies": "The user enjoys modifying cars, which is his greatest interest. He often spends his free time replacing parts and enhancing the performance of his old vehicle.",
+        "personality": {
+            "Openness": "low",
+            "Conscientiousness": "high",
+            "Extraversion": "medium",
+            "Agreeableness": "medium",
+            "Neuroticism": "low"
+        }
+    },
+    "0010": {
+        "name": "Wang Qiang",
+        "gender": "Male",
+        "age": 28,
+        "occupation": "The user is a software engineer primarily engaged in backend development. His daily work involves handling large amounts of code and logical problems, often working late into the night. He has a strong interest in technology and enjoys learning new technologies while applying them to projects.",
+        "health status": "Due to prolonged sitting and lack of exercise, the user has gradually gained weight and developed minor lumbar spine issues. Additionally, he has recently noticed a significant decline in vision, likely related to prolonged exposure to computer screens.",
+        "family members": "The user is unmarried and currently lives with their parents. Although the family relationship is generally harmonious, the parents often urge them to get married as soon as possible, which makes them feel somewhat pressured.",
+        "hobbies": "The user is very interested in video games, particularly strategy games, which have become his primary form of entertainment. Additionally, he occasionally reads science fiction novels or watches related movies.",
+        "personality": {
+            "Openness": "high",
+            "Conscientiousness": "medium",
+            "Extraversion": "low",
+            "Agreeableness": "low",
+            "Neuroticism": "medium"
+        }
+    },
+    "0011": {
+        "name": "Zhang Xiaomei",
+        "gender": "Woman",
+        "age": 35,
+        "occupation": "The user is an elementary school teacher responsible for teaching Chinese language courses. Her work requires patience and a strong sense of responsibility, as she not only prepares lessons daily but also manages classroom discipline. Although her income is not high, she has a deep passion for her profession.",
+        "health status": "The user is in average physical condition and often experiences hoarseness from speaking too much. Additionally, she has recently noticed that she tires easily and suspects it may be due to a weakened immune system.",
+        "family members": "The user is married, but her husband works in another city, so they spend little time together. She has an eight-year-old daughter whom she raises alone, which places considerable pressure on her life.",
+        "hobbies": "The user spends most of her spare time with her children and has almost no personal hobbies. On the rare occasions when she has free time, she chooses to relax by listening to music.",
+        "personality": {
+            "Openness": "medium",
+            "Conscientiousness": "high",
+            "Extraversion": "medium",
+            "Agreeableness": "high",
+            "Neuroticism": "medium"
+        }
+    },
+    "0012": {
+        "name": "Chen Haoyu",
+        "gender": "Male",
+        "age": 42,
+        "occupation": "The user is a regional manager at a logistics company, responsible for coordinating the operations of multiple warehouses. He excels in team management and resource allocation but faces immense work pressure in the highly competitive industry environment.",
+        "health status": "The user recently had a medical check-up and was found to have high blood pressure. The doctor advised him to reduce staying up late and social engagements. At the same time, his long-term smoking habit has raised concerns about his lung health.",
+        "family members": "The user is married with two children—one in middle school and one in elementary school. The couple's relationship is distant, and they often argue over financial issues.",
+        "hobbies": "The user doesn't have any particular hobbies; occasionally, they meet up with friends for drinks and conversation, which is one of the few ways they relax.",
+        "personality": {
+            "Openness": "low",
+            "Conscientiousness": "medium",
+            "Extraversion": "high",
+            "Agreeableness": "low",
+            "Neuroticism": "high"
+        }
+    },
+    "0013": {
+        "name": "Liu Fang",
+        "gender": "Woman",
+        "age": 29,
+        "occupation": "The user is a graphic designer who provides brand visual design services for multiple companies. Her work is creative but also requires frequent revisions to meet client needs.",
+        "health status": "The user is in generally good health, but recently, due to consecutive overtime work, she has been experiencing severe shoulder and neck pain. She also often feels anxious, worrying about not being able to complete tasks on time.",
+        "family members": "The user is single and shares an apartment with a roommate. Her family hopes she will settle down soon, but she is in no hurry about it.",
+        "hobbies": "The user enjoys photography and often takes her camera out on weekends to capture landscapes. She is also passionate about attending various art exhibitions to draw inspiration from them.",
+        "personality": {
+            "Openness": "high",
+            "Conscientiousness": "medium",
+            "Extraversion": "medium",
+            "Agreeableness": "medium",
+            "Neuroticism": "high"
+        }
+    },
+    "0014": {
+        "name": "Zhao Wenbo",
+        "gender": "Male",
+        "age": 37,
+        "occupation": "The user is a manager of a chain restaurant, responsible for daily store operations and staff management. He is decisive in character and adept at resolving unexpected issues, but his workload is heavy and fragmented.",
+        "health status": "The user has recently been experiencing sleep disturbances, finding it difficult to fall asleep at night and feeling lethargic during the day. Additionally, due to irregular eating habits, they have developed mild gastritis.",
+        "family members": "The user is married, and his wife stays at home full-time to care for their two young children. Due to his busy work schedule, he rarely participates in household matters, which has caused some discontent from his wife.",
+        "hobbies": "The user has no fixed hobbies and usually spends their free time after work watching sports games or playing on their phone.",
+        "personality": {
+            "Openness": "low",
+            "Conscientiousness": "high",
+            "Extraversion": "medium",
+            "Agreeableness": "low",
+            "Neuroticism": "medium"
+        }
+    },
+    "0015": {
+        "name": "Huang Lina",
+        "gender": "Woman",
+        "age": 26,
+        "occupation": "The user is a customer service specialist who provides pre-sales and after-sales support for an e-commerce platform. Her job requires quick responses to customer inquiries, and she occasionally encounters difficult customers.",
+        "health status": "The user is in good health, but recently, due to excessive work pressure, she has started experiencing hair loss. She also feels significant mood swings and is easily irritable.",
+        "family members": "The user lives alone, while their parents reside in their hometown. They have a good relationship with their parents, but they don't communicate frequently.",
+        "hobbies": "The user enjoys binge-watching TV series, especially mystery and detective shows. She also uses fragmented time to watch short videos for relaxation.",
+        "personality": {
+            "Openness": "medium",
+            "Conscientiousness": "medium",
+            "Extraversion": "low",
+            "Agreeableness": "high",
+            "Neuroticism": "high"
+        }
+    },
+    "0016": {
+        "name": "Zhou Wei",
+        "gender": "Male",
+        "age": 33,
+        "occupation": "The user is a construction site project manager responsible for overseeing project progress and quality. His work environment is relatively challenging, requiring him to handle complex interpersonal relationships and construction difficulties.",
+        "health status": "The user has a strong physical constitution, but prolonged exposure to a dusty environment has had some impact on his respiratory system. Additionally, he previously suffered a knee injury, which still causes slight discomfort during weather changes.",
+        "family members": "The user is unmarried and currently single. His parents hope he will find a partner soon, but he feels that his career is not yet stable and has no time to consider marriage for the time being.",
+        "hobbies": "The user enjoys fishing and considers it a great way to relieve stress. However, due to a busy work schedule, he rarely has the opportunity to actually practice this hobby.",
+        "personality": {
+            "Openness": "low",
+            "Conscientiousness": "high",
+            "Extraversion": "medium",
+            "Agreeableness": "medium",
+            "Neuroticism": "low"
+        }
+    },
+    "0017": {
+        "name": "Li Xue",
+        "gender": "Woman",
+        "age": 27,
+        "occupation": "The user is a human resources assistant who assists with recruitment, training, and employee relations management. Her work is meticulous and intricate, but it allows her to interact with various types of employees, which broadens her perspective.",
+        "health status": "The user is in generally good health, but recently, prolonged desk work has caused stiffness in her cervical spine. She also experiences dry eyes, which she suspects is due to eye strain.",
+        "family members": "The user is cohabiting with her boyfriend, and their relationship is stable as they make preparations to buy a home and get married. Both sets of parents are supportive of their relationship.",
+        "hobbies": "The user enjoys baking and tries making cakes or cookies every weekend. She also shares her finished products with friends and colleagues, receiving a lot of positive feedback.",
+        "personality": {
+            "Openness": "medium",
+            "Conscientiousness": "high",
+            "Extraversion": "medium",
+            "Agreeableness": "high",
+            "Neuroticism": "low"
+        }
+    },
+    "0018": {
+        "name": "Sun Zhiyuan",
+        "gender": "Male",
+        "age": 40,
+        "occupation": "The user is a sales supervisor at an insurance company, responsible for leading their team to achieve performance targets. Their work requires frequent client visits to build trusting relationships.",
+        "health status": "The user has recently been experiencing memory decline, which may be related to aging and prolonged high levels of stress. Additionally, unhealthy eating habits have led to an increase in their cholesterol levels.",
+        "family members": "The user is married and has a ten-year-old daughter. The relationship between the couple is lukewarm, lacking common topics of conversation, and they have even considered separating.",
+        "hobbies": "The user's only hobby is playing mahjong, and they almost always gather friends to play together every week. They consider this the best way to relieve stress.",
+        "personality": {
+            "Openness": "low",
+            "Conscientiousness": "medium",
+            "Extraversion": "high",
+            "Agreeableness": "low",
+            "Neuroticism": "medium"
+        }
+    },
+    "0019": {
+        "name": "Wu Jiaqi",
+        "gender": "Female",
+        "age": 31,
+        "occupation": "The user is a freelance writer who contributes articles to magazines and websites. Her work schedule is flexible, but her income is unstable, requiring her to continuously seek new collaboration opportunities.",
+        "health status": "The user is in average physical condition and has been experiencing frequent insomnia recently due to writing-related stress. She also suffers from back pain caused by prolonged sitting.",
+        "family members": "The user is unmarried and shares an apartment with her close friend. Her family expresses concern about her delayed marriage, but she is more focused on her career development.",
+        "hobbies": "The user enjoys traveling and arranges at least one long-distance trip each year as a way to reward themselves. They also keep a diary in daily life to record everyday moments.",
+        "personality": {
+            "Openness": "high",
+            "Conscientiousness": "medium",
+            "Extraversion": "low",
+            "Agreeableness": "medium",
+            "Neuroticism": "high"
+        }
+    },
+    "0020": {
+        "name": "Li Xiaotong",
+        "gender": "Female",
+        "age": 31,
+        "occupation": "The user is a freelancer primarily engaged in illustration and design work. Her income is unstable, but she is passionate about creation and often takes on small projects to make a living. She is highly receptive to new technologies and tools and enjoys experimenting with various digital painting software.",
+        "health status": "The user has been experiencing lumbar discomfort due to prolonged sitting and has poor sleep quality. She has tried adjusting her schedule but often stays up late to meet deadlines due to work pressure.",
+        "family members": "The user lives with her husband, and they have not yet planned to have children. Their marital relationship is relatively平淡, and recently, some disagreements have arisen regarding future plans.",
+        "hobbies": "She enjoys painting and watching movies, and sometimes goes to cafes on weekends to seek inspiration. She occasionally attends offline art exhibitions, but has a relatively small social circle.",
+        "personality": {
+            "Openness": "high",
+            "Conscientiousness": "medium",
+            "Extraversion": "low",
+            "Agreeableness": "medium",
+            "Neuroticism": "high"
+        }
+    },
+    "0021": {
+        "name": "Zhang Weiqiang",
+        "gender": "Male",
+        "age": 42,
+        "occupation": "The user is a warehouse manager at a logistics company, responsible for receiving, dispatching, and daily inventory management of goods. He is familiar with traditional operational procedures but is unfamiliar with modern warehouse management systems and unwilling to learn them.",
+        "health status": "The user is in average health condition with excess body weight. The doctor has advised him to control his diet and increase physical activity. However, citing a busy work schedule, he seldom engages in voluntary exercise.",
+        "family members": "The user lives with his wife and their son, who is a middle school student. The son's academic performance is average, which causes the user considerable anxiety, leading him to frequently scold the child over educational matters.",
+        "hobbies": "The user has no particular hobbies and enjoys having a drink to relax after work. Occasionally, they play mahjong with friends, but not very frequently.",
+        "personality": {
+            "Openness": "low",
+            "Conscientiousness": "low",
+            "Extraversion": "medium",
+            "Agreeableness": "low",
+            "Neuroticism": "medium"
+        }
+    },
+    "0022": {
+        "name": "Zhao Yalin",
+        "gender": "Female",
+        "age": 28,
+        "occupation": "The user works as a product manager at an internet company, responsible for coordinating the work between the development team and the marketing department. She is highly ambitious about her career development and always aims for rapid promotion to higher positions.",
+        "health status": "The user's stomach condition has relapsed due to long-term overtime work, and she is also feeling somewhat mentally fatigued. She once attempted to improve her physical health through exercise but gave up after less than a month of persistence.",
+        "family members": "The user lives alone, with her parents residing in another city, and they communicate infrequently. Although single, she is not in a rush to pursue a relationship, believing that her career is more important.",
+        "hobbies": "She enjoys binge-watching dramas and scrolling through short videos to relieve stress from work. She occasionally goes to the gym, but more often than not, she just takes photos there to post on her social media feed.",
+        "personality": {
+            "Openness": "medium",
+            "Conscientiousness": "high",
+            "Extraversion": "medium",
+            "Agreeableness": "low",
+            "Neuroticism": "medium"
+        }
+    },
+    "0023": {
+        "name": "Liu Jianguo",
+        "gender": "Male",
+        "age": 50,
+        "occupation": "The user is a supervisor at a construction site, responsible for monitoring construction progress and worker safety. He is very confident in his experience but lacks patience in training newcomers and is prone to losing his temper.",
+        "health status": "The user has mild arthritis, with pain that worsens particularly during weather changes. He occasionally takes painkillers but has never actually gone to the hospital for a check-up.",
+        "family members": "The user lives with his wife and their adult daughter, who recently graduated from college and is currently job hunting. The family is under significant financial pressure, and the couple often argues over trivial matters.",
+        "hobbies": "The user enjoys fishing, which is their only leisure activity. Apart from that, they spend most of their time watching TV or smoking to relieve boredom at home.",
+        "personality": {
+            "Openness": "low",
+            "Conscientiousness": "medium",
+            "Extraversion": "low",
+            "Agreeableness": "low",
+            "Neuroticism": "high"
+        }
+    },
+    "0024": {
+        "name": "Chen Siqi",
+        "gender": "Woman",
+        "age": 36,
+        "occupation": "The user is an HR manager at a medium-sized enterprise, responsible for recruitment, training, and employee relationship management. She excels in interpersonal communication but finds tedious administrative tasks tiresome.",
+        "health status": "The user is in good overall health, but has recently experienced migraine symptoms, which may be related to work stress. She has started paying attention to mental health and has begun practicing meditation.",
+        "family members": "The user lives with her husband and their daughter, who is in the third grade of elementary school. The family atmosphere is harmonious, but since the husband frequently travels for work, the mother and daughter spend a lot of time together.",
+        "hobbies": "She enjoys yoga and reading psychology books, and is also passionate about traveling. She plans a long-distance trip every year to explore new cultures.",
+        "personality": {
+            "Openness": "high",
+            "Conscientiousness": "high",
+            "Extraversion": "high",
+            "Agreeableness": "high",
+            "Neuroticism": "low"
+        }
+    },
+    "0025": {
+        "name": "Wang Zhiyong",
+        "gender": "Male",
+        "age": 39,
+        "occupation": "The user is a taxi driver who navigates the city streets and alleys every day. His income is significantly affected by seasonal fluctuations—he earns well during peak seasons but struggles to make ends meet during off-peak periods.",
+        "health status": "The user has chronic pharyngitis, which may be related to long-term exposure to vehicle exhaust while driving. He also frequently experiences back and waist pain but has not taken any treatment measures.",
+        "family members": "The user lives with his wife and two preschool-aged children. With significant household expenses and his wife being a full-time caregiver for the children, the primary financial burden falls on him.",
+        "hobbies": "Users have almost no time to cultivate hobbies, and during their free time, they usually just read the news or play mobile games.",
+        "personality": {
+            "Openness": "low",
+            "Conscientiousness": "medium",
+            "Extraversion": "low",
+            "Agreeableness": "medium",
+            "Neuroticism": "high"
+        }
+    },
+    "0026": {
+        "name": "Huang Jingyi",
+        "gender": "Female",
+        "age": 27,
+        "occupation": "The user works as a copywriter at an advertising agency, responsible for creating creative content and participating in brand promotion campaigns. She has an active mind but occasionally falls into self-doubt, worrying that her work may not be outstanding enough.",
+        "health status": "The user has mild myopia but has not undergone correction. She also frequently feels fatigued, which may be related to excessive work intensity.",
+        "family members": "The user is cohabiting with her boyfriend, and their relationship is stable, but they have disagreements about future plans. She hopes to get married as soon as possible, while her boyfriend prefers to accumulate more wealth over the next few years.",
+        "hobbies": "The user enjoys photography and writing, often going out alone on weekends to capture landscape photos. She also shares her work on social media, receiving numerous likes.",
+        "personality": {
+            "Openness": "high",
+            "Conscientiousness": "medium",
+            "Extraversion": "medium",
+            "Agreeableness": "high",
+            "Neuroticism": "medium"
+        }
+    },
+    "0027": {
+        "name": "Zhou Wenbo",
+        "gender": "Male",
+        "age": 47,
+        "occupation": "The user is a regional manager of a chain supermarket, responsible for the operational management of multiple stores. He is data-sensitive and skilled at analyzing sales trends but pays insufficient attention to the needs of frontline employees.",
+        "health status": "The user has slightly high blood lipids, and the doctor advised him to change his eating habits. However, he still enjoys eating greasy food, believing that \"life is too short.\"",
+        "family members": "The user lives with his wife and their high school-aged daughter. The couple has a harmonious relationship, but their daughter is going through adolescence and is rebellious and difficult to manage.",
+        "hobbies": "The user enjoys playing basketball and participates in an amateur game once a week. Additionally, he also likes listening to music, especially classic old songs.",
+        "personality": {
+            "Openness": "medium",
+            "Conscientiousness": "high",
+            "Extraversion": "high",
+            "Agreeableness": "medium",
+            "Neuroticism": "low"
+        }
+    },
+    "0028": {
+        "name": "Lin Xuemei",
+        "gender": "Female",
+        "age": 33,
+        "occupation": "The user works as a sales representative at a foreign trade company, responsible for maintaining customer relationships and expanding overseas markets. She is fluent in English and highly adaptable, but often feels anxious when facing intense industry competition.",
+        "health status": "The user has cervical spondylosis, which may be related to long hours of desk work. She has tried acupuncture treatment, but the results have been average.",
+        "family members": "The user and her husband live apart, with him working in another city, so they spend very little time together. She has taken on the responsibility of caring for her mother-in-law alone and feels under considerable pressure.",
+        "hobbies": "The user enjoys cooking and often experiments with new recipes. She also loves growing flowers and plants, with her balcony filled with greenery that brings vitality to her home.",
+        "personality": {
+            "Openness": "medium",
+            "Conscientiousness": "high",
+            "Extraversion": "medium",
+            "Agreeableness": "high",
+            "Neuroticism": "medium"
+        }
+    },
+    "0029": {
+        "name": "Yang Zhiqiang",
+        "gender": "Male",
+        "age": 40,
+        "occupation": "The user is the owner of a small restaurant specializing in local snacks. He is personally involved in kitchen operations while also managing the business. He maintains strict standards for food hygiene, but the business experiences significant seasonal fluctuations.",
+        "health status": "The user has fatty liver disease, and the doctor advised him to reduce alcohol consumption and high-calorie food intake. However, he finds these habits difficult to change and can only monitor the condition through regular health check-ups.",
+        "family members": "The user lives with his wife and two school-age children. His wife helps manage the shop, but the two often argue due to differing business philosophies.",
+        "hobbies": "The user enjoys playing football and joined a community team when he was younger. Now, due to a busy schedule, he can only occasionally find time to watch live football matches.",
+        "personality": {
+            "Openness": "low",
+            "Conscientiousness": "high",
+            "Extraversion": "medium",
+            "Agreeableness": "low",
+            "Neuroticism": "high"
+        }
+    },
+    "0030": {
+        "name": "Li Weisong",
+        "gender": "Male",
+        "age": 42,
+        "occupation": "The user is a sales manager responsible for marketing the company's core products. He excels at building long-term relationships with clients and can quickly adapt to market changes. However, the pressure to meet performance targets often causes him anxiety, and he sometimes blames himself when goals are not achieved.",
+        "health status": "The user is overweight and has mild hypertension. Due to frequent social engagements required by work, he has unhealthy eating habits and lacks regular exercise. A recent health checkup reminded him to pay attention to heart health.",
+        "family members": "The user is married with a daughter in elementary school. The couple's relationship is relatively distant, with minimal communication, and occasional disagreements arise due to differing views on education. Their daughter craves more companionship from her father, but the user is often preoccupied with work.",
+        "hobbies": "The user enjoys watching sports events, especially football, but rarely participates in sports activities himself. He also likes playing mobile games to relax, considering it an efficient way to relieve stress.",
+        "personality": {
+            "Openness": "medium",
+            "Conscientiousness": "high",
+            "Extraversion": "high",
+            "Agreeableness": "low",
+            "Neuroticism": "high"
+        }
+    },
+    "0031": {
+        "name": "Wang Liping",
+        "gender": "Woman",
+        "age": 35,
+        "occupation": "The user is an HR specialist at a small to medium-sized enterprise, primarily responsible for recruitment and employee training. She excels at observing candidates' detailed performance and accurately assessing their job fit. However, when dealing with the complex interpersonal dynamics within the company, she often feels overwhelmed.",
+        "health status": "The user is in generally good health, but has recently experienced a decline in sleep quality. She suspects this may be related to work-related stress and is also experiencing mild symptoms of cervical spine discomfort.",
+        "family members": "The user is unmarried and lives with her mother. They share a close relationship, but her mother is very concerned about her marriage prospects and frequently urges her to go on blind dates. This pressure occasionally makes their conversations tense.",
+        "hobbies": "The user has a passion for reading psychology books and hopes to enhance her professional skills through learning. She also enjoys taking solitary walks to organize her thoughts in a quiet environment.",
+        "personality": {
+            "Openness": "high",
+            "Conscientiousness": "medium",
+            "Extraversion": "medium",
+            "Agreeableness": "high",
+            "Neuroticism": "medium"
+        }
+    },
+    "0032": {
+        "name": "Zhao Zhiyuan",
+        "gender": "Male",
+        "age": 38,
+        "occupation": "The user is a software engineer specializing in backend development. With years of dedicated work in the technical field, he possesses a solid professional foundation and extensive project experience. However, due to fierce industry competition, he is concerned that his skills may gradually fall behind the times.",
+        "health status": "Long-term sedentary habits have led to lumbar disc herniation in the user, causing pain when standing or walking for extended periods. Additionally, there has been a noticeable decline in vision, particularly evident while driving at night.",
+        "family members": "The user is divorced and is raising a 7-year-old son alone. The father-son relationship is good, but the child is introverted and does not communicate much with his father. The user finds it difficult to balance work and family responsibilities.",
+        "hobbies": "The user has almost no fixed hobbies and spends most of their free time reading news or watching short videos. They once tried running for exercise but gave up after less than a month.",
+        "personality": {
+            "Openness": "low",
+            "Conscientiousness": "high",
+            "Extraversion": "low",
+            "Agreeableness": "medium",
+            "Neuroticism": "high"
+        }
+    },
+    "0033": {
+        "name": "Zhang Xinyue",
+        "gender": "Woman",
+        "age": 26,
+        "occupation": "The user is a store manager of a cosmetics brand, responsible for store operations and team management. She is warm and outgoing, always able to attract customers to stop and make purchases. However, as a young manager, she appears inexperienced in handling employee conflicts.",
+        "health status": "The user has sensitive skin and is prone to seasonal allergies. Additionally, her sleep schedule is irregular, often staying up late binge-watching shows, resulting in poor mental alertness during the day.",
+        "family members": "The user lives with her boyfriend, and their relationship is stable but occasionally involves arguments. Due to the nature of his job, the boyfriend frequently travels for work, which makes the user feel lonely and dissatisfied.",
+        "hobbies": "The user is passionate about sharing makeup and outfit tips, often posting related content on social media. She also enjoys shopping and considers spending money a way to relieve stress.",
+        "personality": {
+            "Openness": "high",
+            "Conscientiousness": "low",
+            "Extraversion": "high",
+            "Agreeableness": "medium",
+            "Neuroticism": "medium"
+        }
+    },
+    "0034": {
+        "name": "Liu Jianguo",
+        "gender": "Male",
+        "age": 50,
+        "occupation": "The user is a factory supervisor responsible for the daily operations of the production line. He emphasizes efficiency, is strict with subordinates, and thus holds high prestige within the team. However, as he ages, he has become slower in adapting to new technologies.",
+        "health status": "The patient suffers from chronic gastritis and frequently experiences stomach pain triggered by improper diet. Additionally, his hearing has deteriorated, requiring others to speak louder during conversations for him to hear clearly.",
+        "family members": "The user has been separated from his wife for many years, with his two adult children studying and working abroad respectively. He lives alone, rarely contacts his family, and deeply longs for more emotional support from his relatives.",
+        "hobbies": "The user has no particular hobbies and usually spends leisure time watching TV. He occasionally goes to the park to play chess but prefers to be alone.",
+        "personality": {
+            "Openness": "low",
+            "Conscientiousness": "high",
+            "Extraversion": "low",
+            "Agreeableness": "low",
+            "Neuroticism": "low"
+        }
+    },
+    "0035": {
+        "name": "Sun Xiaomei",
+        "gender": "Woman",
+        "age": 45,
+        "occupation": "The user is a middle school Chinese language teacher with extensive teaching experience, who is well-loved by her students. She enjoys guiding students to contemplate life's philosophies but has recently become disappointed by some shortcomings in the education system.",
+        "health status": "The user suffers from severe frozen shoulder, and lifting heavy objects or prolonged desk work for lesson preparation exacerbates the pain. Additionally, she experiences significant mood swings and is prone to falling into low spirits.",
+        "family members": "The user has a harmonious relationship with her husband, but her mother-in-law's interference is causing her significant stress. The conflict between mother-in-law and daughter-in-law has become the primary issue in the family, affecting the marital relationship.",
+        "hobbies": "The user enjoys calligraphy and classical literature, as these activities help her temporarily forget her worries. She is also passionate about gardening, with her balcony filled with various plants.",
+        "personality": {
+            "Openness": "high",
+            "Conscientiousness": "medium",
+            "Extraversion": "medium",
+            "Agreeableness": "high",
+            "Neuroticism": "high"
+        }
+    },
+    "0036": {
+        "name": "Wu Tianyu",
+        "gender": "Male",
+        "age": 31,
+        "occupation": "The user is a freelance writer who contributes to multiple media platforms. He has an active mind and often explores topics from novel perspectives, but his income is unstable, and he frequently worries about his future career direction.",
+        "health status": "The user has average physical fitness and often feels fatigued from staying up late to write. He smokes heavily, resulting in yellowed teeth and bad breath, and has attempted to quit smoking multiple times without success.",
+        "family members": "The user has a distant relationship with their parents, almost to the point of cutting off contact. They are currently single and have few friends, with a very limited social circle.",
+        "hobbies": "The user enjoys watching movies, particularly science fiction works. Beyond that, they have no fixed hobbies and spend most of their time completing manuscript assignments.",
+        "personality": {
+            "Openness": "high",
+            "Conscientiousness": "low",
+            "Extraversion": "low",
+            "Agreeableness": "low",
+            "Neuroticism": "high"
+        }
+    },
+    "0037": {
+        "name": "Yang Jingya",
+        "gender": "Female",
+        "age": 28,
+        "occupation": "The user is a barista and entrepreneur who is preparing to open her first coffee shop. She has a strong interest in pour-over coffee and hopes to realize her personal value through it. However, financial constraints and market competition are putting her under significant pressure.",
+        "health status": "The user's finger joints have become stiff from long-term operation of the coffee machine, especially more noticeable in winter. She occasionally suffers from insomnia, repeatedly mulling over her plans for opening a shop in her mind.",
+        "family members": "The user has a close relationship with their brother, and the siblings share the family's financial responsibilities. Their parents are getting older, and with declining health, they require regular medical care.",
+        "hobbies": "The user enjoys studying the distinct flavors of coffee beans and experimenting with innovative beverage recipes. She also loves traveling and meticulously documents the scenic views along the way during each trip.",
+        "personality": {
+            "Openness": "high",
+            "Conscientiousness": "high",
+            "Extraversion": "medium",
+            "Agreeableness": "high",
+            "Neuroticism": "medium"
+        }
+    },
+    "0038": {
+        "name": "Chen Guoqiang",
+        "gender": "Male",
+        "age": 47,
+        "occupation": "The user is a truck driver who travels across the country year-round delivering goods. He is familiar with road conditions and possesses skilled driving techniques, but the monotonous and high-risk nature of his work leaves him physically and mentally exhausted.",
+        "health status": "The user suffers from lumbar muscle strain, experiencing unbearable soreness and distension in the lower back after long-distance driving. Additionally, he is heavily addicted to alcohol and unwilling to quit despite repeated warnings from his doctor.",
+        "family members": "The user has been divorced from his wife for many years, and their only son lives with the ex-wife. The father-son relationship is distant, and they have not seen each other for many years.",
+        "hobbies": "The user has no particular hobbies and enjoys playing mahjong for gambling in their free time, considering it the best form of entertainment.",
+        "personality": {
+            "Openness": "low",
+            "Conscientiousness": "low",
+            "Extraversion": "medium",
+            "Agreeableness": "low",
+            "Neuroticism": "medium"
+        }
+    },
+    "0039": {
+        "name": "Lin Mengqi",
+        "gender": "Woman",
+        "age": 33,
+        "occupation": "The user is an insurance agent who expands client resources through online and offline channels. She excels at listening to client needs and providing customized service solutions. However, due to intense industry competition, she has to sacrifice a significant amount of personal time.",
+        "health status": "The user has mild thyroid dysfunction and requires regular follow-up examinations. She is also prone to catching colds, and her immune system appears to have weakened compared to before.",
+        "family members": "The user has been engaged to her boyfriend for two years without proceeding to marriage, and both sets of parents disagree on the wedding arrangements. This has cast a shadow over the relationship, leaving its future uncertain.",
+        "hobbies": "The user enjoys practicing yoga and meditation, which are very helpful for relieving work-related stress. She is also fond of the art of flower arrangement and makes handmade gifts for friends and family during holidays.",
+        "personality": {
+            "Openness": "medium",
+            "Conscientiousness": "high",
+            "Extraversion": "high",
+            "Agreeableness": "high",
+            "Neuroticism": "low"
+        }
+    },
+    "0040": {
+        "name": "Li Xiaotong",
+        "gender": "Woman",
+        "age": 28,
+        "occupation": "The user is an advertising creative designer who excels at conveying brand value through visuals and copywriting. She often works late into the night to meet project deadlines, but her passion for the job makes it feel effortless. Although her income is moderate, she looks forward to the future with great anticipation.",
+        "health status": "The user's vision has noticeably deteriorated due to prolonged exposure to computer screens, and she recently got a new pair of glasses. Additionally, she experiences mild insomnia, which may be related to work stress.",
+        "family members": "The user lives with their parents but has limited daily communication due to differing values. Their younger brother is studying abroad and they occasionally stay in touch, though their relationship remains somewhat distant.",
+        "hobbies": "The user enjoys trying various types of cuisine and sharing her food exploration experiences on social media. Beyond this, she rarely participates in other activities and mostly spends her free time at home binge-watching shows or scrolling through short videos.",
+        "personality": {
+            "Openness": "high",
+            "Conscientiousness": "medium",
+            "Extraversion": "low",
+            "Agreeableness": "medium",
+            "Neuroticism": "high"
+        }
+    },
+    "0041": {
+        "name": "Wang Zhiyuan",
+        "gender": "Male",
+        "age": 45,
+        "occupation": "The owner of a small factory specializes in plastic product processing. In recent years, due to fierce market competition, his business has gradually declined, and he is facing difficulties with cash flow. He worries every day about how to keep the company running.",
+        "health status": "The patient has hypertension, and the doctor advised reducing salt intake and engaging in appropriate exercise, but he has been unable to stick with it. He also often experiences chest tightness, which may be caused by long-term anxiety.",
+        "family members": "The user is married with one child, but the relationship between the couple is distant, marked by constant arguments. The child is going through a rebellious phase, leading to a strained father-son relationship and an oppressive family atmosphere.",
+        "hobbies": "The user has almost no fixed hobbies and usually spends their time after work lounging on the sofa watching TV. On weekends, they occasionally meet friends for drinks and conversation, but this is only a brief form of relaxation.",
+        "personality": {
+            "Openness": "low",
+            "Conscientiousness": "medium",
+            "Extraversion": "low",
+            "Agreeableness": "low",
+            "Neuroticism": "high"
+        }
+    },
+    "0042": {
+        "name": "Chen Yajing",
+        "gender": "Woman",
+        "age": 33,
+        "occupation": "The user is a psychological counselor working at a community hospital. She helps patients address psychological issues and also writes popular science articles to promote mental health awareness. Although she finds her profession highly fulfilling, she often experiences mental exhaustion.",
+        "health status": "The user has severe cervical spine issues due to prolonged periods of looking down while recording medical cases. Additionally, she experiences significant mood swings and requires regular peer supervision to alleviate occupational burnout.",
+        "family members": "After her divorce, she lives alone and has no children. She has completely cut off contact with her ex-husband and currently relies on keeping cats as companions to cope with loneliness.",
+        "hobbies": "The user enjoys reading psychology-related books and is also passionate about practicing yoga to regulate their physical and mental state. However, due to a busy work schedule, these hobbies can only be pursued intermittently.",
+        "personality": {
+            "Openness": "high",
+            "Conscientiousness": "high",
+            "Extraversion": "medium",
+            "Agreeableness": "high",
+            "Neuroticism": "medium"
+        }
+    },
+    "0043": {
+        "name": "Zhang Weiming",
+        "gender": "Male",
+        "age": 52,
+        "occupation": "The user is a construction site project manager responsible for overseeing the execution of large-scale engineering projects. This position requires him to be on-site to resolve issues, and the exposure to wind and sun has left him looking particularly weathered. He is diligent and responsible in his work but lacks flexibility.",
+        "health status": "The user's knee arthritis is becoming increasingly severe, making it very difficult for them to go up and down stairs. Additionally, they are overweight, and the doctor has repeatedly reminded them to pay attention to dietary control.",
+        "family members": "The user has been married to his wife for many years, and their relationship remains stable. They have two adult daughters who have both moved out to live independently and only return home for family reunions during holidays.",
+        "hobbies": "His only interest is fishing, which he considers the sole activity that allows him to fully relax. However, due to his busy work schedule, he only gets the chance to go to the riverbank and enjoy the tranquility a few times each year.",
+        "personality": {
+            "Openness": "low",
+            "Conscientiousness": "high",
+            "Extraversion": "medium",
+            "Agreeableness": "high",
+            "Neuroticism": "low"
+        }
+    },
+    "0044": {
+        "name": "Liu Xinyi",
+        "gender": "Woman",
+        "age": 29,
+        "occupation": "The user is a freelancer primarily engaged in translation and content creation. She enjoys this flexible working style but also faces pressure from unstable income sources. She is actively working to expand her client base.",
+        "health status": "The user has mild gastric ulcers, which may be related to irregular eating habits. She also often feels fatigued and suspects it may be a manifestation of suboptimal health.",
+        "family members": "The user is unmarried and lives with her mother. They share a close relationship, but her mother occasionally urges her to marry and have children soon, which puts her under considerable pressure.",
+        "hobbies": "She loves traveling and plans a long-distance trip every year. In her daily life, she enjoys studying photography techniques to capture beautiful moments through her lens.",
+        "personality": {
+            "Openness": "high",
+            "Conscientiousness": "medium",
+            "Extraversion": "medium",
+            "Agreeableness": "high",
+            "Neuroticism": "medium"
+        }
+    },
+    "0045": {
+        "name": "Huang Junjie",
+        "gender": "Male",
+        "age": 36,
+        "occupation": "The user is an IT engineer specializing in software development and technical support. He possesses strong technical skills but remains modest and is not adept at expressing his thoughts. In team collaborations, he tends to focus on completing tasks diligently.",
+        "health status": "The user has chronic pharyngitis, likely caused by long-term late nights and overtime work. He also frequently experiences soreness in the lower back and waist due to prolonged sitting leading to muscle strain.",
+        "family members": "The user and his wife have just gotten married and have not yet had children. Both sets of parents have high hopes for their marriage, but they still need to adjust to the rhythm of living together.",
+        "hobbies": "The user is interested in esports and enjoys playing a few rounds of games in their spare time to relax. Beyond this, they do not have many other recreational activities.",
+        "personality": {
+            "Openness": "medium",
+            "Conscientiousness": "high",
+            "Extraversion": "low",
+            "Agreeableness": "medium",
+            "Neuroticism": "low"
+        }
+    },
+    "0046": {
+        "name": "Zhou Mengyao",
+        "gender": "Woman",
+        "age": 31,
+        "occupation": "The user is a marketing specialist responsible for planning and executing various promotional activities. She possesses innovative thinking and can quickly identify market trends, but sometimes her pursuit of perfection leads to reduced efficiency.",
+        "health status": "The user's poor skin condition may be related to staying up late and an unbalanced diet. She also complains of frequent headaches, which affect her work efficiency.",
+        "family members": "The user has a harmonious relationship with her husband, but she feels troubled by her in-laws' excessive interference. Although she currently has no plans to have children, she faces pressure from the older generation.",
+        "hobbies": "The user enjoys baking and is particularly skilled at making cakes and desserts. She often shares her creations with friends or posts them on social media, gaining a sense of fulfillment from it.",
+        "personality": {
+            "Openness": "high",
+            "Conscientiousness": "high",
+            "Extraversion": "medium",
+            "Agreeableness": "low",
+            "Neuroticism": "high"
+        }
+    },
+    "0047": {
+        "name": "Kevin Zheng",
+        "gender": "Male",
+        "age": 40,
+        "occupation": "The user is a regional manager at a logistics company, responsible for overseeing operations across multiple warehouses. He is accustomed to a decisive and efficient work style but sometimes acts too hastily, which can lead to dissatisfaction among subordinates.",
+        "health status": "The patient has fatty liver disease, and the doctor advised him to increase exercise and improve his diet. He also has a smoking habit and has attempted to quit multiple times without success.",
+        "family members": "The user has been divorced from his wife for many years, and their child is under the ex-wife's custody. He pays child support on time every month, but the father-son relationship is distant, with almost no initiative to contact each other.",
+        "hobbies": "The user has no particular hobbies or interests and usually drinks alone after work to relieve stress. He has tried to develop a fitness habit but always gives up halfway.",
+        "personality": {
+            "Openness": "low",
+            "Conscientiousness": "medium",
+            "Extraversion": "medium",
+            "Agreeableness": "low",
+            "Neuroticism": "high"
+        }
+    },
+    "0048": {
+        "name": "Xu Jiahui",
+        "gender": "Woman",
+        "age": 34,
+        "occupation": "The user is a human resources manager responsible for recruitment, training, and employee relations management. She excels at interacting with people but tends to become emotional in high-pressure situations, which can lead to poor decision-making.",
+        "health status": "The user has thyroid nodules that require regular follow-up examinations. She also frequently experiences palpitations, which may be caused by excessive work pressure.",
+        "family members": "The user is single and shares an apartment with her best friend. She longs for love but fears failure, which makes her hesitant to take the first step.",
+        "hobbies": "The user enjoys practicing calligraphy, considering it a way to cultivate one's character and attain mental tranquility. Additionally, she occasionally participates in offline book clubs to meet new friends.",
+        "personality": {
+            "Openness": "medium",
+            "Conscientiousness": "medium",
+            "Extraversion": "high",
+            "Agreeableness": "high",
+            "Neuroticism": "medium"
+        }
+    },
+    "0049": {
+        "name": "Lin Zhiqiang",
+        "gender": "Male",
+        "age": 47,
+        "occupation": "The user is a taxi driver who navigates the city streets and alleys every day. He knows every road well, but the long hours of driving have left him physically and mentally exhausted. He hopes to support his son through college with his hard work.",
+        "health status": "The user's lumbar disc herniation has become increasingly severe, requiring frequent adjustments to the seat position while driving. Additionally, there has been a decline in their hearing, which may be related to long-term exposure to noisy environments.",
+        "family members": "The user shares a deep bond with his wife, but she is in poor health and unable to work. Their son is currently in high school and excels academically, which brings great comfort to the entire family.",
+        "hobbies": "The user has no particular hobbies and spends most of their free time resting or watching TV with family. Their greatest wish is for the entire family to stay safe and healthy.",
+        "personality": {
+            "Openness": "low",
+            "Conscientiousness": "high",
+            "Extraversion": "low",
+            "Agreeableness": "high",
+            "Neuroticism": "low"
+        }
+    },
+    "0050": {
+        "name": "Wang Zhiyuan",
+        "gender": "Male",
+        "age": 34,
+        "occupation": "The user is a software engineer responsible for backend development and system optimization. He excels at solving complex technical issues but often works overtime, leading to an imbalance between work and life. He has a strong interest in new technologies but also feels immense pressure from industry competition.",
+        "health status": "The user's health condition is generally average. Due to long-term late nights, his sleep quality is relatively poor. He also occasionally experiences stomach discomfort but has not taken effective measures to improve these conditions.",
+        "family members": "The user is married and has one child, with a somewhat strained marital relationship due to differences in parenting philosophies between the couple. The child's education has become the primary source of family conflict.",
+        "hobbies": "The user occasionally plays video games to relax, but due to limited time, they rarely immerse themselves in it. Aside from this, they have almost no other specific hobbies.",
+        "personality": {
+            "Openness": "medium",
+            "Conscientiousness": "high",
+            "Extraversion": "low",
+            "Agreeableness": "medium",
+            "Neuroticism": "high"
+        }
+    },
+    "0051": {
+        "name": "Li Siqi",
+        "gender": "Woman",
+        "age": 29,
+        "occupation": "The user is a marketing manager responsible for brand promotion and event planning. She has an active mind and is skilled at identifying market trends, but sometimes gets bogged down in details due to her pursuit of perfection. Her team relies on her for strategy development but also feels that her standards are too high.",
+        "health status": "The user is in good physical condition, but she often feels fatigued due to irregular eating habits. Recent medical check-ups indicate mild symptoms of anemia, requiring adjustments to her lifestyle.",
+        "family members": "The user is currently single and living alone. Her parents hope she will find a partner as soon as possible, which has caused her considerable anxiety. She has limited contact with relatives and lacks close family support.",
+        "hobbies": "The user enjoys reading psychology books and listening to music, as these activities help her relieve work-related stress. However, she does not have a fixed circle of friends and has limited social activities.",
+        "personality": {
+            "Openness": "high",
+            "Conscientiousness": "high",
+            "Extraversion": "medium",
+            "Agreeableness": "low",
+            "Neuroticism": "medium"
+        }
+    },
+    "0052": {
+        "name": "Zhang Wenbo",
+        "gender": "Male",
+        "age": 41,
+        "occupation": "The user is the owner of a small business specializing in furniture manufacturing. Although the business is thriving, he faces challenges in cash flow management and market competition. He prefers to handle tasks personally and is reluctant to delegate important responsibilities to others.",
+        "health status": "The user is overweight with high blood pressure, and the doctor advised him to reduce his intake of greasy food and increase physical activity. However, he is always too busy with work to pay attention to his health.",
+        "family members": "The user has been divorced from his wife for many years, and their child lives with the ex-wife. He pays alimony every month, but the distant relationship with his son leaves him with a sense of regret.",
+        "hobbies": "The user enjoys fishing, which is his only form of leisure. He believes this activity allows him to temporarily escape the pressures of reality.",
+        "personality": {
+            "Openness": "low",
+            "Conscientiousness": "high",
+            "Extraversion": "low",
+            "Agreeableness": "medium",
+            "Neuroticism": "medium"
+        }
+    },
+    "0053": {
+        "name": "Zhao Xiaolin",
+        "gender": "Woman",
+        "age": 37,
+        "occupation": "The user is a freelancer primarily engaged in graphic design and copywriting. Her schedule is flexible, but her income is unstable, often requiring her to travel extensively to secure projects. She holds high standards for her work but struggles to gain full recognition from clients.",
+        "health status": "The user has recently been experiencing significant lower back pain, likely due to chronic strain from prolonged sitting. She has tried yoga but saw minimal results due to inconsistency.",
+        "family members": "The user lives with their mother, and they have a good relationship. However, the mother is elderly and suffers from multiple health issues, which places a significant caregiving burden on the user.",
+        "hobbies": "The user enjoys traveling, especially natural scenery, but her financial situation limits how often she can travel. Additionally, she likes keeping a diary to record daily moments.",
+        "personality": {
+            "Openness": "high",
+            "Conscientiousness": "medium",
+            "Extraversion": "medium",
+            "Agreeableness": "high",
+            "Neuroticism": "medium"
+        }
+    },
+    "0054": {
+        "name": "Zhou Haoran",
+        "gender": "Male",
+        "age": 32,
+        "occupation": "The user is a real estate sales consultant with outstanding performance but a heavy workload. He excels at communicating with clients and quickly building trust, but often feels overwhelmed by demanding targets.",
+        "health status": "The user has a good physical condition, but long-term smoking has caused him to develop a cough. He is aware of this issue, but his plan to quit smoking has yet to be successfully implemented.",
+        "family members": "The user has a distant relationship with their siblings. As the second child in the family, their parents favored the older brother more, which made them feel somewhat inferior from a young age.",
+        "hobbies": "The user is passionate about fitness and goes to the gym at least three times a week. He aims to maintain his physique through exercise while also relieving work-related stress.",
+        "personality": {
+            "Openness": "medium",
+            "Conscientiousness": "medium",
+            "Extraversion": "high",
+            "Agreeableness": "low",
+            "Neuroticism": "medium"
+        }
+    },
+    "0055": {
+        "name": "Chen Mengyao",
+        "gender": "Woman",
+        "age": 26,
+        "occupation": "The user is a fashion buyer responsible for selecting clothing styles suitable for the market. She is sensitive to trends but works in a fast-paced and uncertain environment. She enjoys the creative freedom of this job but is also concerned about her future career development.",
+        "health status": "The user's poor skin condition may be related to frequent makeup application. She has tried skincare products, but the results have not been significant.",
+        "family members": "The user has a distant relationship with her parents because her chosen career path goes against her family's expectations. She longs for independence but still harbors feelings of guilt.",
+        "hobbies": "The user enjoys visiting art exhibitions and photography displays, which serve as sources of inspiration for her. However, she does not have a fixed artistic partner and often appreciates these activities alone.",
+        "personality": {
+            "Openness": "high",
+            "Conscientiousness": "medium",
+            "Extraversion": "medium",
+            "Agreeableness": "medium",
+            "Neuroticism": "high"
+        }
+    },
+    "0056": {
+        "name": "Hang Yuhang",
+        "gender": "Male",
+        "age": 38,
+        "occupation": "The user is a regional manager at a logistics company, responsible for managing the delivery fleet and warehouse operations. Although experienced, he feels that his knowledge update pace cannot keep up with the constantly changing market demands.",
+        "health status": "The user has a previous knee injury that now causes a dull ache whenever it rains. He usually doesn't pay much attention to exercise, and his physical condition has gradually declined.",
+        "family members": "The user shares a deep bond with his wife, and together they manage their household. They are considering whether to have a second child, but financial pressure is making them hesitant.",
+        "hobbies": "The user enjoys watching movies, especially science fiction films, which help him temporarily forget his real-life worries. Additionally, he occasionally studies stock investments.",
+        "personality": {
+            "Openness": "medium",
+            "Conscientiousness": "high",
+            "Extraversion": "low",
+            "Agreeableness": "high",
+            "Neuroticism": "low"
+        }
+    },
+    "0057": {
+        "name": "Zheng Jiayi",
+        "gender": "Woman",
+        "age": 31,
+        "occupation": "The user is a psychological counselor who provides psychological counseling services to clients. She is highly empathetic, but prolonged exposure to negative emotions makes her prone to professional burnout.",
+        "health status": "The user is in good mental state, but cervical spine issues require her to undergo regular physical therapy. She hopes to improve this condition by adjusting her sitting posture.",
+        "family members": "The user has a stable relationship with her husband, but her in-laws interfere excessively, making her feel oppressed. She tries to maintain superficial harmony, but inwardly, she strongly resists.",
+        "hobbies": "The user enjoys growing flowers and plants, considering gardening a way to heal the mind. Additionally, she occasionally attends meditation classes.",
+        "personality": {
+            "Openness": "high",
+            "Conscientiousness": "medium",
+            "Extraversion": "medium",
+            "Agreeableness": "high",
+            "Neuroticism": "medium"
+        }
+    },
+    "0058": {
+        "name": "Sun Weifeng",
+        "gender": "Male",
+        "age": 45,
+        "occupation": "The user is a construction site project manager responsible for overseeing construction progress and quality. He is experienced, but the harsh on-site environment often places him under high pressure.",
+        "health status": "The user's impaired lung function may be related to long-term dust inhalation. Although he has started using protective equipment, he remains concerned about his health.",
+        "family members": "The user and his wife have two daughters, and the family bears a relatively heavy financial burden. He works hard to support the family but rarely has time to spend with them.",
+        "hobbies": "The user enjoys drinking and often gathers with friends for drinks on weekends. He has no other particular hobbies and spends most of his time on work or social engagements.",
+        "personality": {
+            "Openness": "low",
+            "Conscientiousness": "high",
+            "Extraversion": "high",
+            "Agreeableness": "low",
+            "Neuroticism": "medium"
+        }
+    },
+    "0059": {
+        "name": "Wu Yutong",
+        "gender": "Woman",
+        "age": 30,
+        "occupation": "The user is a new media editor primarily responsible for writing trending articles and managing social media accounts. She has excellent writing skills, but her content production speed cannot keep up with the demand for traffic. Fearing obsolescence, she continuously learns new skills.",
+        "health status": "The user's dry eyes may be related to prolonged screen time. She has tried using blue-light-blocking glasses, but the effect has been limited.",
+        "family members": "The user has a close relationship with her sister, but her parents have high expectations for her, hoping she will marry and have children soon. These expectations have put considerable pressure on her.",
+        "hobbies": "The user enjoys binge-watching TV series and scrolling through short videos, activities that occupy most of her free time. She lacks the motivation to cultivate more meaningful hobbies.",
+        "personality": {
+            "Openness": "medium",
+            "Conscientiousness": "medium",
+            "Extraversion": "low",
+            "Agreeableness": "medium",
+            "Neuroticism": "high"
+        }
+    },
+    "0060": {
+        "name": "Li Xiaotong",
+        "gender": "Woman",
+        "age": 28,
+        "occupation": "The user is a market analyst responsible for studying consumer behavior and industry trends. She is data-sensitive and logical, but frequent overtime work leads to significant stress. Her job requires frequent business trips, which leaves her feeling exhausted.",
+        "health status": "The user experiences some discomfort in the cervical spine due to long hours of sedentary office work, along with mild lumbar strain. Additionally, irregular eating habits occasionally cause dull pain in her stomach.",
+        "family members": "The user lives with her husband and their five-year-old daughter. Although the couple has a harmonious relationship, she often feels guilty about rarely spending time with her child due to her busy work schedule.",
+        "hobbies": "The user enjoys reading psychology books to relieve stress and has also tried painting, but couldn't persist due to a lack of time.",
+        "personality": {
+            "Openness": "high",
+            "Conscientiousness": "medium",
+            "Extraversion": "medium",
+            "Agreeableness": "high",
+            "Neuroticism": "medium"
+        }
+    },
+    "0061": {
+        "name": "Wang Jianguo",
+        "gender": "Male",
+        "age": 42,
+        "occupation": "The user is a project manager at a construction company, responsible for overseeing the progress of construction sites. He is experienced and highly responsible, but often receives criticism from superiors due to project delays. The work environment is relatively hazardous, requiring constant vigilance.",
+        "health status": "The user is overweight and has mild hypertension. Additionally, he previously injured his knee, which now causes a dull ache during rainy weather.",
+        "family members": "The user has been divorced for many years and has a son who lives with his ex-wife. There is little communication between father and son, which makes the user feel lonely.",
+        "hobbies": "Users occasionally go fishing to relax, but due to their busy work schedules, such opportunities are becoming increasingly rare.",
+        "personality": {
+            "Openness": "low",
+            "Conscientiousness": "high",
+            "Extraversion": "low",
+            "Agreeableness": "medium",
+            "Neuroticism": "high"
+        }
+    },
+    "0062": {
+        "name": "Chen Xuemei",
+        "gender": "Woman",
+        "age": 33,
+        "occupation": "The user is a freelancer primarily engaged in graphic design and illustration. Her income is unstable, but she enjoys the flexibility of managing her own time. The diverse demands of clients sometimes present significant challenges for her.",
+        "health status": "The user's eyes are prone to fatigue from prolonged screen time, often accompanied by dryness. Additionally, she experiences poor sleep quality and frequent insomnia.",
+        "family members": "The user lives alone, while their parents reside in another city. Although they occasionally return home for visits, their communication with each other remains superficial.",
+        "hobbies": "The user is passionate about gardening and has many green plants at home. She also enjoys baking, but it remains a hobby rather than a pursuit of professional development.",
+        "personality": {
+            "Openness": "high",
+            "Conscientiousness": "medium",
+            "Extraversion": "low",
+            "Agreeableness": "high",
+            "Neuroticism": "medium"
+        }
+    },
+    "0063": {
+        "name": "Zhang Yuhang",
+        "gender": "Male",
+        "age": 29,
+        "occupation": "The user is a software engineer who serves as a key technical expert at a tech company. He excels at coding and problem-solving but has weak teamwork skills, often leading to friction with colleagues. His workload is intense, and he frequently works late into the night.",
+        "health status": "The user's immune system has weakened due to long-term late nights, leading to frequent colds recently. They also complain of declining eyesight, which may be related to excessive eye strain.",
+        "family members": "The user is cohabiting with his girlfriend, and their relationship is stable. However, his girlfriend wishes to get married as soon as possible, while he remains hesitant about marriage, leading to some tension between them.",
+        "hobbies": "The user is addicted to video games, which is his primary way of relieving stress. Apart from this, he has almost no other hobbies.",
+        "personality": {
+            "Openness": "medium",
+            "Conscientiousness": "low",
+            "Extraversion": "low",
+            "Agreeableness": "low",
+            "Neuroticism": "high"
+        }
+    },
+    "0064": {
+        "name": "Liu Fang",
+        "gender": "Woman",
+        "age": 37,
+        "occupation": "The user is a middle school teacher who teaches Chinese. She is dedicated and responsible in her teaching, well-liked by her students, but the high expectations from parents have placed significant pressure on her. At the same time, the school's administrative tasks are complex and time-consuming, taking up a great deal of her energy.",
+        "health status": "The user's voice has become hoarse from long-term lecturing, and her throat frequently becomes inflamed. Additionally, she has mild anemia and requires regular iron supplements.",
+        "family members": "The user lives with her husband and two children. Her husband is extremely busy with work, leaving her to shoulder most of the family responsibilities, which has left her feeling physically and mentally exhausted.",
+        "hobbies": "The user enjoys practicing yoga twice a week. She also likes listening to classical music to help calm her mind.",
+        "personality": {
+            "Openness": "medium",
+            "Conscientiousness": "high",
+            "Extraversion": "medium",
+            "Agreeableness": "high",
+            "Neuroticism": "low"
+        }
+    },
+    "0065": {
+        "name": "Zhao Zihao",
+        "gender": "Male",
+        "age": 31,
+        "occupation": "The user is a sales manager responsible for acquiring new clients and maintaining relationships with existing ones. He is sociable and has outstanding performance, but the highly competitive work environment keeps him under constant stress. To achieve his targets, he often socializes with clients over drinks.",
+        "health status": "The user's liver function indicators are abnormal, and the doctor has advised reducing alcohol intake. Additionally, due to an irregular sleep schedule, he has developed hair loss issues.",
+        "family members": "The user is not yet married and lives with their parents. The parents urge them to start a family soon, but the user believes career is more important, leading to disagreements between them.",
+        "hobbies": "The user does not have any specific hobbies and usually passes the time by watching short videos or TV programs during leisure hours.",
+        "personality": {
+            "Openness": "low",
+            "Conscientiousness": "medium",
+            "Extraversion": "high",
+            "Agreeableness": "medium",
+            "Neuroticism": "medium"
+        }
+    },
+    "0066": {
+        "name": "Zhou Lijuan",
+        "gender": "Woman",
+        "age": 39,
+        "occupation": "The user works as a procurement specialist at a foreign trade company, responsible for sourcing suppliers and negotiating prices. She is fluent in English and highly competent in her role, but international time differences disrupt her sleep schedule. Additionally, global economic fluctuations have increased the uncertainty of her work.",
+        "health status": "The user was recently diagnosed with thyroid nodules, which are benign but require regular follow-up examinations. She also mentioned frequently experiencing dizziness and fatigue.",
+        "family members": "After her divorce, she lived with her daughter, the two relying on each other for support. Although their financial situation was acceptable, there was still an emotional void.",
+        "hobbies": "The user enjoys traveling and makes time each year to visit different places to relax. She is also passionate about photography, capturing beautiful moments during her journeys.",
+        "personality": {
+            "Openness": "high",
+            "Conscientiousness": "high",
+            "Extraversion": "medium",
+            "Agreeableness": "high",
+            "Neuroticism": "low"
+        }
+    },
+    "0067": {
+        "name": "Sun Zhiqiang",
+        "gender": "Male",
+        "age": 45,
+        "occupation": "The user is a regional supervisor at a logistics company, managing a delivery fleet. He is familiar with logistics operations but often feels overwhelmed when dealing with unexpected situations. The complex interpersonal dynamics within the department are a constant source of frustration for him.",
+        "health status": "The user has high blood pressure, which may be related to long-term anxiety. He also mentioned experiencing soreness in the back muscles, likely caused by prolonged sitting.",
+        "family members": "The user lives with his remarried wife and their respective children. The stepson treats him coldly, creating a somewhat awkward family dynamic.",
+        "hobbies": "Users occasionally play chess to pass the time but prefer staying at home to watch TV.",
+        "personality": {
+            "Openness": "low",
+            "Conscientiousness": "medium",
+            "Extraversion": "low",
+            "Agreeableness": "low",
+            "Neuroticism": "high"
+        }
+    },
+    "0068": {
+        "name": "Huang Yalin",
+        "gender": "Woman",
+        "age": 27,
+        "occupation": "The user is a new media operator responsible for content planning and promotion for social media accounts. She has abundant creativity, which has attracted a large number of followers, but KPI evaluations put her under significant pressure. At the same time, cyberbullying is also one of the challenges she faces.",
+        "health status": "The user has developed symptoms of tenosynovitis in her wrist due to prolonged mouse usage. Additionally, staying up late working overtime has caused endocrine imbalances, resulting in severe acne breakouts on her face.",
+        "family members": "The user is in a long-distance relationship with her boyfriend, and they rarely get to see each other. Her parents, however, hope she will end the relationship soon and settle down into marriage, leaving her feeling caught in a dilemma.",
+        "hobbies": "The user enjoys binge-watching TV series, with a particular preference for mystery-themed shows. She also likes collecting blind boxes, which is one of her little pleasures.",
+        "personality": {
+            "Openness": "high",
+            "Conscientiousness": "medium",
+            "Extraversion": "high",
+            "Agreeableness": "medium",
+            "Neuroticism": "medium"
+        }
+    },
+    "0069": {
+        "name": "Lin Zhiyuan",
+        "gender": "Male",
+        "age": 34,
+        "occupation": "The user is a head chef at a restaurant, responsible for dish development and kitchen management. He possesses exceptional culinary skills and is highly creative, but he finds the high-temperature environment in the kitchen unbearable. Additionally, the fast-paced nature of the food service industry leaves him with almost no time for rest.",
+        "health status": "The user's skin has become rough due to long-term exposure to cooking fumes, along with symptoms of chronic pharyngitis. He experiences high physical exertion and often feels extremely fatigued.",
+        "family members": "The user and his fiancée are preparing to get married by the end of the year, but the wedding preparations have been filled with disagreements, causing tension in their relationship.",
+        "hobbies": "The user enjoys wine tasting, particularly red wine. He also likes trying local specialty foods from various places to draw inspiration from them.",
+        "personality": {
+            "Openness": "high",
+            "Conscientiousness": "medium",
+            "Extraversion": "medium",
+            "Agreeableness": "low",
+            "Neuroticism": "high"
+        }
+    },
+    "0070": {
+        "name": "Li Haoran",
+        "gender": "Male",
+        "age": 28,
+        "occupation": "The user is a programmer primarily responsible for backend development. He excels at solving complex technical problems but often works overtime, leading to an unbalanced lifestyle. He has ambitious career goals but also feels anxious due to competitive pressures.",
+        "health status": "The user has developed cervical spine issues from long hours of desk work, often experiencing shoulder soreness. His irregular eating habits have also affected his stomach health. Additionally, he seldom exercises, resulting in poor physical fitness.",
+        "family members": "The user lives with their parents, but due to significant differences in values, there are frequent arguments at home. Their younger brother is studying abroad, and the two of them do not communicate much.",
+        "hobbies": "The user enjoys playing video games, particularly strategy games, which helps him temporarily forget his real-life worries. Beyond this, he has almost no other particular hobbies or interests.",
+        "personality": {
+            "Openness": "medium",
+            "Conscientiousness": "high",
+            "Extraversion": "low",
+            "Agreeableness": "low",
+            "Neuroticism": "high"
+        }
+    },
+    "0071": {
+        "name": "Zhang Yating",
+        "gender": "Woman",
+        "age": 35,
+        "occupation": "The user is a marketing manager responsible for brand promotion and event planning. She has an active mind and is adept at spotting market trends, but the high-intensity work has left her exhausted. She aspires to get a promotion but worries about balancing family and career.",
+        "health status": "The user was recently diagnosed with mild anemia and is experiencing symptoms of insomnia. Her mental state fluctuates and is easily influenced by external factors.",
+        "family members": "The user is married and has a son, but the relationship between the couple is quite distant. Her mother-in-law frequently interferes with parenting methods, leading to frequent family conflicts.",
+        "hobbies": "The user occasionally goes to yoga studios to relax, but more often chooses to pass the time by binge-watching shows at home. She has an interest in art but has never systematically studied painting or music.",
+        "personality": {
+            "Openness": "high",
+            "Conscientiousness": "medium",
+            "Extraversion": "medium",
+            "Agreeableness": "medium",
+            "Neuroticism": "high"
+        }
+    },
+    "0072": {
+        "name": "Wang Jianguo",
+        "gender": "Male",
+        "age": 42,
+        "occupation": "The user runs a small logistics company and is busy coordinating the needs of drivers and clients every day. He is pragmatic and efficiency-oriented, but in recent years, intensified industry competition has led to a noticeable decline in the company's profits.",
+        "health status": "The user is overweight with high blood pressure, and the doctor has advised him to reduce his intake of greasy foods. He also suffers from chronic pharyngitis, which may be related to long-term smoking.",
+        "family members": "The user has been separated from his wife for many years, and their child lives with the mother. He feels that he has let his family down but does not know how to mend the relationship.",
+        "hobbies": "The user enjoys fishing and often goes alone to the suburban reservoir on weekends. He considers it the only activity that allows him to fully relax.",
+        "personality": {
+            "Openness": "low",
+            "Conscientiousness": "high",
+            "Extraversion": "low",
+            "Agreeableness": "low",
+            "Neuroticism": "medium"
+        }
+    },
+    "0073": {
+        "name": "Liu Xiaomei",
+        "gender": "Female",
+        "age": 29,
+        "occupation": "The user is a freelance writer who contributes to multiple magazines and websites. Her articles have a unique style and are well-loved by readers, but her unstable income often leaves her concerned about the future.",
+        "health status": "The user's eyesight has significantly deteriorated due to prolonged screen time. She also often stays up late writing, which has weakened her immune system and made her prone to catching colds.",
+        "family members": "The user is single and shares an apartment with her best friend. Her parents are urging her to get married as soon as possible, but she believes marriage is not a necessity in life.",
+        "hobbies": "The user enjoys traveling, particularly exploring niche attractions. She also writes travelogues to share her experiences with her followers.",
+        "personality": {
+            "Openness": "high",
+            "Conscientiousness": "medium",
+            "Extraversion": "medium",
+            "Agreeableness": "high",
+            "Neuroticism": "medium"
+        }
+    },
+    "0074": {
+        "name": "Chen Wenbo",
+        "gender": "Male",
+        "age": 37,
+        "occupation": "The user is an HR director at a company, responsible for recruitment and employee training. He is sincere in his interactions with others and excels at communication, but lacks decisive decision-making ability when facing challenging issues.",
+        "health status": "The user is in good physical condition, but has recently started showing slight signs of hair loss. He suspects it may be due to excessive work pressure.",
+        "family members": "The user and his wife have a harmonious relationship, and they are planning to have a child. Both sets of parents support their decision and have provided considerable assistance.",
+        "hobbies": "The user is passionate about fitness and goes to the gym three times a week. He believes that maintaining a good physique helps boost self-confidence.",
+        "personality": {
+            "Openness": "medium",
+            "Conscientiousness": "high",
+            "Extraversion": "high",
+            "Agreeableness": "high",
+            "Neuroticism": "low"
+        }
+    },
+    "0075": {
+        "name": "Zhao Lijuan",
+        "gender": "Woman",
+        "age": 46,
+        "occupation": "The user works as a workshop supervisor at a clothing factory, managing dozens of workers. Although she is highly experienced, her overly rigid management approach has drawn criticism from her subordinates.",
+        "health status": "The user has a lingering knee injury from a workplace accident in their youth, which causes severe pain during weather changes. Their sleep quality is also poor, often waking up in the middle of the night.",
+        "family members": "The user has been divorced for many years and has raised her daughter alone. Her daughter is now attending university in another city, and they have minimal contact in their daily lives.",
+        "hobbies": "The user has no particular hobbies and usually spends leisure time watching TV or flipping through old photo albums to reminisce about the past.",
+        "personality": {
+            "Openness": "low",
+            "Conscientiousness": "medium",
+            "Extraversion": "low",
+            "Agreeableness": "low",
+            "Neuroticism": "high"
+        }
+    },
+    "0076": {
+        "name": "Zhou Zhigang",
+        "gender": "Male",
+        "age": 50,
+        "occupation": "The user is an architectural designer who has participated in the design work of multiple large-scale projects. He strives for perfection and has extremely high standards for details, but this trait often leads him to procrastination.",
+        "health status": "The user was recently diagnosed with fatty liver disease and needs to adjust their dietary structure. They also suffer from varicose veins in the feet due to long-term standing work.",
+        "family members": "The user remarried his current wife, and they each brought children from their previous marriages to live together as a family. The family dynamics are complex, and they do not get along well.",
+        "hobbies": "The user has a passion for photography and always takes his camera out to capture scenic photos during holidays. He considers these photos an integral part of his life.",
+        "personality": {
+            "Openness": "high",
+            "Conscientiousness": "medium",
+            "Extraversion": "low",
+            "Agreeableness": "medium",
+            "Neuroticism": "medium"
+        }
+    },
+    "0077": {
+        "name": "Wu Xuelian",
+        "gender": "Woman",
+        "age": 31,
+        "occupation": "The user is a kindergarten teacher who is patient and meticulous, well-loved by the children. However, the various demands from parents have been putting her under significant pressure, to the point where she sometimes considers resigning.",
+        "health status": "The user's wrist has been severely strained from holding a child for extended periods, to the point where even holding a pen is sometimes difficult. Her voice has also become hoarse from overuse.",
+        "family members": "The user has been living with her fiancé for a year but has delayed getting married due to financial issues. Her parents are unhappy about this and hope she settles down soon.",
+        "hobbies": "The user enjoys knitting sweaters and often gives the finished pieces to friends and family. She also likes watching animated films, as they make her feel like she's returning to her childhood.",
+        "personality": {
+            "Openness": "medium",
+            "Conscientiousness": "high",
+            "Extraversion": "medium",
+            "Agreeableness": "high",
+            "Neuroticism": "medium"
+        }
+    },
+    "0078": {
+        "name": "Zheng Weiqiang",
+        "gender": "Male",
+        "age": 40,
+        "occupation": "The user is a sales manager at an insurance company with outstanding performance, but he has to frequently engage in social engagements to meet targets. He finds this job both exhausting and lacking in a sense of fulfillment.",
+        "health status": "The user's liver function is impaired, likely due to long-term alcohol consumption. He also has mild hypertension, and the doctor has warned that he must abstain from alcohol.",
+        "family members": "The user and his wife spent little time together, leading to a gradual emotional distance. His son was quite unfamiliar with him and only reached out when in need of pocket money.",
+        "hobbies": "The user occasionally participates in basketball games, but more often, he just sits on the sidelines watching. He feels that exercise can help relieve some of the stress brought on by work.",
+        "personality": {
+            "Openness": "low",
+            "Conscientiousness": "medium",
+            "Extraversion": "high",
+            "Agreeableness": "low",
+            "Neuroticism": "high"
+        }
+    },
+    "0079": {
+        "name": "Huang Jingyi",
+        "gender": "Woman",
+        "age": 34,
+        "occupation": "The user is a graphic designer who excels at creating advertising posters and brochures. Her wildly imaginative creativity is truly admirable, but her lack of execution ability often leads to slow project progress.",
+        "health status": "The user's eyes felt dry and uncomfortable from staring at design software for an extended period. She also suffered from a lumbar disc herniation, with the pain worsening after prolonged sitting.",
+        "family members": "The user has a stable relationship with her husband, but they disagree on whether to have a second child. Her parents-in-law continue to pressure them, hoping they will have another child.",
+        "hobbies": "The user enjoys studying baking and often tries out new recipes. She also shares the pastries she makes with her neighbors and colleagues to strengthen relationships.",
+        "personality": {
+            "Openness": "high",
+            "Conscientiousness": "low",
+            "Extraversion": "medium",
+            "Agreeableness": "high",
+            "Neuroticism": "medium"
+        }
+    },
+    "0080": {
+        "name": "Li Xiaomei",
+        "gender": "Woman",
+        "age": 32,
+        "occupation": "Li Xiaomei is the creative director at an advertising agency, responsible for leading her team in designing brand promotion campaigns. She often works overtime to meet project deadlines and maintains extremely high standards for details. Despite the heavy workload, she enjoys the process of creating new things.",
+        "health status": "A recent physical examination revealed some issues with her cervical spine, likely related to long hours of desk work. The doctor recommended regular stretching exercises, but she often neglects these reminders due to her busy schedule.",
+        "family members": "She has been married to her husband for five years, but they have no children. Their relationship is stable; however, due to busy work schedules, they have limited time for communication, which occasionally leads to minor disagreements.",
+        "hobbies": "Her main hobby is baking, and she enjoys trying to make various desserts on weekends. However, due to a lack of professional equipment, the results are often unsatisfactory.",
+        "personality": {
+            "Openness": "high",
+            "Conscientiousness": "high",
+            "Extraversion": "medium",
+            "Agreeableness": "medium",
+            "Neuroticism": "low"
+        }
+    },
+    "0081": {
+        "name": "Wang Jianguo",
+        "gender": "Male",
+        "age": 45,
+        "occupation": "Wang Jianguo works as a technical supervisor at an automobile manufacturing plant, responsible for maintaining machinery on the production line. His work environment is noisy, and he must promptly address unexpected breakdowns. He is highly confident in his professional abilities but tends to overlook his colleagues' opinions.",
+        "health status": "He has mild hypertension but has not taken any treatment measures. He believes he is still young and doesn't need to pay special attention to health issues.",
+        "family members": "He lives with his wife and a daughter, but the relationship between the couple is distant, with almost no common topics of conversation. Their daughter, due to her excellent academic performance, was sent to another city to attend high school, so the family of three seldom gathers together.",
+        "hobbies": "In his spare time, he enjoys repairing household appliances and even provides free services for his neighbors. Aside from this, he rarely participates in other recreational activities.",
+        "personality": {
+            "Openness": "low",
+            "Conscientiousness": "high",
+            "Extraversion": "low",
+            "Agreeableness": "low",
+            "Neuroticism": "medium"
+        }
+    },
+    "0082": {
+        "name": "Zhang Lihua",
+        "gender": "Woman",
+        "age": 29,
+        "occupation": "Zhang Lihua is a freelancer who primarily engages in graphic design and illustration. She takes on projects flexibly, but her income is unstable—sometimes she earns a lot in a month, while other times she makes nothing at all. She holds firm to her artistic style and is unwilling to cater to market demands.",
+        "health status": "She suffers from mild insomnia, finding it difficult to fall asleep at night and feeling lethargic during the day. She has tried drinking milk to aid sleep, but it hasn't been effective.",
+        "family members": "She currently lives alone, and her parents hope she will get married and have children as soon as possible, but she feels resistant to this. Every time she returns home to visit her family, it leads to arguments.",
+        "hobbies": "She loves traveling and spends several months each year visiting different places for inspiration. Additionally, she enjoys exploring museums and art galleries to draw creative ideas from them.",
+        "personality": {
+            "Openness": "high",
+            "Conscientiousness": "low",
+            "Extraversion": "medium",
+            "Agreeableness": "low",
+            "Neuroticism": "medium"
+        }
+    },
+    "0083": {
+        "name": "Zhao Wenjie",
+        "gender": "Male",
+        "age": 36,
+        "occupation": "Zhao Wenjie is a product manager at a technology company, responsible for developing a social application. He attends multiple meetings every day, coordinating the work of the research and development, marketing, and operations departments. He excels at expressing his views but sometimes comes across as overly assertive.",
+        "health status": "He suffers from a herniated lumbar disc due to prolonged sitting, and the pain often prevents him from concentrating on work. He purchased an ergonomic chair but still feels the improvement is limited.",
+        "family members": "He lives with his wife and mother-in-law, and the three get along well. However, his mother-in-law occasionally interferes in their private life, which makes him dissatisfied.",
+        "hobbies": "He is passionate about playing esports games, with a particular fondness for MOBA titles. Although his skill level is average, he never tires of it.",
+        "personality": {
+            "Openness": "medium",
+            "Conscientiousness": "medium",
+            "Extraversion": "high",
+            "Agreeableness": "medium",
+            "Neuroticism": "high"
+        }
+    },
+    "0084": {
+        "name": "Liu Fang",
+        "gender": "Woman",
+        "age": 41,
+        "occupation": "Liu Fang is a regional manager of a chain catering enterprise, overseeing the operations of more than ten stores. She frequently travels on business to inspect the performance of branch locations and develop improvement plans. Known for her strictness, she is both respected and admired by her employees.",
+        "health status": "Her weight exceeded the standard range, and the doctor warned her that if she did not control her diet, she might develop diabetes. She began reducing her carbohydrate intake, but the results have not been significant yet.",
+        "family members": "She is raising a son alone, as her ex-husband left the family many years ago. The mother and son share a close relationship, but communication has become difficult with the onset of the son's adolescence.",
+        "hobbies": "Her greatest interest is cooking, particularly trying out regional specialty recipes. However, she rarely has the time to actually cook.",
+        "personality": {
+            "Openness": "medium",
+            "Conscientiousness": "high",
+            "Extraversion": "medium",
+            "Agreeableness": "low",
+            "Neuroticism": "medium"
+        }
+    },
+    "0085": {
+        "name": "Chen Zhigang",
+        "gender": "Male",
+        "age": 50,
+        "occupation": "Chen Zhigang is a project manager at a construction company, responsible for overseeing the construction process of large commercial complexes. He is experienced but has a quick temper and often flies into a rage when workers make mistakes.",
+        "health status": "His knee arthritis has become increasingly severe, making it excruciatingly painful for him to go up and down stairs. He has started considering whether surgical treatment is necessary.",
+        "family members": "He remarried his second wife, and each of them had a child from previous relationships. The two children couldn't stand each other and often got into arguments.",
+        "hobbies": "His only recreational activity is fishing, and he drives to the lakes in the suburbs every weekend. It is one of his ways to relieve stress.",
+        "personality": {
+            "Openness": "low",
+            "Conscientiousness": "medium",
+            "Extraversion": "low",
+            "Agreeableness": "low",
+            "Neuroticism": "high"
+        }
+    },
+    "0086": {
+        "name": "Sun Jiaqi",
+        "gender": "Woman",
+        "age": 27,
+        "occupation": "Sun Jiaqi is a new media editor responsible for writing trending news articles. She needs to browse a large amount of information daily, quickly filter out valuable content, and process it. She adapts well but is prone to anxiety.",
+        "health status": "She was recently diagnosed with a gastric ulcer, likely caused by long-term irregular eating habits. She is currently adjusting her daily routine but still finds it difficult to completely change her habits.",
+        "family members": "She has been living with her boyfriend for two years, but they have disagreements about future plans. As a result, their relationship has become strained.",
+        "hobbies": "She enjoys binge-watching TV series, particularly mystery and detective dramas. At the same time, she also likes collecting planner notebooks and stickers, using them to record her daily life.",
+        "personality": {
+            "Openness": "high",
+            "Conscientiousness": "low",
+            "Extraversion": "medium",
+            "Agreeableness": "medium",
+            "Neuroticism": "high"
+        }
+    },
+    "0087": {
+        "name": "Zhou Zhiqiang",
+        "gender": "Male",
+        "age": 39,
+        "occupation": "Zhou Zhiqiang is a sales manager at a foreign trade company, responsible for developing overseas markets. He frequently travels to different countries for business negotiations, demonstrating excellent language skills and negotiation techniques. He is driven to succeed but is extremely sensitive to failure.",
+        "health status": "His abnormal liver function indicators may be related to long-term social drinking. He recognizes the issue but excuses it as a job requirement.",
+        "family members": "He and his wife have two daughters, but there is a lack of trust between them. They nearly divorced once due to a misunderstanding, and the rift remains to this day.",
+        "hobbies": "He enjoys playing golf and believes that this sport can enhance one's personal image. However, he usually only participates in business settings.",
+        "personality": {
+            "Openness": "medium",
+            "Conscientiousness": "high",
+            "Extraversion": "high",
+            "Agreeableness": "low",
+            "Neuroticism": "high"
+        }
+    },
+    "0088": {
+        "name": "Yang Mengyao",
+        "gender": "Woman",
+        "age": 33,
+        "occupation": "Yang Mengyao is a psychological counselor who specializes in providing emotional support services for working professionals. She excels at listening and can quickly understand her clients' emotional states. However, she often feels exhausted due to excessive empathy.",
+        "health status": "Her vision has deteriorated significantly, likely due to prolonged exposure to computer screens. She purchased a pair of blue-light-blocking glasses but rarely uses them.",
+        "family members": "She and her fiancé are already engaged, but the wedding has been postponed due to work reasons. Both sets of parents have expressed some dissatisfaction about this.",
+        "hobbies": "She enjoys reading psychology books and applies the knowledge gained from them to her work. Additionally, she practices yoga to relax both her body and mind.",
+        "personality": {
+            "Openness": "high",
+            "Conscientiousness": "medium",
+            "Extraversion": "low",
+            "Agreeableness": "high",
+            "Neuroticism": "medium"
+        }
+    },
+    "0089": {
+        "name": "Wu Haitao",
+        "gender": "Male",
+        "age": 42,
+        "occupation": "Wu Haitao is the founder of an internet startup company that primarily operates an online education platform. He is passionate but under significant pressure to secure funding. He often stays up late pondering strategic directions, resulting in extremely poor sleep quality.",
+        "health status": "He was diagnosed with gallstones, and the doctor recommended surgery as soon as possible, but he was hesitant to make a decision due to concerns that the operation might affect the company's operations.",
+        "family members": "He has been separated from his wife for many years, but they have not yet filed for divorce for the sake of their child. The emotional distance from his child fills him with deep guilt.",
+        "hobbies": "He usually keeps up with industry trends by listening to podcasts and enjoys running to relieve stress. However, he only has time to exercise on weekends.",
+        "personality": {
+            "Openness": "high",
+            "Conscientiousness": "medium",
+            "Extraversion": "medium",
+            "Agreeableness": "low",
+            "Neuroticism": "high"
+        }
+    },
+    "0090": {
+        "name": "Zhang Weiqiang",
+        "gender": "Male",
+        "age": 27,
+        "occupation": "The user is an architectural designer specializing in high-end residential projects. He often works overtime to meet project deadlines and requires strong patience and communication skills when discussing requirements with clients. Although his income is substantial, he feels exhausted from long-term overwork.",
+        "health status": "In recent years, the user has experienced significant weight gain, likely due to prolonged sitting and lack of exercise. He also occasionally experiences discomfort in the lumbar spine and requires regular physical therapy to alleviate the symptoms.",
+        "family members": "The user is currently single, but their parents frequently pressure them to get married and even arrange blind dates. This interference has made them very resistant to family gatherings, and their relationship with their family has become increasingly distant.",
+        "hobbies": "The user rarely has time to cultivate hobbies and mainly relaxes by scrolling through short videos during leisure time. They once tried fitness training but gave up due to inability to persist.",
+        "personality": {
+            "Openness": "medium",
+            "Conscientiousness": "high",
+            "Extraversion": "low",
+            "Agreeableness": "low",
+            "Neuroticism": "medium"
+        }
+    },
+    "0091": {
+        "name": "Li Xiaotong",
+        "gender": "Female",
+        "age": 35,
+        "occupation": "The user is a regional manager of a coffee chain, responsible for overseeing the operations of multiple stores. She appreciates the flexibility of this job but often feels anxious when facing performance targets. At the same time, she also has to handle conflicts among employees.",
+        "health status": "The user was recently diagnosed with mild anemia, and the doctor recommended increasing iron intake and maintaining a regular schedule. Additionally, she has poor sleep quality and is prone to insomnia.",
+        "family members": "The user is raising her 5-year-old daughter alone after divorce and faces significant financial pressure. Her ex-husband is barely involved in the child's life, which fills the user with concerns about the future.",
+        "hobbies": "She loves making handmade soap and scented candles, which is her way of releasing emotions. However, due to her busy work schedule, she hasn't had time to do these things for a long time.",
+        "personality": {
+            "Openness": "medium",
+            "Conscientiousness": "high",
+            "Extraversion": "medium",
+            "Agreeableness": "high",
+            "Neuroticism": "high"
+        }
+    },
+    "0092": {
+        "name": "Wang Jianguo",
+        "gender": "Male",
+        "age": 42,
+        "occupation": "The user works as a warehouse supervisor at a logistics company, managing the daily inbound and outbound processes of hundreds of goods. His work environment is noisy and physically demanding, but his salary is barely enough to cover household expenses.",
+        "health status": "The patient suffers from chronic gastritis, and irregular eating habits have exacerbated the condition. Additionally, he has begun experiencing knee joint pain, which affects his daily activities.",
+        "family members": "The user has a son in middle school with average academic performance, and their father-son relationship is strained. His wife is a full-time homemaker, and the couple often argues over trivial matters.",
+        "hobbies": "The user's only recreational activity is playing mahjong once a week, which serves as his sole form of social interaction. Beyond this, he shows little interest in other matters.",
+        "personality": {
+            "Openness": "low",
+            "Conscientiousness": "medium",
+            "Extraversion": "low",
+            "Agreeableness": "low",
+            "Neuroticism": "medium"
+        }
+    },
+    "0093": {
+        "name": "Chen Yalin",
+        "gender": "Woman",
+        "age": 29,
+        "occupation": "The user is a freelancer primarily engaged in illustration design and brand visual packaging. Her working hours are relatively flexible, but her project opportunities are inconsistent, leading to significant income fluctuations. She aspires to gain more recognition through her personal work.",
+        "health status": "The user is generally in good health, but due to long hours of sitting and painting, she often experiences soreness in her shoulders and neck. Additionally, she lacks confidence in her appearance and has been wanting to lose weight but finds it difficult to maintain the effort.",
+        "family members": "The user lives with her elder brother and sister-in-law, helping to take care of their young nephew. Despite this, she still feels that her life is constrained and hopes to move out soon to live independently.",
+        "hobbies": "The user enjoys traveling and photography, using the camera to capture the scenery along the way. However, due to financial reasons, she hasn't been able to travel for some time.",
+        "personality": {
+            "Openness": "high",
+            "Conscientiousness": "medium",
+            "Extraversion": "medium",
+            "Agreeableness": "high",
+            "Neuroticism": "medium"
+        }
+    },
+    "0094": {
+        "name": "Liu Zhiqiang",
+        "gender": "Male",
+        "age": 38,
+        "occupation": "The user is a taxi driver who works over 12 hours daily to earn sufficient income. He is familiar with every road in the city, but this also subjects him to significant physical and mental strain.",
+        "health status": "The user has developed severe lumbar strain due to long-term sedentary habits, accompanied by mild hypertension. He occasionally experiences chest tightness but has never sought medical examination.",
+        "family members": "The couple has two children, the elder attending elementary school and the younger still in kindergarten. To afford their children's education, they live very frugally, cutting back on daily expenses.",
+        "hobbies": "The user has almost no hobbies and only wants to lie down and rest after work. The only thing that interests them is occasionally watching live football matches.",
+        "personality": {
+            "Openness": "low",
+            "Conscientiousness": "medium",
+            "Extraversion": "low",
+            "Agreeableness": "medium",
+            "Neuroticism": "high"
+        }
+    },
+    "0095": {
+        "name": "Zhao Mengyao",
+        "gender": "Woman",
+        "age": 31,
+        "occupation": "The user is a market researcher who collects consumer behavior data for the company and writes analytical reports. She possesses strong logical thinking skills, but the monotonous and tedious nature of her work has gradually dampened her enthusiasm.",
+        "health status": "The user has recently noticed a rapid decline in vision, which may be caused by prolonged staring at computer screens. She also frequently feels fatigued and suspects she might be experiencing suboptimal health syndrome.",
+        "family members": "The user has a stable relationship with her husband, but her in-laws interfere too much, which makes her feel very suppressed. She hopes to move out and live separately with her husband, but their financial situation does not allow it.",
+        "hobbies": "The user enjoys reading psychology books and hopes to improve interpersonal relationships through learning. However, her time is limited, and she often only manages to read a few pages before bed.",
+        "personality": {
+            "Openness": "high",
+            "Conscientiousness": "high",
+            "Extraversion": "low",
+            "Agreeableness": "medium",
+            "Neuroticism": "high"
+        }
+    },
+    "0096": {
+        "name": "Zhou Lifeng",
+        "gender": "Male",
+        "age": 45,
+        "occupation": "The owner of a small factory producing plastic products has faced intense market competition in recent years, leading to shrinking profit margins. As a result, he has had to personally handle business operations and secure orders. He feels both anxious and helpless.",
+        "health status": "The user has high blood pressure and is slightly overweight. He has tried dieting to lose weight but with poor results. Additionally, he smokes heavily, leading to a decline in lung function.",
+        "family members": "The user and his wife have a son and a daughter. While the family appears harmonious on the surface, the couple actually communicates very little. He devotes most of his energy to work, neglecting his family.",
+        "hobbies": "When he was young, he enjoyed fishing, but now he no longer has time for it. His greatest pastime is taking a walk after meals, during which he ponders how to solve business challenges.",
+        "personality": {
+            "Openness": "low",
+            "Conscientiousness": "high",
+            "Extraversion": "medium",
+            "Agreeableness": "low",
+            "Neuroticism": "high"
+        }
+    },
+    "0097": {
+        "name": "Sun Jingyi",
+        "gender": "Woman",
+        "age": 26,
+        "occupation": "The user is a new media operations specialist responsible for maintaining the company's social media accounts. She excels at copywriting and capturing trending topics, but the intense work pace has been causing her significant stress.",
+        "health status": "The user's immune system has weakened due to long-term sleep deprivation, leading to frequent colds and fevers. Additionally, she is experiencing some hair loss, which has further increased her anxiety.",
+        "family members": "The user is cohabiting with her boyfriend, but they have differing plans for the future. Meanwhile, her parents keep urging her to get married as soon as possible, leaving her in a dilemma.",
+        "hobbies": "She enjoys watching TV series and listening to music, which are her primary ways of relieving stress. She also once signed up for a dance class but gave up after not sticking with it for long.",
+        "personality": {
+            "Openness": "high",
+            "Conscientiousness": "medium",
+            "Extraversion": "high",
+            "Agreeableness": "medium",
+            "Neuroticism": "high"
+        }
+    },
+    "0098": {
+        "name": "Huang Zhigang",
+        "gender": "Male",
+        "age": 33,
+        "occupation": "The user is an IT engineer responsible for software development and system maintenance. He has strong technical skills but weaker teamwork abilities, with average relationships with colleagues. He prefers to complete tasks independently.",
+        "health status": "Recently, the user has been experiencing dry eyes and some stiffness in the neck. He realizes that his sedentary habits need to change but has yet to find the motivation to do so.",
+        "family members": "The user is unmarried and has a distant relationship with his parents. He has been introverted since childhood and unwilling to share his inner thoughts with his family.",
+        "hobbies": "The user's only interest is playing video games, which is his way of escaping reality. He has almost no other hobbies and is unwilling to try new things.",
+        "personality": {
+            "Openness": "low",
+            "Conscientiousness": "high",
+            "Extraversion": "low",
+            "Agreeableness": "low",
+            "Neuroticism": "medium"
+        }
+    },
+    "0099": {
+        "name": "Wu Minhui",
+        "gender": "Female",
+        "age": 36,
+        "occupation": "The user is the founder and general manager of a beauty salon, which has grown to a considerable scale after years of operation. She places great emphasis on service quality and brand image, but due to fierce industry competition, she must continually innovate.",
+        "health status": "The user is in generally good health, but due to long hours of standing at work, she has developed relatively severe varicose veins in her legs. Additionally, she often experiences mental tension, particularly when dealing with unexpected situations.",
+        "family members": "The user shares a deep bond with her husband, but due to his work commitments, he is frequently away on business trips throughout the year, leaving them with little time together. She handles all household responsibilities alone and feels isolated and helpless.",
+        "hobbies": "The user enjoys cooking, especially experimenting with various exotic cuisines. This not only satisfies her palate but also serves as an important way for her to regulate her mood.",
+        "personality": {
+            "Openness": "high",
+            "Conscientiousness": "high",
+            "Extraversion": "medium",
+            "Agreeableness": "high",
+            "Neuroticism": "medium"
+        }
+    }
+}

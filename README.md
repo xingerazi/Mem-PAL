@@ -6,9 +6,11 @@ The Appendix of this paper is present in [here](Appendix_of_Mem-PAL.pdf).
 
 ## PAL-Set Synthesis
 
-### Dataset
+### Dataset (ZH & EN)
 
-The PAL-Set can be found in the `./data_synthesis_v2/data/input.json` file. The dataset consists of a total of 100 users' dicts, with the keys being user ids. Each user dict contains two parts: `history` and `query`, which represent the history set and query set, respectively. Each set contains multiple samples, where:
+#### ZH version (Original)
+
+The Chinese version of PAL-Set can be found in the `./data_synthesis_v2/data/input.json` file. The dataset consists of a total of 100 users' dicts, with the keys being user ids. Each user dict contains two parts: `history` and `query`, which represent the history set and query set, respectively. Each set contains multiple samples, where:
 
 - `sample_id`: The id number of each sample.
 - `dialogue_timestamp`: The timestamp when the current sample dialogue occurred.
@@ -23,7 +25,9 @@ The PAL-Set can be found in the `./data_synthesis_v2/data/input.json` file. The 
 
 In addition, each user's background, trait, and situations are also provided in the `./data_synthesis_v2/data` directory.
 
-The current version of the PAL-Set is in Chinese. We plan to create and release an additional English-translated version soon.
+#### EN version (Translated by LLM)
+
+We also construct an English version of PAL-Set to facilitate use by non-Chinese speakers. We use the Deepseek-V3 to directly translate the original Chinese data, and the resulting English set can be found in the `./data_synthesis_v2/data_en` directory. Note that for the English-translated version, we have not conducted a thorough manual review of certain details, such as the accuracy of field names in the JSON files or the fidelity of specific content translations. Therefore, we cannot guarantee that the English version is completely free of translation errors or inaccuracies.
 
 ### Data Synthesis Pipeline
 
