@@ -1,0 +1,745 @@
+[
+  {
+    "user_id": "0000",
+    "split": "history",
+    "sample_id": "0000_sample0",
+    "operations": [
+      {
+        "op": "add",
+        "category": "work",
+        "content": "用户从事需要频繁与客户沟通和协调项目的工作"
+      },
+      {
+        "op": "add",
+        "category": "health",
+        "content": "用户长期关注胃部健康并进行医疗与饮食管理"
+      },
+      {
+        "op": "add",
+        "category": "family",
+        "content": "用户重视家庭陪伴，愿意为孩子安排时间，经常一起进行户外活动"
+      },
+      {
+        "op": "add",
+        "category": "leisure",
+        "content": "用户长期保持跑步等运动习惯，并通过休闲活动来放松"
+      }
+    ]
+  },
+  {
+    "user_id": "0000",
+    "split": "history",
+    "sample_id": "0000_sample1",
+    "operations": [
+      {
+        "op": "add",
+        "category": "health",
+        "content": "用户长期关注饮食健康，倾向于选择低油低盐的食物"
+      },
+      {
+        "op": "update",
+        "category": "work",
+        "id": "wk1",
+        "content": "用户从事需要频繁与客户沟通、协调项目并进行数据录入的工作"
+      }
+    ]
+  },
+  {
+    "user_id": "0000",
+    "split": "history",
+    "sample_id": "0000_sample2",
+    "operations": [
+      {
+        "op": "add",
+        "category": "work",
+        "content": "用户长期负责团队沟通与项目协调，定期参与销售计划讨论"
+      },
+      {
+        "op": "update",
+        "category": "family",
+        "id": "fm1",
+        "content": "用户重视家庭陪伴，愿意为孩子安排时间，经常一起进行户外活动和音乐互动"
+      },
+      {
+        "op": "add",
+        "category": "leisure",
+        "content": "用户长期保持拉伸和健身等运动习惯"
+      }
+    ]
+  },
+  {
+    "user_id": "0000",
+    "split": "history",
+    "sample_id": "0000_sample3",
+    "operations": [
+      {
+        "op": "add",
+        "category": "health",
+        "content": "用户长期关注饮食健康，倾向于选择高蛋白、低脂肪的食物"
+      },
+      {
+        "op": "update",
+        "category": "work",
+        "id": "wk2",
+        "content": "用户长期负责团队沟通与项目协调，定期参与销售计划讨论及客户需求反馈"
+      },
+      {
+        "op": "update",
+        "category": "family",
+        "id": "fm1",
+        "content": "用户重视家庭陪伴，愿意为孩子安排时间，经常一起进行户外活动、音乐互动和家庭烹饪"
+      },
+      {
+        "op": "add",
+        "category": "leisure",
+        "content": "用户长期保持健康饮食与运动相结合的生活方式"
+      }
+    ]
+  },
+  {
+    "user_id": "0000",
+    "split": "history",
+    "sample_id": "0000_sample4",
+    "operations": [
+      {
+        "op": "add",
+        "category": "leisure",
+        "content": "用户长期关注健康饮食与运动相结合的生活方式"
+      },
+      {
+        "op": "update",
+        "category": "health",
+        "id": "hl1",
+        "content": "用户长期关注胃部健康并进行医疗与饮食管理，定期购买胃药"
+      }
+    ]
+  },
+  {
+    "user_id": "0000",
+    "split": "history",
+    "sample_id": "0000_sample5",
+    "operations": [
+      {
+        "op": "update",
+        "category": "work",
+        "id": "wk2",
+        "content": "用户长期负责团队沟通与项目协调，定期参与销售计划讨论及客户需求反馈，并积极创建客户拜访日程"
+      },
+      {
+        "op": "add",
+        "category": "leisure",
+        "content": "用户长期倾向于通过家庭活动来增进亲密关系，例如一起做手工模型"
+      },
+      {
+        "op": "add",
+        "category": "health",
+        "content": "用户长期关注通过深呼吸练习来缓解压力"
+      }
+    ]
+  },
+  {
+    "user_id": "0000",
+    "split": "history",
+    "sample_id": "0000_sample6",
+    "operations": [
+      {
+        "op": "update",
+        "category": "health",
+        "id": "hl1",
+        "content": "用户长期关注胃部健康并进行医疗与饮食管理，定期记录胃痛症状并设置服药提醒"
+      },
+      {
+        "op": "update",
+        "category": "family",
+        "id": "fm1",
+        "content": "用户重视家庭陪伴，愿意为孩子安排时间，经常一起进行户外活动、讨论教育问题和家庭活动"
+      },
+      {
+        "op": "update",
+        "category": "leisure",
+        "id": "ls1",
+        "content": "用户长期保持跑步等运动习惯，并通过休闲活动来放松，记录运动数据"
+      }
+    ]
+  },
+  {
+    "user_id": "0000",
+    "split": "history",
+    "sample_id": "0000_sample7",
+    "operations": [
+      {
+        "op": "update",
+        "category": "health",
+        "id": "hl1",
+        "content": "用户长期关注胃部健康并进行医疗与饮食管理，定期记录胃痛症状并设置服药提醒，近期因饮食不当出现胃部不适。"
+      },
+      {
+        "op": "update",
+        "category": "leisure",
+        "id": "ls4",
+        "content": "用户长期关注健康饮食与运动相结合的生活方式，近期通过冥想和运动来缓解压力。"
+      }
+    ]
+  },
+  {
+    "user_id": "0000",
+    "split": "history",
+    "sample_id": "0000_sample8",
+    "operations": [
+      {
+        "op": "update",
+        "category": "work",
+        "id": "wk1",
+        "content": "用户从事需要频繁与客户沟通、协调项目并进行数据录入的工作，近期参与了华东地区新产品的推广策略讨论。"
+      },
+      {
+        "op": "update",
+        "category": "health",
+        "id": "hl1",
+        "content": "用户长期关注胃部健康并进行医疗与饮食管理，近期通过药店小程序购买胃药。"
+      },
+      {
+        "op": "update",
+        "category": "family",
+        "id": "fm1",
+        "content": "用户重视家庭陪伴，愿意为孩子安排时间，经常一起进行户外活动、讨论教育问题和家庭活动，近期与儿子讨论足球比赛。"
+      },
+      {
+        "op": "update",
+        "category": "leisure",
+        "id": "ls5",
+        "content": "用户长期倾向于通过家庭活动来增进亲密关系，例如一起观看足球比赛和讨论旅行安排。"
+      }
+    ]
+  },
+  {
+    "user_id": "0000",
+    "split": "history",
+    "sample_id": "0000_sample9",
+    "operations": [
+      {
+        "op": "update",
+        "category": "health",
+        "id": "hl1",
+        "content": "用户长期关注胃部健康并进行医疗与饮食管理，近期因饮食不规律导致胃部不适。"
+      },
+      {
+        "op": "update",
+        "category": "leisure",
+        "id": "ls1",
+        "content": "用户长期保持跑步等运动习惯，并通过休闲活动来放松，记录运动数据，近期参与了健身活动。"
+      }
+    ]
+  },
+  {
+    "user_id": "0000",
+    "split": "history",
+    "sample_id": "0000_sample10",
+    "operations": [
+      {
+        "op": "update",
+        "category": "family",
+        "id": "fm1",
+        "content": "用户重视家庭陪伴，愿意为孩子安排时间，经常一起进行户外活动、讨论教育问题和家庭活动，近期与儿子讨论足球比赛和带儿子去公园玩。"
+      },
+      {
+        "op": "update",
+        "category": "leisure",
+        "id": "ls5",
+        "content": "用户长期倾向于通过家庭活动来增进亲密关系，例如一起观看足球比赛、讨论旅行安排和带儿子去公园玩。"
+      }
+    ]
+  },
+  {
+    "user_id": "0000",
+    "split": "history",
+    "sample_id": "0000_sample11",
+    "operations": [
+      {
+        "op": "add",
+        "category": "leisure",
+        "content": "用户长期关注居家健身，通过哑铃训练和观看健身视频来保持身体健康"
+      },
+      {
+        "op": "update",
+        "category": "family",
+        "id": "fm1",
+        "content": "用户重视家庭陪伴，愿意为孩子安排时间，经常一起进行户外活动、讨论教育问题和家庭活动，近期与儿子讨论亲子游和带儿子去公园玩。"
+      }
+    ]
+  },
+  {
+    "user_id": "0000",
+    "split": "history",
+    "sample_id": "0000_sample12",
+    "operations": [
+      {
+        "op": "update",
+        "category": "health",
+        "id": "hl1",
+        "content": "用户长期关注胃部健康并进行医疗与饮食管理，近期因饮食不规律导致胃部不适，并在日常饮食中倾向于选择清淡、低油低盐的食物。"
+      },
+      {
+        "op": "add",
+        "category": "leisure",
+        "content": "用户长期关注健康饮食与运动相结合的生活方式，近期通过慢跑和健康饮食来保持身体健康。"
+      }
+    ]
+  },
+  {
+    "user_id": "0000",
+    "split": "history",
+    "sample_id": "0000_sample13",
+    "operations": [
+      {
+        "op": "update",
+        "category": "health",
+        "id": "hl1",
+        "content": "用户长期关注胃部健康并进行医疗与饮食管理，近期通过减少油脂摄入来改善胃部健康。"
+      }
+    ]
+  },
+  {
+    "user_id": "0000",
+    "split": "history",
+    "sample_id": "0000_sample14",
+    "operations": [
+      {
+        "op": "update",
+        "category": "health",
+        "id": "hl1",
+        "content": "用户长期关注胃部健康并进行医疗与饮食管理，近期记录胃部不适并服药情况。"
+      }
+    ]
+  },
+  {
+    "user_id": "0000",
+    "split": "history",
+    "sample_id": "0000_sample15",
+    "operations": [
+      {
+        "op": "update",
+        "category": "health",
+        "id": "hl1",
+        "content": "用户长期关注胃部健康并进行医疗与饮食管理，近期记录胃部不适并服药情况，且搜索了胃痛缓解方法。"
+      },
+      {
+        "op": "update",
+        "category": "leisure",
+        "id": "ls1",
+        "content": "用户长期保持跑步等运动习惯，并通过休闲活动来放松，记录运动数据，近期参与了健身活动，且在运动手环进行了步数统计。"
+      }
+    ]
+  },
+  {
+    "user_id": "0000",
+    "split": "history",
+    "sample_id": "0000_sample16",
+    "operations": [
+      {
+        "op": "update",
+        "category": "work",
+        "id": "wk2",
+        "content": "用户长期负责团队沟通与项目协调，定期参与销售计划讨论及客户需求反馈，并积极创建客户拜访日程，近期记录了与客户的洽谈要点并保存会议纪要。"
+      },
+      {
+        "op": "update",
+        "category": "health",
+        "id": "hl1",
+        "content": "用户长期关注胃部健康并进行医疗与饮食管理，近期购买了胃药并记录了胃部不适情况。"
+      },
+      {
+        "op": "update",
+        "category": "family",
+        "id": "fm1",
+        "content": "用户重视家庭陪伴，愿意为孩子安排时间，经常一起进行户外活动、讨论教育问题和家庭活动，近期与妻子讨论孩子的学习计划。"
+      },
+      {
+        "op": "update",
+        "category": "leisure",
+        "id": "ls4",
+        "content": "用户长期关注健康饮食与运动相结合的生活方式，近期通过冥想和运动来缓解压力，并记录了深呼吸训练。"
+      }
+    ]
+  },
+  {
+    "user_id": "0000",
+    "split": "history",
+    "sample_id": "0000_sample17",
+    "operations": [
+      {
+        "op": "update",
+        "category": "health",
+        "id": "hl1",
+        "content": "用户长期关注胃部健康并进行医疗与饮食管理，近期注意到体检结果显示血压偏高，并在饮食和作息上进行调整。"
+      },
+      {
+        "op": "add",
+        "category": "family",
+        "content": "用户重视家庭陪伴，愿意为孩子安排时间，经常一起进行亲子活动，例如散步和参加兴趣班。"
+      }
+    ]
+  },
+  {
+    "user_id": "0000",
+    "split": "history",
+    "sample_id": "0000_sample18",
+    "operations": [
+      {
+        "op": "update",
+        "category": "health",
+        "id": "hl1",
+        "content": "用户长期关注胃部健康并进行医疗与饮食管理，近期注意到体检结果显示血压偏高，并在饮食和作息上进行调整，且浏览了健康网站的文章，主要内容为：如何通过饮食调节胃部健康。"
+      },
+      {
+        "op": "update",
+        "category": "work",
+        "id": "wk2",
+        "content": "用户长期负责团队沟通与项目协调，定期参与销售计划讨论及客户需求反馈，并积极创建客户拜访日程，近期记录了与客户的洽谈要点并保存会议纪要，且发布了客户提出的合作需求及后续跟进计划。"
+      },
+      {
+        "op": "update",
+        "category": "family",
+        "id": "fm2",
+        "content": "用户重视家庭陪伴，愿意为孩子安排时间，经常一起进行亲子活动，例如散步和参加兴趣班，近期与妻子讨论孩子的学习计划，并询问儿子的作业情况。"
+      },
+      {
+        "op": "update",
+        "category": "leisure",
+        "id": "ls1",
+        "content": "用户长期保持跑步等运动习惯，并通过休闲活动来放松，记录运动数据，近期参与了健身活动，且在跑步机进行了运动数据记录操作：跑步时长20分钟，平均速度8km/h。"
+      }
+    ]
+  },
+  {
+    "user_id": "0000",
+    "split": "history",
+    "sample_id": "0000_sample19",
+    "operations": [
+      {
+        "op": "update",
+        "category": "health",
+        "id": "hl1",
+        "content": "用户长期关注胃部健康并进行医疗与饮食管理，近期记录了胃部疼痛指数中等，并在饮食和作息上进行调整。"
+      },
+      {
+        "op": "update",
+        "category": "family",
+        "id": "fm1",
+        "content": "用户重视家庭陪伴，愿意为孩子安排时间，经常一起进行户外活动、讨论教育问题和家庭活动，近期与妻子讨论孩子的学习计划，并计划周末一起陪孩子去图书馆。"
+      }
+    ]
+  },
+  {
+    "user_id": "0000",
+    "split": "history",
+    "sample_id": "0000_sample20",
+    "operations": [
+      {
+        "op": "update",
+        "category": "health",
+        "id": "hl1",
+        "content": "用户长期关注胃部健康并进行医疗与饮食管理，近期记录了胃部疼痛指数中等，并在饮食和作息上进行调整，且已购买胃药以辅助治疗。"
+      },
+      {
+        "op": "update",
+        "category": "leisure",
+        "id": "ls1",
+        "content": "用户长期保持跑步等运动习惯，并通过休闲活动来放松，记录运动数据，近期参与了健身活动，且在跑步机进行了运动数据记录操作：跑步时长20分钟，平均速度8km/h，并新增健身房锻炼时间。"
+      },
+      {
+        "op": "update",
+        "category": "family",
+        "id": "fm1",
+        "content": "用户重视家庭陪伴，愿意为孩子安排时间，经常一起进行户外活动、讨论教育问题和家庭活动，近期与妻子讨论孩子的学习计划，并计划周末一起陪孩子去图书馆，且近期家庭关系有点紧张，可能需要一些空间冷静一下。"
+      }
+    ]
+  },
+  {
+    "user_id": "0000",
+    "split": "history",
+    "sample_id": "0000_sample21",
+    "operations": [
+      {
+        "op": "update",
+        "category": "health",
+        "id": "hl1",
+        "content": "用户长期关注胃部健康并进行医疗与饮食管理，近期记录了胃部不适状态，并已完成消化科挂号及处方取药。"
+      },
+      {
+        "op": "add",
+        "category": "leisure",
+        "content": "用户长期关注摄影，近期购买了摄影基础课程以提升技能。"
+      }
+    ]
+  },
+  {
+    "user_id": "0000",
+    "split": "history",
+    "sample_id": "0000_sample22",
+    "operations": [
+      {
+        "op": "update",
+        "category": "family",
+        "id": "fm1",
+        "content": "用户重视家庭陪伴，愿意为孩子安排时间，经常一起进行户外活动、讨论教育问题和家庭活动，近期与妻子讨论孩子的学习计划，并计划周末一起陪孩子去公园或博物馆，且近期家庭关系有点紧张，可能需要一些空间冷静一下。"
+      },
+      {
+        "op": "update",
+        "category": "leisure",
+        "id": "ls5",
+        "content": "用户长期倾向于通过家庭活动来增进亲密关系，例如一起观看足球比赛、讨论旅行安排和带儿子去公园或博物馆玩。"
+      }
+    ]
+  },
+  {
+    "user_id": "0000",
+    "split": "history",
+    "sample_id": "0000_sample23",
+    "operations": [
+      {
+        "op": "add",
+        "category": "leisure",
+        "content": "用户长期关注亲子活动，并愿意为孩子安排时间进行手工制作和其他家庭活动"
+      },
+      {
+        "op": "update",
+        "category": "family",
+        "id": "fm1",
+        "content": "用户重视家庭陪伴，愿意为孩子安排时间，经常一起进行户外活动、讨论教育问题和家庭活动，近期与妻子讨论孩子的学习计划，并计划周末一起陪孩子去公园或博物馆，且近期家庭关系有点紧张，可能需要一些空间冷静一下，用户还记录了与孩子的亲子活动。"
+      }
+    ]
+  },
+  {
+    "user_id": "0000",
+    "split": "history",
+    "sample_id": "0000_sample24",
+    "operations": [
+      {
+        "op": "update",
+        "category": "health",
+        "id": "hl2",
+        "content": "用户长期关注饮食健康，倾向于选择低油低盐和低热量的食物"
+      },
+      {
+        "op": "update",
+        "category": "health",
+        "id": "hl3",
+        "content": "用户长期关注饮食健康，倾向于选择高蛋白、低脂肪和低热量的食物"
+      },
+      {
+        "op": "update",
+        "category": "leisure",
+        "id": "ls1",
+        "content": "用户长期保持跑步、步行等运动习惯，并通过休闲活动来放松，记录运动数据"
+      }
+    ]
+  },
+  {
+    "user_id": "0000",
+    "split": "history",
+    "sample_id": "0000_sample25",
+    "operations": [
+      {
+        "op": "add",
+        "category": "leisure",
+        "content": "用户长期倾向于通过家庭活动增进亲密关系，例如一起观看电影和玩桌游。"
+      }
+    ]
+  },
+  {
+    "user_id": "0000",
+    "split": "history",
+    "sample_id": "0000_sample26",
+    "operations": [
+      {
+        "op": "update",
+        "category": "health",
+        "id": "hl1",
+        "content": "用户长期关注胃部健康并进行医疗与饮食管理，近期记录了胃部不适症状，并已完成消化科挂号及处方取药。"
+      },
+      {
+        "op": "add",
+        "category": "leisure",
+        "content": "用户长期关注冥想音乐以缓解压力，并记录了相关音乐播放。"
+      }
+    ]
+  },
+  {
+    "user_id": "0000",
+    "split": "history",
+    "sample_id": "0000_sample27",
+    "operations": [
+      {
+        "op": "update",
+        "category": "health",
+        "id": "hl2",
+        "content": "用户长期关注饮食健康，倾向于选择低油低盐、低热量和高蛋白、低脂肪的食物"
+      },
+      {
+        "op": "update",
+        "category": "leisure",
+        "id": "ls5",
+        "content": "用户长期倾向于通过家庭活动来增进亲密关系，例如一起观看动画电影、讨论旅行安排和带儿子去公园或博物馆玩。"
+      }
+    ]
+  },
+  {
+    "user_id": "0000",
+    "split": "history",
+    "sample_id": "0000_sample28",
+    "operations": [
+      {
+        "op": "update",
+        "category": "work",
+        "id": "wk2",
+        "content": "用户长期负责团队沟通与项目协调，定期参与销售计划讨论及客户需求反馈，并积极创建客户拜访日程，近期记录了与客户的洽谈要点并保存会议纪要，且发布了客户提出的合作需求及后续跟进计划，用户还创建了跨部门沟通会议和团队总结会议日程，持续关注团队协作效率。"
+      },
+      {
+        "op": "update",
+        "category": "health",
+        "id": "hl2",
+        "content": "用户长期关注饮食健康，倾向于选择低油低盐、低热量和高蛋白、低脂肪的食物，并在日常饮食中记录热量摄入。"
+      },
+      {
+        "op": "update",
+        "category": "family",
+        "id": "fm1",
+        "content": "用户重视家庭陪伴，愿意为孩子安排时间，经常一起进行户外活动、讨论教育问题和家庭活动，近期与妻子讨论孩子的学习计划，并计划周末一起陪孩子去公园或博物馆，且近期家庭关系有点紧张，可能需要一些空间冷静一下，用户还记录了与孩子的亲子活动，并共同制定家庭教育计划。"
+      },
+      {
+        "op": "update",
+        "category": "leisure",
+        "id": "ls5",
+        "content": "用户长期倾向于通过家庭活动来增进亲密关系，例如一起观看动画电影、讨论旅行安排和带儿子去公园或博物馆玩，近期还浏览了适合全家参与的桌游推荐。"
+      }
+    ]
+  },
+  {
+    "user_id": "0000",
+    "split": "history",
+    "sample_id": "0000_sample29",
+    "operations": [
+      {
+        "op": "update",
+        "category": "work",
+        "id": "wk2",
+        "content": "用户长期负责团队沟通与项目协调，定期参与销售计划讨论及客户需求反馈，并积极创建客户拜访日程，近期记录了与客户的洽谈要点并保存会议纪要，且发布了客户提出的合作需求及后续跟进计划，用户还创建了跨部门沟通会议和团队总结会议日程，持续关注团队协作效率，并向助理发送消息整理会议记录。"
+      },
+      {
+        "op": "add",
+        "category": "leisure",
+        "content": "用户长期安排家庭电影时间，愿意与家人一起观看电影以增进亲密关系。"
+      }
+    ]
+  },
+  {
+    "user_id": "0000",
+    "split": "query",
+    "sample_id": "0000_sample30",
+    "operations": [
+      {
+        "op": "update",
+        "category": "work",
+        "id": "wk2",
+        "content": "用户长期负责团队沟通与项目协调，定期参与销售计划讨论及客户需求反馈，并积极创建客户拜访日程，近期记录了与客户的洽谈要点并保存会议纪要，且发布了客户提出的合作需求及后续跟进计划，用户还创建了跨部门沟通会议和团队总结会议日程，持续关注团队协作效率，并向助理发送消息整理会议记录，近期参与了年底冲刺阶段销售策略调整的会议。"
+      },
+      {
+        "op": "add",
+        "category": "health",
+        "content": "用户长期关注饮食健康，倾向于选择低油低盐、低热量和高蛋白、低脂肪的食物，并在日常饮食中记录热量摄入，近期通过外卖选择了健康的沙拉和饮品。"
+      },
+      {
+        "op": "add",
+        "category": "family",
+        "content": "用户重视家庭陪伴，愿意为孩子安排时间，经常一起进行亲子活动，例如辅导学习和讨论教育问题，近期与妻子共同辅导孩子的数学作业。"
+      },
+      {
+        "op": "add",
+        "category": "leisure",
+        "content": "用户长期保持运动习惯，近期通过智能手环记录了快走数据，且倾向于通过运动和健康饮食来缓解压力。"
+      }
+    ]
+  },
+  {
+    "user_id": "0000",
+    "split": "query",
+    "sample_id": "0000_sample31",
+    "operations": [
+      {
+        "op": "update",
+        "category": "work",
+        "id": "wk2",
+        "content": "用户长期负责团队沟通与项目协调，定期参与销售计划讨论及客户需求反馈，并积极创建客户拜访日程，近期记录了与客户的洽谈要点并保存会议纪要，且发布了客户提出的合作需求及后续跟进计划，用户还创建了跨部门沟通会议和团队总结会议日程，持续关注团队协作效率，并向助理发送消息整理会议记录，近期参与了年底冲刺阶段销售策略调整的会议，并更新了团队项目进度表和任务责任分配表。"
+      }
+    ]
+  },
+  {
+    "user_id": "0000",
+    "split": "query",
+    "sample_id": "0000_sample32",
+    "operations": [
+      {
+        "op": "update",
+        "category": "work",
+        "id": "wk1",
+        "content": "用户从事需要频繁与客户沟通、协调项目并进行数据录入的工作，近期处理了多封来自客户的邮件，并参与了项目安排的确认。"
+      },
+      {
+        "op": "update",
+        "category": "leisure",
+        "id": "ls5",
+        "content": "用户长期倾向于通过家庭活动来增进亲密关系，例如一起观看动画电影、讨论旅行安排和带儿子去公园或博物馆玩，近期还计划了科技馆参观并选择了适合全家参与的活动。"
+      },
+      {
+        "op": "update",
+        "category": "health",
+        "id": "hl4",
+        "content": "用户长期关注通过深呼吸练习来缓解压力，近期记录了深呼吸训练的数据。"
+      }
+    ]
+  },
+  {
+    "user_id": "0000",
+    "split": "query",
+    "sample_id": "0000_sample33",
+    "operations": [
+      {
+        "op": "update",
+        "category": "work",
+        "id": "wk2",
+        "content": "用户长期负责团队沟通与项目协调，定期参与销售计划讨论及客户需求反馈，并积极创建客户拜访日程，近期记录了与客户的洽谈要点并保存会议纪要，且发布了客户提出的合作需求及后续跟进计划，用户还创建了跨部门沟通会议和团队总结会议日程，持续关注团队协作效率，并向助理发送消息整理会议记录，近期参与了年底冲刺阶段销售策略调整的会议，并更新了团队项目进度表和任务责任分配表，用户还创建了高层战略会议、客户拜访及部门例会的日程安排。"
+      },
+      {
+        "op": "update",
+        "category": "family",
+        "id": "fm1",
+        "content": "用户重视家庭陪伴，愿意为孩子安排时间，经常一起进行户外活动、讨论教育问题和家庭活动，近期与妻子讨论孩子的学习计划，并计划周末一起陪孩子去公园或博物馆，且近期家庭关系有点紧张，可能需要一些空间冷静一下，用户还记录了与孩子的亲子活动，并共同制定家庭教育计划，近期还与妻子讨论孩子的教育问题。"
+      },
+      {
+        "op": "update",
+        "category": "leisure",
+        "id": "ls5",
+        "content": "用户长期倾向于通过家庭活动来增进亲密关系，例如一起观看动画电影、讨论旅行安排和带儿子去公园或博物馆玩，近期还计划了科技馆参观并选择了适合全家参与的活动，用户还与儿子一起玩桌游。"
+      }
+    ]
+  },
+  {
+    "user_id": "0000",
+    "split": "query",
+    "sample_id": "0000_sample34",
+    "operations": [
+      {
+        "op": "add",
+        "category": "leisure",
+        "content": "用户长期关注家庭活动与亲子互动，愿意为孩子安排时间进行共同创作和娱乐活动。"
+      },
+      {
+        "op": "update",
+        "category": "health",
+        "id": "hl2",
+        "content": "用户长期关注饮食健康，倾向于选择低油低盐、低热量和高蛋白、低脂肪的食物，并在日常饮食中记录热量摄入，近期通过外卖选择了健康的沙拉和饮品，且在家庭饮食中提醒家人少放盐。"
+      }
+    ]
+  }
+]
