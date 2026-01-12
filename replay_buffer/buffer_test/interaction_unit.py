@@ -44,20 +44,16 @@ class InteractionUnit:
     Minimal replayable unit for personalization learning.
     """
     iu_id: str
+    person_id: str          
 
-    # Coarse semantic scope
     topic: str
 
-    # Fine-grained natural language context
     user_query: str
 
-    # Full interaction trajectory (raw, ordered)
     trajectory: List[Any]
 
-    # Single unified user signal
     user_feedback: UserFeedback
 
-    # Learning signal (ONE sentence or None)
     insight: Optional[str]
 
     timestamp: str

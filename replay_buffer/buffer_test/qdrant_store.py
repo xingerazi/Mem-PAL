@@ -11,7 +11,7 @@ from qdrant_client.models import (
     MatchValue,
     Range,
 )
-
+import uuid
 logger = logging.getLogger(__name__)
 
 
@@ -134,9 +134,9 @@ class QdrantStore:
         else:
             if not isinstance(vector, list):
                 raise ValueError("Single-vector collection requires List[float]")
-
+        point_id = uuid.uuid5(uuid.NAMESPACE_DNS, iu_id)
         point = PointStruct(
-            id=iu_id,
+            id=str(point_id),
             vector=vector,
             payload=payload,
         )

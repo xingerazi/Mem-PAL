@@ -11,9 +11,11 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 
-UNITS_PATH = Path("replay_buffer/buffer_test/0000_units.jsonl")
+UNITS_PATH = Path(
+    r"E:\gitmyrepo\mem_pal_self\Mem-PAL\replay_buffer\interaction_units\0000_units.jsonl"
+)
 
-COLLECTION_NAME = "mem_pal_test_v2"
+COLLECTION_NAME = "mem_pal_test_v4"
 VECTOR_DIM = 1536
 EMBEDDING_MODEL = "text-embedding-3-small"
 
@@ -35,6 +37,13 @@ def main():
 
     client = OpenAI()
 
+    if not UNITS_PATH.exists():
+        raise FileNotFoundError(
+        f"Units file not found: {UNITS_PATH.resolve()}"
+        )
+
+    logger.info(f"Loading units from: {UNITS_PATH.resolve()}")
+
     store = IUVectorStore(
         collection_name=COLLECTION_NAME,
         vector_dim=VECTOR_DIM,
@@ -54,7 +63,7 @@ def main():
     logger.info(f"Finished. Total inserted: {count}")
 
     # 简单验证一次 search
-    test_query = "我最近在减肥，晚饭吃什么比较好？"
+    test_query = "我最近胃有点难受，怎么办？"
     hits = store.search_by_query(test_query, limit=5)
 
     logger.info("Sample search results:")

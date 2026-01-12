@@ -8,9 +8,6 @@ from typing import Dict, Any, Iterable, List
 from dotenv import load_dotenv
 from openai import OpenAI
 
-# ======================================================
-# 项目内导入（⚠️ 根据你工程结构，必要时微调路径）
-# ======================================================
 from ..prompt import InteractionUnit_Build_Prompt
 from .interaction_unit import InteractionUnit, UserFeedback, UserFeedbackType
 # ↑ 如果你的 dataclass 不在 schemas.py
@@ -33,10 +30,6 @@ def call_llm(client: OpenAI, prompt: str, model: str) -> str:
     )
     return resp.choices[0].message.content
 
-
-# =========================
-# JSON 解析 & 校验
-# =========================
 
 def extract_json(text: str) -> Dict[str, Any]:
     text = text.strip()
@@ -61,10 +54,6 @@ def validate_llm_output(d: Dict[str, Any]) -> Dict[str, Any]:
 
     return d
 
-
-# =========================
-# IU 相关
-# =========================
 
 def make_iu_id(file_id: str, sample_idx: int, segment_idx: int) -> str:
     """
@@ -92,9 +81,6 @@ def build_interaction_unit(
     )
 
 
-# =========================
-# 数据生成器（核心！）
-# =========================
 
 def iter_interaction_units(
     data: Dict[str, Any],
@@ -129,9 +115,6 @@ def iter_interaction_units(
                 )
 
 
-# =========================
-# 写入（streaming）
-# =========================
 
 def write_units_jsonl(units: Iterable[InteractionUnit], output_path: str):
     os.makedirs(os.path.dirname(output_path), exist_ok=True)

@@ -6,7 +6,6 @@ from typing import Dict, Any, List, Optional
 from openai import OpenAI
 
 from qdrant_store import QdrantStore  # 你已有的
-from .interaction_unit import InteractionUnit
 logger = logging.getLogger(__name__)
 
 
@@ -54,27 +53,15 @@ class IUVectorStore:
         return resp.data[0].embedding
 
     # =========================
-    # Build texts
-    # =========================
-    def _build_user_query_text(self, unit: Dict[str, Any]) -> Optional[str]:
-        text = str(unit.get("user_query", "")).strip()
-        return text or None
-
-
-    def _build_topic_text(self, unit: Dict[str, Any]) -> Optional[str]:
-        text = str(unit.get("topic", "")).strip()
-        return text or None
-
-    # =========================
     # Public API
     # =========================
 
-    def add_unit(self, unit: InteractionUnit):
-        iu_id = unit.iu_id
+    def add_unit(self, unit: Dict[str, Any]):
+        iu_id = unit["iu_id"]
 
         # 只 embed 真实存在、且你明确想用来检索的东西
-        uq_text = unit.user_query.strip()
-        topic_text = unit.topic.strip()
+        uq_text = unit["user_query"].strip()
+        topic_text = unit["topic"].strip()
 
         if not uq_text or not topic_text:
             logger.warning(f"Skip IU {iu_id}: empty user_query or topic")
@@ -84,11 +71,12 @@ class IUVectorStore:
         topic_vec = self._embed(topic_text)
 
         payload = {
-            "topic": unit.topic,
-            "user_feedback": unit.user_feedback.type,
-            "timestamp": unit.timestamp,
-            "user_query": unit.user_query,
-            "insight": unit.insight,
+            "person_id": unit["person_id"],
+            "topic": unit["topic"],
+            "user_feedback": unit["user_feedback"]["type"],
+            "timestamp": unit["timestamp"],
+            "user_query": unit["user_query"],
+            "insight": unit.get("insight"),
         }
 
         self.vectorstore.upsert(
@@ -111,9 +99,11 @@ class IUVectorStore:
         """
         vec = self._embed(query_text)
 
-        return self.vectorstore.search(
+        results = self.vectorstore.search(
             query_vector=vec,
             using="user_query",
             limit=limit,
             filters=filters,
         )
+
+        return results  
